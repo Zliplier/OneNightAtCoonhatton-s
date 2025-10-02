@@ -1455,3 +1455,6 @@ The following settings have been applied:
 [2025.10.02-18.19.01:837][744]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Player/BP_PlayerCharacter_Auto1
 [2025.10.02-18.19.01:839][744]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/BP_PlayerCharacter_Auto1DE3E3D30495B1184722EA3A50CD47C38.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/Autosaves/Game/Player/BP_PlayerCharacter_Auto1.uasset'
 [2025.10.02-18.19.01:840][744]LogFileHelpers: Auto-saving content packages took 0.050
+[2025.10.02-18.21.17:486][277]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1048.591553
+[2025.10.02-18.21.18:488][280]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.02-18.21.18:488][280]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1049.258179, Update Interval: 335.312958
