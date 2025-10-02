@@ -3418,3 +3418,6 @@ The following settings have been applied:
 [2025.10.02-19.59.43:584][410]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StylizedKitchen/Meshes/MI_KitchenUstensil_Auto1
 [2025.10.02-19.59.43:584][410]LogSavePackage: Moving '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/MI_KitchenUstensil_Auto14454E1BA4BDF646C063DB1A9026A6099.tmp' to '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/Autosaves/Game/StylizedKitchen/Meshes/MI_KitchenUstensil_Auto1.uasset'
 [2025.10.02-19.59.43:585][410]LogFileHelpers: Auto-saving content packages took 0.126
+[2025.10.02-20.03.27:132][276]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3558.223145
+[2025.10.02-20.03.28:133][279]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.02-20.03.28:133][279]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3558.889893, Update Interval: 348.724030
