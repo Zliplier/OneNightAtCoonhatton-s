@@ -3431,3 +3431,606 @@ The following settings have been applied:
 [2025.10.02-20.22.10:249][458]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4681.345215
 [2025.10.02-20.22.11:582][462]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.10.02-20.22.11:582][462]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4682.345703, Update Interval: 333.198029
+[2025.10.02-20.28.33:651][608]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5064.761230
+[2025.10.02-20.28.34:651][611]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.02-20.28.34:651][611]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5065.426758, Update Interval: 327.441010
+[2025.10.02-20.32.19:916][ 59]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.10.02-20.32.19:938][ 59]LogContentBrowser: Creating deferred item: NewFolder
+[2025.10.02-20.32.19:947][ 60]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.10.02-20.32.25:564][734]LogContentBrowser: Attempting asset rename: NewFolder -> TestFab
+[2025.10.02-20.32.25:564][734]LogContentBrowser: End creating deferred item NewFolder
+[2025.10.02-20.32.33:948][338]LogSlate: Window 'New Level' being destroyed
+[2025.10.02-20.32.33:957][338]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.10.02-20.32.33:964][338]LightingResults: New page: Lighting Build
+[2025.10.02-20.32.33:964][338]LoadErrors: New page: Loading map: Template_Default.umap
+[2025.10.02-20.32.33:982][338]LogWorld: UWorld::CleanupWorld for DebugMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.02-20.32.33:984][338]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.02-20.32.33:986][338]MapCheck: New page: Map Check
+[2025.10.02-20.32.33:986][338]LightingResults: New page: Lighting Build
+[2025.10.02-20.32.33:990][338]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.02-20.32.34:000][338]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.10.02-20.32.34:003][338]LogWorld: UWorld::CleanupWorld for AssetsOverview, bSessionEnded=true, bCleanupResources=true
+[2025.10.02-20.32.34:005][338]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.02-20.32.34:009][338]LogWorld: UWorld::CleanupWorld for Stylized_Interior, bSessionEnded=true, bCleanupResources=true
+[2025.10.02-20.32.34:012][338]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.02-20.32.34:031][338]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.10.02-20.32.34:035][338]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.10.02-20.32.34:040][338]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_2'.
+[2025.10.02-20.32.34:040][338]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.10.02-20.32.34:041][338]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.10.02-20.32.34:041][338]LogAIModule: Creating AISystem for world Untitled_2
+[2025.10.02-20.32.34:107][338]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.10.02-20.32.34:111][338]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.10.02-20.32.34:113][338]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.10.02-20.32.34:113][338]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.16ms to complete.
+[2025.10.02-20.32.52:734][566]LogSlate: Window 'Save Level As' being destroyed
+[2025.10.02-20.32.52:824][566]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.10.02-20.32.52:833][566]LogSavePackage: Moving output files for package: /Game/RaccoonzONLY/Test101
+[2025.10.02-20.32.52:833][566]LogSavePackage: Moving '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/Test1010F38D7364D8CD80BF0CEC78DE74C4689.tmp' to '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/RaccoonzONLY/Test101.umap'
+[2025.10.02-20.32.52:846][566]LogFileHelpers: Saving map 'Test101' took 0.100
+[2025.10.02-20.32.52:846][566]Cmd: MAP LOAD FILE="../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/RaccoonzONLY/Test101.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.10.02-20.32.52:846][566]LightingResults: New page: Lighting Build
+[2025.10.02-20.32.52:847][566]LoadErrors: New page: Loading map: Test101.umap
+[2025.10.02-20.32.52:884][566]LogWorld: UWorld::CleanupWorld for Test101, bSessionEnded=true, bCleanupResources=true
+[2025.10.02-20.32.52:884][566]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.02-20.32.52:884][566]MapCheck: New page: Map Check
+[2025.10.02-20.32.52:884][566]LightingResults: New page: Lighting Build
+[2025.10.02-20.32.52:891][566]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.02-20.32.52:892][566]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.10.02-20.32.52:894][566]LogAudio: Display: Audio Device (ID: 1) registered with world 'Test101'.
+[2025.10.02-20.32.52:894][566]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.10.02-20.32.52:894][566]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.10.02-20.32.52:895][566]LogAIModule: Creating AISystem for world Test101
+[2025.10.02-20.32.52:944][566]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.10.02-20.32.52:949][566]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.10.02-20.32.52:952][566]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.10.02-20.32.52:952][566]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.1ms to complete.
+[2025.10.02-20.32.52:954][566]AssetCheck: New page: Asset Save: Test101
+[2025.10.02-20.32.52:954][566]LogContentValidation: Display: Validating /Script/Engine.World /Game/RaccoonzONLY/Test101.Test101
+[2025.10.02-20.32.54:133][686]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2025.10.02-20.32.56:789][686]LogSlate: Window 'Save Content' being destroyed
+[2025.10.02-20.32.56:801][686]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.02-20.32.56:866][686]LogSavePackage: Moving output files for package: /Game/StylizedKitchen/Meshes/MI_Frames
+[2025.10.02-20.32.56:866][686]LogSavePackage: Moving '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/MI_Frames8D0878D44D1A94100A9AF096A13B2C03.tmp' to '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/StylizedKitchen/Meshes/MI_Frames.uasset'
+[2025.10.02-20.32.56:868][686]LogSavePackage: Moving output files for package: /Game/StylizedKitchen/Meshes/MI_KitchenTable
+[2025.10.02-20.32.56:868][686]LogSavePackage: Moving '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/MI_KitchenTable24B05EB942F8DEF9E74F4CB7F75CF689.tmp' to '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/StylizedKitchen/Meshes/MI_KitchenTable.uasset'
+[2025.10.02-20.32.56:871][686]LogSavePackage: Moving output files for package: /Game/StylizedKitchen/Meshes/MI_KitchenUstensil
+[2025.10.02-20.32.56:871][686]LogSavePackage: Moving '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/MI_KitchenUstensilFBD042D24B19ADB6B631AAA91CDF8FD4.tmp' to '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/StylizedKitchen/Meshes/MI_KitchenUstensil.uasset'
+[2025.10.02-20.32.56:874][686]LogSavePackage: Moving output files for package: /Game/StylizedKitchen/Meshes/MI_LampTall
+[2025.10.02-20.32.56:874][686]LogSavePackage: Moving '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/MI_LampTallF9FF52874CEE553418644BA0A59862DF.tmp' to '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/StylizedKitchen/Meshes/MI_LampTall.uasset'
+[2025.10.02-20.32.56:882][686]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 5.95 sec)
+[2025.10.02-20.32.56:882][686]LogAssetEditorSubsystem: Opening Asset editor for World /Game/RaccoonzONLY/Test101.Test101
+[2025.10.02-20.32.56:883][686]Cmd: MAP LOAD FILE="../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/RaccoonzONLY/Test101.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.10.02-20.32.56:883][686]LightingResults: New page: Lighting Build
+[2025.10.02-20.32.56:883][686]LoadErrors: New page: Loading map: Test101.umap
+[2025.10.02-20.32.56:945][686]LogWorld: UWorld::CleanupWorld for Test101, bSessionEnded=true, bCleanupResources=true
+[2025.10.02-20.32.56:945][686]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.02-20.32.56:945][686]MapCheck: New page: Map Check
+[2025.10.02-20.32.56:945][686]LightingResults: New page: Lighting Build
+[2025.10.02-20.32.56:949][686]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.02-20.32.56:949][686]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.10.02-20.32.56:953][686]LogAudio: Display: Audio Device (ID: 1) registered with world 'Test101'.
+[2025.10.02-20.32.56:953][686]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.10.02-20.32.56:954][686]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.10.02-20.32.56:954][686]LogAIModule: Creating AISystem for world Test101
+[2025.10.02-20.32.57:002][686]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.10.02-20.32.57:006][686]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.10.02-20.32.57:009][686]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.10.02-20.32.57:009][686]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.091ms to complete.
+[2025.10.02-20.32.57:013][686]AssetCheck: New page: Asset Save: multiple assets
+[2025.10.02-20.32.57:013][686]LogContentValidation: Display: Validating /Script/Engine.Material /Game/StylizedKitchen/Meshes/MI_Frames.MI_Frames
+[2025.10.02-20.32.57:013][686]LogContentValidation: Display: Validating /Script/Engine.Material /Game/StylizedKitchen/Meshes/MI_KitchenTable.MI_KitchenTable
+[2025.10.02-20.32.57:013][686]LogContentValidation: Display: Validating /Script/Engine.Material /Game/StylizedKitchen/Meshes/MI_KitchenUstensil.MI_KitchenUstensil
+[2025.10.02-20.32.57:013][686]LogContentValidation: Display: Validating /Script/Engine.Material /Game/StylizedKitchen/Meshes/MI_LampTall.MI_LampTall
+[2025.10.02-20.32.58:567][849]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2025.10.02-20.32.58:568][849]LogAssetEditorSubsystem: Opening Asset editor for World /Game/RaccoonzONLY/Test101.Test101
+[2025.10.02-20.32.58:568][849]Cmd: MAP LOAD FILE="../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/RaccoonzONLY/Test101.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.10.02-20.32.58:568][849]LightingResults: New page: Lighting Build
+[2025.10.02-20.32.58:568][849]LoadErrors: New page: Loading map: Test101.umap
+[2025.10.02-20.32.58:604][849]LogWorld: UWorld::CleanupWorld for Test101, bSessionEnded=true, bCleanupResources=true
+[2025.10.02-20.32.58:604][849]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.02-20.32.58:605][849]MapCheck: New page: Map Check
+[2025.10.02-20.32.58:605][849]LightingResults: New page: Lighting Build
+[2025.10.02-20.32.58:610][849]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.02-20.32.58:611][849]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.10.02-20.32.58:614][849]LogAudio: Display: Audio Device (ID: 1) registered with world 'Test101'.
+[2025.10.02-20.32.58:614][849]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.10.02-20.32.58:614][849]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.10.02-20.32.58:615][849]LogAIModule: Creating AISystem for world Test101
+[2025.10.02-20.32.58:661][849]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.10.02-20.32.58:666][849]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.10.02-20.32.58:669][849]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.10.02-20.32.58:669][849]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.1ms to complete.
+[2025.10.02-20.33.37:862][348]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/USER/Desktop/Blender/fnaf-4-new-dawn/source/Fnaf 4 Room_Sharing.fbx)
+[2025.10.02-20.33.37:869][348]LogFbx: Loading FBX Scene from ../../../../../../Users/USER/Desktop/Blender/fnaf-4-new-dawn/source/Fnaf 4 Room_Sharing.fbx
+[2025.10.02-20.33.37:897][348]LogFbx: FBX Scene Loaded Succesfully
+[2025.10.02-20.33.39:705][348]LogSlate: Window 'FBX Import Options' being destroyed
+[2025.10.02-20.33.39:790][348]LogFbxMaterialImport: Display: Unable to find Texture file D:\Blender\NewBlenderProjects\2023\9 - September\FNAF 4 Room\Textures\Exports\Wall_Room_basecolor.png
+[2025.10.02-20.33.39:791][348]LogFbxMaterialImport: Display: Unable to find Texture file D:\Blender\NewBlenderProjects\2023\9 - September\FNAF 4 Room\Textures\Exports\Wall_Room_roughness.png
+[2025.10.02-20.33.39:791][348]LogFbxMaterialImport: Display: Unable to find Texture file D:\Blender\NewBlenderProjects\2023\9 - September\FNAF 4 Room\Textures\Exports\Wall_Hallway_normal.png
+[2025.10.02-20.33.39:796][348]LogFbxMaterialImport: Display: Unable to find Texture file D:\Blender\NewBlenderProjects\2023\9 - September\FNAF 4 Room\Textures\DL\Bitmap2Material_3_Base_Color.png
+[2025.10.02-20.33.39:797][348]LogFbxMaterialImport: Display: Unable to find Texture file D:\Blender\NewBlenderProjects\2023\9 - September\FNAF 4 Room\Textures\DL\Bitmap2Material_3_Normal.png
+[2025.10.02-20.33.39:802][348]LogFbxMaterialImport: Display: Unable to find Texture file D:\Blender\NewBlenderProjects\2023\9 - September\FNAF 4 Room\Textures\DL\TexturesCom_ConcreteStucco0113_1_seamless_S.jpg
+[2025.10.02-20.33.39:802][348]LogFbxMaterialImport: Display: Unable to find Texture file D:\Blender\NewBlenderProjects\2023\9 - September\FNAF 4 Room\Textures\DL\Bitmap2Material_3_Normal.png
+[2025.10.02-20.33.39:804][348]LogFbx: Display: Triangulating static mesh Bedroom
+[2025.10.02-20.33.39:844][348]LogFbxMaterialImport: Display: Unable to find Texture file D:\Blender\NewBlenderProjects\2023\9 - September\FNAF 4 Room\Textures\Exports\Wall_Hallway_basecolor.png
+[2025.10.02-20.33.39:844][348]LogFbxMaterialImport: Display: Unable to find Texture file D:\Blender\NewBlenderProjects\2023\9 - September\FNAF 4 Room\Textures\Exports\Wall_Hallway_roughness.png
+[2025.10.02-20.33.39:845][348]LogFbxMaterialImport: Display: Unable to find Texture file D:\Blender\NewBlenderProjects\2023\9 - September\FNAF 4 Room\Textures\Exports\Wall_Hallway_normal.png
+[2025.10.02-20.33.39:847][348]LogFbx: Display: Triangulating static mesh HallL
+[2025.10.02-20.33.39:874][348]LogFbx: Display: Triangulating static mesh HallR
+[2025.10.02-20.33.39:902][348]LogFbx: Display: Triangulating static mesh HallF
+[2025.10.02-20.33.39:927][348]LogFbx: Display: Triangulating static mesh Closet
+[2025.10.02-20.33.39:954][348]LogFbx: Display: Triangulating static mesh Plushtrap
+[2025.10.02-20.33.39:995][348]LogFbxMaterialImport: Display: Unable to find Texture file D:\VRCWorlds\NewDawn\Textures\Props\FenceWhite.png
+[2025.10.02-20.33.39:998][348]LogFbx: Display: Triangulating static mesh ClosetFrame
+[2025.10.02-20.33.40:062][348]LogFbx: Display: Triangulating static mesh BDoorFrame_Right
+[2025.10.02-20.33.40:093][348]LogFbx: Display: Triangulating static mesh BDoor_Right
+[2025.10.02-20.33.40:280][348]LogFbx: Display: Triangulating static mesh Chair
+[2025.10.02-20.33.40:310][348]LogFbx: Display: Triangulating static mesh CeilingFrame
+[2025.10.02-20.33.40:356][348]LogFbxMaterialImport: Display: Unable to find Texture file D:\Blender\NewBlenderProjects\2023\9 - September\FNAF 4 Room\Textures\Props\Bed_Bed_BaseColor.png
+[2025.10.02-20.33.40:356][348]LogFbxMaterialImport: Display: Unable to find Texture file D:\Blender\NewBlenderProjects\2023\9 - September\FNAF 4 Room\Textures\Props\Bed_Bed_Roughness.png
+[2025.10.02-20.33.40:357][348]LogFbxMaterialImport: Display: Unable to find Texture file D:\Blender\NewBlenderProjects\2023\9 - September\FNAF 4 Room\Textures\Props\Bed_Bed_Normal.png
+[2025.10.02-20.33.40:359][348]LogFbx: Display: Triangulating static mesh Bed
+[2025.10.02-20.33.40:412][348]LogFbxMaterialImport: Display: Unable to find Texture file D:\Blender\NewBlenderProjects\2023\9 - September\FNAF 4 Room\Textures\Props\Dresser_Dresser_BaseColor.png
+[2025.10.02-20.33.40:412][348]LogFbxMaterialImport: Display: Unable to find Texture file D:\Blender\NewBlenderProjects\2023\9 - September\FNAF 4 Room\Textures\Props\Dresser_Dresser_Roughness.png
+[2025.10.02-20.33.40:413][348]LogFbxMaterialImport: Display: Unable to find Texture file D:\Blender\NewBlenderProjects\2023\9 - September\FNAF 4 Room\Textures\Props\Dresser_Dresser_Normal.png
+[2025.10.02-20.33.40:417][348]LogFbx: Display: Triangulating static mesh Dresser
+[2025.10.02-20.33.40:466][348]LogFbx: Display: Triangulating static mesh Dresser2
+[2025.10.02-20.33.40:497][348]LogFbxMaterialImport: Display: Unable to find Texture file D:\Blender\NewBlenderProjects\2023\9 - September\FNAF 4 Room\Textures\Props\CeilingLight_low_Light_BaseColor.png
+[2025.10.02-20.33.40:497][348]LogFbxMaterialImport: Display: Unable to find Texture file D:\Blender\NewBlenderProjects\2023\9 - September\FNAF 4 Room\Textures\Props\CeilingLight_low_Light_Roughness.png
+[2025.10.02-20.33.40:497][348]LogFbxMaterialImport: Display: Unable to find Texture file D:\Blender\NewBlenderProjects\2023\9 - September\FNAF 4 Room\Textures\Props\CeilingLight_low_Light_Normal.png
+[2025.10.02-20.33.40:500][348]LogFbx: Display: Triangulating static mesh CeilingLight_Bedroom
+[2025.10.02-20.33.40:533][348]LogFbxMaterialImport: Display: Unable to find Texture file D:\Blender\NewBlenderProjects\2023\9 - September\FNAF 4 Room\Textures\Props\Window_Window_BaseColor.png
+[2025.10.02-20.33.40:533][348]LogFbxMaterialImport: Display: Unable to find Texture file D:\Blender\NewBlenderProjects\2023\9 - September\FNAF 4 Room\Textures\Props\Window_Window_Roughness.png
+[2025.10.02-20.33.40:536][348]LogFbx: Display: Triangulating static mesh WindowH1
+[2025.10.02-20.33.40:564][348]LogFbx: Display: Triangulating static mesh WindowPT
+[2025.10.02-20.33.40:597][348]LogFbx: Display: Triangulating static mesh Circle
+[2025.10.02-20.33.40:627][348]LogFbxMaterialImport: Display: Unable to find Texture file D:\Blender\GlobalTextures\TexturesCom_WoodFine0003_seamless_S.jpg
+[2025.10.02-20.33.40:630][348]LogFbxMaterialImport: Display: Unable to find Texture file D:\Blender\NewBlenderProjects\2023\9 - September\FNAF 4 Room\Textures\Props\F4Photos.png
+[2025.10.02-20.33.40:634][348]LogFbx: Display: Triangulating static mesh Pictures
+[2025.10.02-20.33.40:663][348]LogFbxMaterialImport: Display: Unable to find Texture file D:\Blender\NewBlenderProjects\2023\9 - September\FNAF 4 Room\Textures\Props\Table1_Table1_BaseColor.png
+[2025.10.02-20.33.40:663][348]LogFbxMaterialImport: Display: Unable to find Texture file D:\Blender\NewBlenderProjects\2023\9 - September\FNAF 4 Room\Textures\Props\Table1_Table1_Roughness.png
+[2025.10.02-20.33.40:665][348]LogFbx: Display: Triangulating static mesh Table_Right
+[2025.10.02-20.33.40:701][348]LogFbxMaterialImport: Display: Unable to find Texture file D:\Blender\NewBlenderProjects\2023\9 - September\FNAF 4 Room\Textures\Props\Lamp_Lamp_BaseColor.png
+[2025.10.02-20.33.40:701][348]LogFbxMaterialImport: Display: Unable to find Texture file D:\Blender\NewBlenderProjects\2023\9 - September\FNAF 4 Room\Textures\Props\Lamp_Lamp_Roughness.png
+[2025.10.02-20.33.40:701][348]LogFbxMaterialImport: Display: Unable to find Texture file D:\Blender\NewBlenderProjects\2023\9 - September\FNAF 4 Room\Textures\Props\Lamp_Lamp_Normal.png
+[2025.10.02-20.33.40:703][348]LogFbx: Display: Triangulating static mesh Lamp_Right
+[2025.10.02-20.33.40:739][348]LogFbxMaterialImport: Display: Unable to find Texture file D:\Blender\NewBlenderProjects\2023\9 - September\FNAF 4 Room\Textures\Props\Robo_low_Robotoy_BaseColor.png
+[2025.10.02-20.33.40:739][348]LogFbxMaterialImport: Display: Unable to find Texture file D:\Blender\NewBlenderProjects\2023\9 - September\FNAF 4 Room\Textures\Props\Robo_low_Robotoy_Roughness.png
+[2025.10.02-20.33.40:739][348]LogFbxMaterialImport: Display: Unable to find Texture file D:\Blender\NewBlenderProjects\2023\9 - September\FNAF 4 Room\Textures\Props\Robo_low_Robotoy_Normal.png
+[2025.10.02-20.33.40:743][348]LogFbx: Display: Triangulating static mesh RoboToy_low
+[2025.10.02-20.33.40:811][348]LogFbxMaterialImport: Display: Unable to find Texture file D:\Blender\NewBlenderProjects\2023\9 - September\FNAF 4 Room\Textures\Props\LLamp_LLamp_BaseColor.png
+[2025.10.02-20.33.40:811][348]LogFbxMaterialImport: Display: Unable to find Texture file D:\Blender\NewBlenderProjects\2023\9 - September\FNAF 4 Room\Textures\Props\LLamp_LLamp_Emission.png
+[2025.10.02-20.33.40:811][348]LogFbxMaterialImport: Display: Unable to find Texture file D:\Blender\NewBlenderProjects\2023\9 - September\FNAF 4 Room\Textures\Props\LLamp_LLamp_Roughness.png
+[2025.10.02-20.33.40:814][348]LogFbx: Display: Triangulating static mesh LLamp
+[2025.10.02-20.33.40:847][348]LogFbxMaterialImport: Display: Unable to find Texture file D:\Blender\NewBlenderProjects\2023\9 - September\FNAF 4 Room\Textures\Props\Fan_low_Fan_BaseColor.png
+[2025.10.02-20.33.40:847][348]LogFbxMaterialImport: Display: Unable to find Texture file D:\Blender\NewBlenderProjects\2023\9 - September\FNAF 4 Room\Textures\Props\Fan_low_Fan_Normal.png
+[2025.10.02-20.33.40:849][348]LogFbx: Display: Triangulating static mesh Fan_low
+[2025.10.02-20.33.40:895][348]LogFbxMaterialImport: Display: Unable to find Texture file D:\Blender\NewBlenderProjects\2023\9 - September\FNAF 4 Room\Textures\Props\Clothes1_Clothes_BaseColor.png
+[2025.10.02-20.33.40:895][348]LogFbxMaterialImport: Display: Unable to find Texture file D:\Blender\NewBlenderProjects\2023\9 - September\FNAF 4 Room\Textures\Props\Clothes1_Clothes_Roughness.png
+[2025.10.02-20.33.40:899][348]LogFbx: Display: Triangulating static mesh Clothes
+[2025.10.02-20.33.40:973][348]LogFbxMaterialImport: Display: Unable to find Texture file D:\Blender\NewBlenderProjects\2023\9 - September\FNAF 4 Room\Textures\Props\DigiClock_low_DClock_BaseColor.png
+[2025.10.02-20.33.40:973][348]LogFbxMaterialImport: Display: Unable to find Texture file D:\Blender\NewBlenderProjects\2023\9 - September\FNAF 4 Room\Textures\Props\DigiClock_low_DClock_Roughness.png
+[2025.10.02-20.33.40:973][348]LogFbxMaterialImport: Display: Unable to find Texture file D:\Blender\NewBlenderProjects\2023\9 - September\FNAF 4 Room\Textures\Props\DigiClock_low_DClock_Normal.png
+[2025.10.02-20.33.40:976][348]LogFbx: Display: Triangulating static mesh DigiClock_low
+[2025.10.02-20.33.41:000][348]LogFbxMaterialImport: Display: Unable to find Texture file D:\Blender\NewBlenderProjects\2023\9 - September\FNAF 4 Room\Textures\Props\Catertoy_low_CaterToy_BaseColor.png
+[2025.10.02-20.33.41:001][348]LogFbxMaterialImport: Display: Unable to find Texture file D:\Blender\NewBlenderProjects\2023\9 - September\FNAF 4 Room\Textures\Props\Catertoy_low_CaterToy_Normal.png
+[2025.10.02-20.33.41:003][348]LogFbx: Display: Triangulating static mesh CaterToy_low
+[2025.10.02-20.33.41:057][348]LogFbxMaterialImport: Display: Unable to find Texture file D:\Blender\NewBlenderProjects\2023\9 - September\FNAF 4 Room\Textures\Props\Photoy_low_Photoy_BaseColor.png
+[2025.10.02-20.33.41:057][348]LogFbxMaterialImport: Display: Unable to find Texture file D:\Blender\NewBlenderProjects\2023\9 - September\FNAF 4 Room\Textures\Props\Photoy_low_Photoy_Normal.png
+[2025.10.02-20.33.41:060][348]LogFbx: Display: Triangulating static mesh PhoToy_low
+[2025.10.02-20.33.41:114][348]LogFbxMaterialImport: Display: Unable to find Texture file D:\Blender\NewBlenderProjects\2023\9 - September\FNAF 4 Room\Textures\Props\GClock_low_GClock_BaseColor.png
+[2025.10.02-20.33.41:114][348]LogFbxMaterialImport: Display: Unable to find Texture file D:\Blender\NewBlenderProjects\2023\9 - September\FNAF 4 Room\Textures\Props\GClock_low_GClock_Roughness.png
+[2025.10.02-20.33.41:114][348]LogFbxMaterialImport: Display: Unable to find Texture file D:\Blender\NewBlenderProjects\2023\9 - September\FNAF 4 Room\Textures\Props\GClock_low_GClock_Normal.png
+[2025.10.02-20.33.41:117][348]LogFbx: Display: Triangulating static mesh GClock_low
+[2025.10.02-20.33.41:574][348]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'Wall_Hallway_normal' was renamed 'Wall_Hallway_normal_ncl1_1' 
+[2025.10.02-20.33.41:574][348]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'Bitmap2Material_3_Normal' was renamed 'Bitmap2Material_3_Normal_ncl1_1' 
+[2025.10.02-20.33.41:574][348]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2025.10.02-20.33.41:710][351]LogShaderCompilers: Display: ================================================
+[2025.10.02-20.33.41:710][351]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.10.02-20.33.41:710][351]LogShaderCompilers: Display: Total job queries 249, among them cache hits 90 (36.14%)
+[2025.10.02-20.33.41:710][351]LogShaderCompilers: Display: Tracking 159 distinct input hashes that result in 93 distinct outputs (58.49%)
+[2025.10.02-20.33.41:710][351]LogShaderCompilers: Display: RAM used: 5.80 MiB of 819.20 MiB budget. Usage: 0.71%
+[2025.10.02-20.33.41:710][351]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.10.02-20.33.41:710][351]LogShaderCompilers: Display: Shaders Compiled: 9
+[2025.10.02-20.33.41:710][351]LogShaderCompilers: Display: Jobs assigned 9, completed 9 (100%)
+[2025.10.02-20.33.41:710][351]LogShaderCompilers: Display: Average time worker was idle: 3.09 s
+[2025.10.02-20.33.41:710][351]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.10 s
+[2025.10.02-20.33.41:710][351]LogShaderCompilers: Display: Job execution time: average 0.87 s, max 2.83 s
+[2025.10.02-20.33.41:710][351]LogShaderCompilers: Display: Job life time (pending + execution): average 0.92 s, max 2.93
+[2025.10.02-20.33.41:710][351]LogShaderCompilers: Display: Shader code size: average 64.761 KiB, min 20.07 KiB, max 99.27 KiB
+[2025.10.02-20.33.41:710][351]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 6.30 s
+[2025.10.02-20.33.41:710][351]LogShaderCompilers: Display: Jobs were issued in 9 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.10.02-20.33.41:710][351]LogShaderCompilers: Display: Average processing rate: 1.43 jobs/sec
+[2025.10.02-20.33.41:710][351]LogShaderCompilers: Display: Total thread time: 6.677 s
+[2025.10.02-20.33.41:710][351]LogShaderCompilers: Display: Total thread preprocess time: 1.44 s
+[2025.10.02-20.33.41:710][351]LogShaderCompilers: Display: Percentage time preprocessing: 21.57%
+[2025.10.02-20.33.41:710][351]LogShaderCompilers: Display: Effective parallelization: 1.06 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.10.02-20.33.41:710][351]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.10.02-20.33.41:710][351]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    3 times, average 1.72 sec, max 2.54 sec, min 1.30 sec)
+[2025.10.02-20.33.41:710][351]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    3 times, average 0.25 sec, max 0.26 sec, min 0.24 sec)
+[2025.10.02-20.33.41:710][351]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.19 sec, max 0.19 sec, min 0.19 sec)
+[2025.10.02-20.33.41:710][351]LogShaderCompilers: Display:                                                  FVelocityVS (compiled    2 times, average 0.18 sec, max 0.19 sec, min 0.18 sec)
+[2025.10.02-20.33.41:710][351]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    2 times, average 0.11 sec, max 0.11 sec, min 0.10 sec)
+[2025.10.02-20.33.41:710][351]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.10.02-20.33.41:710][351]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 77.40% of total time (compiled    3 times, average 1.72 sec, max 2.54 sec, min 1.30 sec)
+[2025.10.02-20.33.41:710][351]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 11.03% of total time (compiled    3 times, average 0.25 sec, max 0.26 sec, min 0.24 sec)
+[2025.10.02-20.33.41:710][351]LogShaderCompilers: Display:                                                  FVelocityVS - 5.44% of total time (compiled    2 times, average 0.18 sec, max 0.19 sec, min 0.18 sec)
+[2025.10.02-20.33.41:710][351]LogShaderCompilers: Display:                                                  FVelocityPS - 3.26% of total time (compiled    2 times, average 0.11 sec, max 0.11 sec, min 0.10 sec)
+[2025.10.02-20.33.41:710][351]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 2.86% of total time (compiled    1 times, average 0.19 sec, max 0.19 sec, min 0.19 sec)
+[2025.10.02-20.33.41:710][351]LogShaderCompilers: Display: ================================================
+[2025.10.02-20.33.44:605][624]LogSlate: Window 'Message Log' being destroyed
+[2025.10.02-20.33.44:610][624]LogSlate: Window 'Message Log' being destroyed
+[2025.10.02-20.33.54:277][636]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.02-20.33.54:348][636]LogSavePackage: Moving output files for package: /Game/RaccoonzONLY/TestFab/Bed
+[2025.10.02-20.33.54:349][636]LogSavePackage: Moving '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/Bed7AB978B24889E37E9F0B37908E0A1DBB.tmp' to '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/RaccoonzONLY/TestFab/Bed.uasset'
+[2025.10.02-20.33.54:366][636]LogSavePackage: Moving output files for package: /Game/RaccoonzONLY/TestFab/Carpet01
+[2025.10.02-20.33.54:366][636]LogSavePackage: Moving '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/Carpet011ECF823D49E8E1899F6261945D7B32A8.tmp' to '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/RaccoonzONLY/TestFab/Carpet01.uasset'
+[2025.10.02-20.33.54:384][636]LogSavePackage: Moving output files for package: /Game/RaccoonzONLY/TestFab/CaterToy
+[2025.10.02-20.33.54:384][636]LogSavePackage: Moving '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/CaterToyDE3EEA08481975CC6AEED880D6DE7D4C.tmp' to '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/RaccoonzONLY/TestFab/CaterToy.uasset'
+[2025.10.02-20.33.54:402][636]LogSavePackage: Moving output files for package: /Game/RaccoonzONLY/TestFab/Ceiling01
+[2025.10.02-20.33.54:402][636]LogSavePackage: Moving '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/Ceiling011020AB73479C7BEAB47B30891A2063D7.tmp' to '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/RaccoonzONLY/TestFab/Ceiling01.uasset'
+[2025.10.02-20.33.54:420][636]LogSavePackage: Moving output files for package: /Game/RaccoonzONLY/TestFab/Clothes
+[2025.10.02-20.33.54:420][636]LogSavePackage: Moving '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/Clothes242E0C4846002850DDA36487523FAAE4.tmp' to '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/RaccoonzONLY/TestFab/Clothes.uasset'
+[2025.10.02-20.33.54:437][636]LogSavePackage: Moving output files for package: /Game/RaccoonzONLY/TestFab/DClock
+[2025.10.02-20.33.54:437][636]LogSavePackage: Moving '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/DClockBC0B971040069BC860F078948F38C138.tmp' to '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/RaccoonzONLY/TestFab/DClock.uasset'
+[2025.10.02-20.33.54:455][636]LogSavePackage: Moving output files for package: /Game/RaccoonzONLY/TestFab/Doorframe
+[2025.10.02-20.33.54:455][636]LogSavePackage: Moving '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/Doorframe865119E541148929265F0890C82F2290.tmp' to '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/RaccoonzONLY/TestFab/Doorframe.uasset'
+[2025.10.02-20.33.54:473][636]LogSavePackage: Moving output files for package: /Game/RaccoonzONLY/TestFab/DoorHandle
+[2025.10.02-20.33.54:473][636]LogSavePackage: Moving '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/DoorHandleA73CCADC4F4C5EE8BA768EAC9465FC94.tmp' to '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/RaccoonzONLY/TestFab/DoorHandle.uasset'
+[2025.10.02-20.33.54:491][636]LogSavePackage: Moving output files for package: /Game/RaccoonzONLY/TestFab/Dresser
+[2025.10.02-20.33.54:491][636]LogSavePackage: Moving '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/DresserFD86E6EE43F1BEA2F4B9A181C1C99BE3.tmp' to '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/RaccoonzONLY/TestFab/Dresser.uasset'
+[2025.10.02-20.33.54:508][636]LogSavePackage: Moving output files for package: /Game/RaccoonzONLY/TestFab/Fan
+[2025.10.02-20.33.54:508][636]LogSavePackage: Moving '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/FanD043A89846418B9F3C4A7F8493B95992.tmp' to '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/RaccoonzONLY/TestFab/Fan.uasset'
+[2025.10.02-20.33.54:520][636]LogSavePackage: Moving output files for package: /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_BDoor_Left
+[2025.10.02-20.33.54:520][636]LogSavePackage: Moving '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/Fnaf_4_Room_Sharing_BDoor_LeftB8DC4D19485259474C708290163E2CDB.tmp' to '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_BDoor_Left.uasset'
+[2025.10.02-20.33.54:533][636]LogSavePackage: Moving output files for package: /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_BDoor_Right
+[2025.10.02-20.33.54:533][636]LogSavePackage: Moving '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/Fnaf_4_Room_Sharing_BDoor_Right2BC225FA48529BCA0AF6E68E7B54A337.tmp' to '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_BDoor_Right.uasset'
+[2025.10.02-20.33.54:543][636]LogSavePackage: Moving output files for package: /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_BDoorframe_Left
+[2025.10.02-20.33.54:543][636]LogSavePackage: Moving '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/Fnaf_4_Room_Sharing_BDoorframe_L4971EB6846409A9034CBA19D4E35436E.tmp' to '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_BDoorframe_Left.uasset'
+[2025.10.02-20.33.54:554][636]LogSavePackage: Moving output files for package: /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_BDoorFrame_Right
+[2025.10.02-20.33.54:554][636]LogSavePackage: Moving '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/Fnaf_4_Room_Sharing_BDoorFrame_R0678B8924B8DB50809FC07B220D45AD2.tmp' to '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_BDoorFrame_Right.uasset'
+[2025.10.02-20.33.54:565][636]LogSavePackage: Moving output files for package: /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_Bed
+[2025.10.02-20.33.54:565][636]LogSavePackage: Moving '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/Fnaf_4_Room_Sharing_Bed51D11DFB43E528B52DC0BF8FA06443BA.tmp' to '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_Bed.uasset'
+[2025.10.02-20.33.54:577][636]LogSavePackage: Moving output files for package: /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_Bedroom
+[2025.10.02-20.33.54:577][636]LogSavePackage: Moving '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/Fnaf_4_Room_Sharing_BedroomDE9450D3470E3528753F479DD295EA28.tmp' to '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_Bedroom.uasset'
+[2025.10.02-20.33.54:589][636]LogSavePackage: Moving output files for package: /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_CaterToy_low
+[2025.10.02-20.33.54:589][636]LogSavePackage: Moving '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/Fnaf_4_Room_Sharing_CaterToy_lowEB8B8B7B42BA942EB63C44A1369C7B78.tmp' to '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_CaterToy_low.uasset'
+[2025.10.02-20.33.54:602][636]LogSavePackage: Moving output files for package: /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_CeilingFrame
+[2025.10.02-20.33.54:602][636]LogSavePackage: Moving '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/Fnaf_4_Room_Sharing_CeilingFrameEA2AD18248913CE65576B0ACC5629934.tmp' to '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_CeilingFrame.uasset'
+[2025.10.02-20.33.54:613][636]LogSavePackage: Moving output files for package: /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_CeilingLight1_Left
+[2025.10.02-20.33.54:613][636]LogSavePackage: Moving '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/Fnaf_4_Room_Sharing_CeilingLight79F07E5B49DFDCEA7D7AF4BCBC8BEAAF.tmp' to '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_CeilingLight1_Left.uasset'
+[2025.10.02-20.33.54:623][636]LogSavePackage: Moving output files for package: /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_CeilingLight1_Right
+[2025.10.02-20.33.54:623][636]LogSavePackage: Moving '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/Fnaf_4_Room_Sharing_CeilingLightE0FC727C4FB2B65AD35E4BB675F79B6D.tmp' to '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_CeilingLight1_Right.uasset'
+[2025.10.02-20.33.54:634][636]LogSavePackage: Moving output files for package: /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_CeilingLight2_Left
+[2025.10.02-20.33.54:634][636]LogSavePackage: Moving '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/Fnaf_4_Room_Sharing_CeilingLightBF146BD04D5386318E97208FE8987FC6.tmp' to '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_CeilingLight2_Left.uasset'
+[2025.10.02-20.33.54:645][636]LogSavePackage: Moving output files for package: /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_CeilingLight2_Right
+[2025.10.02-20.33.54:645][636]LogSavePackage: Moving '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/Fnaf_4_Room_Sharing_CeilingLightE293065C4E69251F13396E9C0A61A4EB.tmp' to '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_CeilingLight2_Right.uasset'
+[2025.10.02-20.33.54:656][636]LogSavePackage: Moving output files for package: /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_CeilingLight_Bedroom
+[2025.10.02-20.33.54:656][636]LogSavePackage: Moving '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/Fnaf_4_Room_Sharing_CeilingLightA30B3F234CB67BE7F2348F8355855FE4.tmp' to '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_CeilingLight_Bedroom.uasset'
+[2025.10.02-20.33.54:666][636]LogSavePackage: Moving output files for package: /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_CeilingLight_PTHall
+[2025.10.02-20.33.54:667][636]LogSavePackage: Moving '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/Fnaf_4_Room_Sharing_CeilingLight99BECA07443AC30BBA4D0AADD34021C4.tmp' to '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_CeilingLight_PTHall.uasset'
+[2025.10.02-20.33.54:677][636]LogSavePackage: Moving output files for package: /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_Chair
+[2025.10.02-20.33.54:677][636]LogSavePackage: Moving '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/Fnaf_4_Room_Sharing_Chair671D1CB945CB149213198187DEBB0886.tmp' to '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_Chair.uasset'
+[2025.10.02-20.33.54:689][636]LogSavePackage: Moving output files for package: /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_Circle
+[2025.10.02-20.33.54:689][636]LogSavePackage: Moving '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/Fnaf_4_Room_Sharing_CircleB049B7884704F4F20A30269F01A4F9C7.tmp' to '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_Circle.uasset'
+[2025.10.02-20.33.54:699][636]LogSavePackage: Moving output files for package: /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_Closet
+[2025.10.02-20.33.54:699][636]LogSavePackage: Moving '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/Fnaf_4_Room_Sharing_ClosetBE5E8F9747D0A4EA75120182A500571D.tmp' to '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_Closet.uasset'
+[2025.10.02-20.33.54:712][636]LogSavePackage: Moving output files for package: /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_ClosetFrame
+[2025.10.02-20.33.54:712][636]LogSavePackage: Moving '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/Fnaf_4_Room_Sharing_ClosetFrameEDF003D8435AE0A20691CDA0D91C5240.tmp' to '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_ClosetFrame.uasset'
+[2025.10.02-20.33.54:724][636]LogSavePackage: Moving output files for package: /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_Clothes
+[2025.10.02-20.33.54:724][636]LogSavePackage: Moving '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/Fnaf_4_Room_Sharing_ClothesC26FD98B4963F40074134ABE04B4067B.tmp' to '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_Clothes.uasset'
+[2025.10.02-20.33.54:738][636]LogSavePackage: Moving output files for package: /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_ClothesL
+[2025.10.02-20.33.54:738][636]LogSavePackage: Moving '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/Fnaf_4_Room_Sharing_ClothesLD1C5D4C64DEDC36F03535EAF5124CB8C.tmp' to '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_ClothesL.uasset'
+[2025.10.02-20.33.54:751][636]LogSavePackage: Moving output files for package: /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_ClothesR
+[2025.10.02-20.33.54:751][636]LogSavePackage: Moving '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/Fnaf_4_Room_Sharing_ClothesRD91CCD9C40A75D520F1EAB8BFE7E1F21.tmp' to '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_ClothesR.uasset'
+[2025.10.02-20.33.54:762][636]LogSavePackage: Moving output files for package: /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_DigiClock_low
+[2025.10.02-20.33.54:762][636]LogSavePackage: Moving '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/Fnaf_4_Room_Sharing_DigiClock_lo6CBA16AD438447574A83B58464B2A91A.tmp' to '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_DigiClock_low.uasset'
+[2025.10.02-20.33.54:773][636]LogSavePackage: Moving output files for package: /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_Dresser
+[2025.10.02-20.33.54:773][636]LogSavePackage: Moving '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/Fnaf_4_Room_Sharing_DresserA9F87CD143DC0F751F4D32B383956073.tmp' to '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_Dresser.uasset'
+[2025.10.02-20.33.54:783][636]LogSavePackage: Moving output files for package: /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_Dresser2
+[2025.10.02-20.33.54:784][636]LogSavePackage: Moving '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/Fnaf_4_Room_Sharing_Dresser22B4886BA4DAF90D75D78DAAC8E8A9D63.tmp' to '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_Dresser2.uasset'
+[2025.10.02-20.33.54:795][636]LogSavePackage: Moving output files for package: /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_Dresser_Side
+[2025.10.02-20.33.54:795][636]LogSavePackage: Moving '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/Fnaf_4_Room_Sharing_Dresser_SideF89723ED4AC1156967B891A840108309.tmp' to '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_Dresser_Side.uasset'
+[2025.10.02-20.33.54:807][636]LogSavePackage: Moving output files for package: /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_Fan_low
+[2025.10.02-20.33.54:808][636]LogSavePackage: Moving '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/Fnaf_4_Room_Sharing_Fan_lowD8380C88411FB3B0D6936A9CC9E32B4E.tmp' to '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_Fan_low.uasset'
+[2025.10.02-20.33.54:820][636]LogSavePackage: Moving output files for package: /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_GClock_low
+[2025.10.02-20.33.54:820][636]LogSavePackage: Moving '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/Fnaf_4_Room_Sharing_GClock_low343409564D28FED6B54323B63BFCEA38.tmp' to '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_GClock_low.uasset'
+[2025.10.02-20.33.54:831][636]LogSavePackage: Moving output files for package: /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_HallF
+[2025.10.02-20.33.54:831][636]LogSavePackage: Moving '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/Fnaf_4_Room_Sharing_HallF20795B1D47F58480FB8E09BB27E1A235.tmp' to '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_HallF.uasset'
+[2025.10.02-20.33.54:843][636]LogSavePackage: Moving output files for package: /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_HallL
+[2025.10.02-20.33.54:843][636]LogSavePackage: Moving '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/Fnaf_4_Room_Sharing_HallL75B98E6B47499204D726749B40115E8C.tmp' to '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_HallL.uasset'
+[2025.10.02-20.33.54:853][636]LogSavePackage: Moving output files for package: /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_HallR
+[2025.10.02-20.33.54:853][636]LogSavePackage: Moving '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/Fnaf_4_Room_Sharing_HallRC2AA2ACF45D0DDE6552F788CBE2560E9.tmp' to '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_HallR.uasset'
+[2025.10.02-20.33.54:865][636]LogSavePackage: Moving output files for package: /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_Lamp_Bedside
+[2025.10.02-20.33.54:865][636]LogSavePackage: Moving '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/Fnaf_4_Room_Sharing_Lamp_Bedside7EA9A9714150E9BF6856F78C36C0E070.tmp' to '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_Lamp_Bedside.uasset'
+[2025.10.02-20.33.54:875][636]LogSavePackage: Moving output files for package: /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_Lamp_Dresser
+[2025.10.02-20.33.54:875][636]LogSavePackage: Moving '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/Fnaf_4_Room_Sharing_Lamp_Dresser4C03E5F744FF9F9CE571E4ADBCD50498.tmp' to '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_Lamp_Dresser.uasset'
+[2025.10.02-20.33.54:886][636]LogSavePackage: Moving output files for package: /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_Lamp_Left
+[2025.10.02-20.33.54:886][636]LogSavePackage: Moving '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/Fnaf_4_Room_Sharing_Lamp_Left19F9E2344950755E7B0281BD43D13D0C.tmp' to '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_Lamp_Left.uasset'
+[2025.10.02-20.33.54:896][636]LogSavePackage: Moving output files for package: /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_Lamp_Right
+[2025.10.02-20.33.54:896][636]LogSavePackage: Moving '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/Fnaf_4_Room_Sharing_Lamp_RightB04D72294AE0C0CB6B7F46849CF4F3F1.tmp' to '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_Lamp_Right.uasset'
+[2025.10.02-20.33.54:907][636]LogSavePackage: Moving output files for package: /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_LLamp
+[2025.10.02-20.33.54:907][636]LogSavePackage: Moving '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/Fnaf_4_Room_Sharing_LLamp037766304C79C4E8C0296BB5EE9BAE20.tmp' to '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_LLamp.uasset'
+[2025.10.02-20.33.54:920][636]LogSavePackage: Moving output files for package: /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_PhoToy_low
+[2025.10.02-20.33.54:920][636]LogSavePackage: Moving '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/Fnaf_4_Room_Sharing_PhoToy_low354C294C4792F7B04BF0DA958E9E21AD.tmp' to '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_PhoToy_low.uasset'
+[2025.10.02-20.33.54:931][636]LogSavePackage: Moving output files for package: /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_Pictures
+[2025.10.02-20.33.54:931][636]LogSavePackage: Moving '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/Fnaf_4_Room_Sharing_Pictures21BAECAD4B006C5EA05F899282A45B42.tmp' to '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_Pictures.uasset'
+[2025.10.02-20.33.54:942][636]LogSavePackage: Moving output files for package: /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_Plushtrap
+[2025.10.02-20.33.54:942][636]LogSavePackage: Moving '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/Fnaf_4_Room_Sharing_Plushtrap2A479D4E4EFBB6DA7C7D69AB98DA434C.tmp' to '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_Plushtrap.uasset'
+[2025.10.02-20.33.54:955][636]LogSavePackage: Moving output files for package: /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_PTDoorframe1_Left
+[2025.10.02-20.33.54:955][636]LogSavePackage: Moving '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/Fnaf_4_Room_Sharing_PTDoorframe1C5A64DAD4D22DF8E4610EF95B1448990.tmp' to '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_PTDoorframe1_Left.uasset'
+[2025.10.02-20.33.54:965][636]LogSavePackage: Moving output files for package: /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_PTDoorframe1_Right
+[2025.10.02-20.33.54:965][636]LogSavePackage: Moving '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/Fnaf_4_Room_Sharing_PTDoorframe1292A98BA4A640396C253DDAFBB86E2EB.tmp' to '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_PTDoorframe1_Right.uasset'
+[2025.10.02-20.33.54:975][636]LogSavePackage: Moving output files for package: /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_PTDoorframe2_Left
+[2025.10.02-20.33.54:975][636]LogSavePackage: Moving '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/Fnaf_4_Room_Sharing_PTDoorframe2D2C846134FB9BE6DE0F043923638078D.tmp' to '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_PTDoorframe2_Left.uasset'
+[2025.10.02-20.33.54:986][636]LogSavePackage: Moving output files for package: /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_PTDoorframe2_Right
+[2025.10.02-20.33.54:986][636]LogSavePackage: Moving '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/Fnaf_4_Room_Sharing_PTDoorframe2F9AF9E1D49C792866B8D689F85FD8EB1.tmp' to '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_PTDoorframe2_Right.uasset'
+[2025.10.02-20.33.54:998][636]LogSavePackage: Moving output files for package: /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_RoboToy_low
+[2025.10.02-20.33.54:998][636]LogSavePackage: Moving '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/Fnaf_4_Room_Sharing_RoboToy_low460999C5406D746489EB66B438F16924.tmp' to '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_RoboToy_low.uasset'
+[2025.10.02-20.33.55:010][636]LogSavePackage: Moving output files for package: /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_Table_Bedside
+[2025.10.02-20.33.55:010][636]LogSavePackage: Moving '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/Fnaf_4_Room_Sharing_Table_BedsidCAAD8C2141D0179C91CFC9B6C1036E6B.tmp' to '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_Table_Bedside.uasset'
+[2025.10.02-20.33.55:021][636]LogSavePackage: Moving output files for package: /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_Table_Left
+[2025.10.02-20.33.55:021][636]LogSavePackage: Moving '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/Fnaf_4_Room_Sharing_Table_Left744A5D0245D38BB61C54FD838DD34429.tmp' to '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_Table_Left.uasset'
+[2025.10.02-20.33.55:033][636]LogSavePackage: Moving output files for package: /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_Table_Right
+[2025.10.02-20.33.55:034][636]LogSavePackage: Moving '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/Fnaf_4_Room_Sharing_Table_RightCEC4C7D449B94C01BA733FA728245A55.tmp' to '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_Table_Right.uasset'
+[2025.10.02-20.33.55:045][636]LogSavePackage: Moving output files for package: /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_WindowH1
+[2025.10.02-20.33.55:045][636]LogSavePackage: Moving '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/Fnaf_4_Room_Sharing_WindowH10A859A7445EEAFB9B6826AA19EF89D24.tmp' to '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_WindowH1.uasset'
+[2025.10.02-20.33.55:055][636]LogSavePackage: Moving output files for package: /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_WindowH2
+[2025.10.02-20.33.55:055][636]LogSavePackage: Moving '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/Fnaf_4_Room_Sharing_WindowH2019345464B80FC5FD6394DB7760BE3CA.tmp' to '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_WindowH2.uasset'
+[2025.10.02-20.33.55:067][636]LogSavePackage: Moving output files for package: /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_WindowPT
+[2025.10.02-20.33.55:067][636]LogSavePackage: Moving '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/Fnaf_4_Room_Sharing_WindowPTF0DAF6D84578AD2B6377CA8C465A237B.tmp' to '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_WindowPT.uasset'
+[2025.10.02-20.33.55:085][636]LogSavePackage: Moving output files for package: /Game/RaccoonzONLY/TestFab/Frame
+[2025.10.02-20.33.55:085][636]LogSavePackage: Moving '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/Frame26A841FD4665C731018247AA03E7C8BA.tmp' to '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/RaccoonzONLY/TestFab/Frame.uasset'
+[2025.10.02-20.33.55:102][636]LogSavePackage: Moving output files for package: /Game/RaccoonzONLY/TestFab/GClock
+[2025.10.02-20.33.55:102][636]LogSavePackage: Moving '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/GClockBB668B1F43F93D34C0B36FBF52C754C4.tmp' to '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/RaccoonzONLY/TestFab/GClock.uasset'
+[2025.10.02-20.33.55:120][636]LogSavePackage: Moving output files for package: /Game/RaccoonzONLY/TestFab/Lamp_001
+[2025.10.02-20.33.55:120][636]LogSavePackage: Moving '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/Lamp_00187CF7D1648A2DEA44689EEBA3633F6B4.tmp' to '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/RaccoonzONLY/TestFab/Lamp_001.uasset'
+[2025.10.02-20.33.55:137][636]LogSavePackage: Moving output files for package: /Game/RaccoonzONLY/TestFab/Light
+[2025.10.02-20.33.55:137][636]LogSavePackage: Moving '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/LightCA6D1F1A478A40CC2F6C318E713474AE.tmp' to '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/RaccoonzONLY/TestFab/Light.uasset'
+[2025.10.02-20.33.55:158][636]LogSavePackage: Moving output files for package: /Game/RaccoonzONLY/TestFab/LLamp
+[2025.10.02-20.33.55:158][636]LogSavePackage: Moving '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/LLampB2C6C9E64881E8B744A56ABC4087D9BF.tmp' to '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/RaccoonzONLY/TestFab/LLamp.uasset'
+[2025.10.02-20.33.55:176][636]LogSavePackage: Moving output files for package: /Game/RaccoonzONLY/TestFab/material_atlas_00001_1
+[2025.10.02-20.33.55:176][636]LogSavePackage: Moving '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/material_atlas_00001_1A20B7FEF49E4DEE6983CC6BC6467C24C.tmp' to '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/RaccoonzONLY/TestFab/material_atlas_00001_1.uasset'
+[2025.10.02-20.33.55:195][636]LogSavePackage: Moving output files for package: /Game/RaccoonzONLY/TestFab/Photoy
+[2025.10.02-20.33.55:195][636]LogSavePackage: Moving '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/Photoy6A49A4DD4A302049629FB1AFECDFF1F4.tmp' to '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/RaccoonzONLY/TestFab/Photoy.uasset'
+[2025.10.02-20.33.55:213][636]LogSavePackage: Moving output files for package: /Game/RaccoonzONLY/TestFab/Robotoy
+[2025.10.02-20.33.55:213][636]LogSavePackage: Moving '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/Robotoy64E0EE4B41263ABC64D16BB50C23EBC3.tmp' to '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/RaccoonzONLY/TestFab/Robotoy.uasset'
+[2025.10.02-20.33.55:231][636]LogSavePackage: Moving output files for package: /Game/RaccoonzONLY/TestFab/Stars
+[2025.10.02-20.33.55:231][636]LogSavePackage: Moving '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/Stars62B52926450AC394D6B5EEB8E3C73A91.tmp' to '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/RaccoonzONLY/TestFab/Stars.uasset'
+[2025.10.02-20.33.55:249][636]LogSavePackage: Moving output files for package: /Game/RaccoonzONLY/TestFab/Table1
+[2025.10.02-20.33.55:249][636]LogSavePackage: Moving '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/Table177F6811C4A8C97044555DC9372FCB6A9.tmp' to '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/RaccoonzONLY/TestFab/Table1.uasset'
+[2025.10.02-20.33.55:258][636]LogFileHelpers: InternalPromptForCheckoutAndSave took 980 ms (total: 6.93 sec)
+[2025.10.02-20.33.55:365][636]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.10.02-20.33.55:369][636]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.10.02-20.33.55:373][636]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2025.10.02-20.33.55:389][636]AssetCheck: New page: Asset Save: multiple assets
+[2025.10.02-20.33.55:389][636]LogContentValidation: Display: Validating /Script/Engine.Material /Game/RaccoonzONLY/TestFab/Bed.Bed
+[2025.10.02-20.33.55:389][636]LogContentValidation: Display: Validating /Script/Engine.Material /Game/RaccoonzONLY/TestFab/Carpet01.Carpet01
+[2025.10.02-20.33.55:389][636]LogContentValidation: Display: Validating /Script/Engine.Material /Game/RaccoonzONLY/TestFab/CaterToy.CaterToy
+[2025.10.02-20.33.55:389][636]LogContentValidation: Display: Validating /Script/Engine.Material /Game/RaccoonzONLY/TestFab/Ceiling01.Ceiling01
+[2025.10.02-20.33.55:389][636]LogContentValidation: Display: Validating /Script/Engine.Material /Game/RaccoonzONLY/TestFab/Clothes.Clothes
+[2025.10.02-20.33.55:389][636]LogContentValidation: Display: Validating /Script/Engine.Material /Game/RaccoonzONLY/TestFab/DClock.DClock
+[2025.10.02-20.33.55:389][636]LogContentValidation: Display: Validating /Script/Engine.Material /Game/RaccoonzONLY/TestFab/Doorframe.Doorframe
+[2025.10.02-20.33.55:389][636]LogContentValidation: Display: Validating /Script/Engine.Material /Game/RaccoonzONLY/TestFab/DoorHandle.DoorHandle
+[2025.10.02-20.33.55:389][636]LogContentValidation: Display: Validating /Script/Engine.Material /Game/RaccoonzONLY/TestFab/Dresser.Dresser
+[2025.10.02-20.33.55:389][636]LogContentValidation: Display: Validating /Script/Engine.Material /Game/RaccoonzONLY/TestFab/Fan.Fan
+[2025.10.02-20.33.55:389][636]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_BDoor_Left.Fnaf_4_Room_Sharing_BDoor_Left
+[2025.10.02-20.33.55:389][636]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_BDoor_Right.Fnaf_4_Room_Sharing_BDoor_Right
+[2025.10.02-20.33.55:389][636]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_BDoorframe_Left.Fnaf_4_Room_Sharing_BDoorframe_Left
+[2025.10.02-20.33.55:389][636]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_BDoorFrame_Right.Fnaf_4_Room_Sharing_BDoorFrame_Right
+[2025.10.02-20.33.55:389][636]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_Bed.Fnaf_4_Room_Sharing_Bed
+[2025.10.02-20.33.55:389][636]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_Bedroom.Fnaf_4_Room_Sharing_Bedroom
+[2025.10.02-20.33.55:389][636]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_CaterToy_low.Fnaf_4_Room_Sharing_CaterToy_low
+[2025.10.02-20.33.55:389][636]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_CeilingFrame.Fnaf_4_Room_Sharing_CeilingFrame
+[2025.10.02-20.33.55:389][636]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_CeilingLight1_Left.Fnaf_4_Room_Sharing_CeilingLight1_Left
+[2025.10.02-20.33.55:389][636]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_CeilingLight1_Right.Fnaf_4_Room_Sharing_CeilingLight1_Right
+[2025.10.02-20.33.55:389][636]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_CeilingLight2_Left.Fnaf_4_Room_Sharing_CeilingLight2_Left
+[2025.10.02-20.33.55:389][636]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_CeilingLight2_Right.Fnaf_4_Room_Sharing_CeilingLight2_Right
+[2025.10.02-20.33.55:389][636]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_CeilingLight_Bedroom.Fnaf_4_Room_Sharing_CeilingLight_Bedroom
+[2025.10.02-20.33.55:389][636]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_CeilingLight_PTHall.Fnaf_4_Room_Sharing_CeilingLight_PTHall
+[2025.10.02-20.33.55:389][636]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_Chair.Fnaf_4_Room_Sharing_Chair
+[2025.10.02-20.33.55:389][636]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_Circle.Fnaf_4_Room_Sharing_Circle
+[2025.10.02-20.33.55:389][636]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_Closet.Fnaf_4_Room_Sharing_Closet
+[2025.10.02-20.33.55:390][636]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_ClosetFrame.Fnaf_4_Room_Sharing_ClosetFrame
+[2025.10.02-20.33.55:390][636]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_Clothes.Fnaf_4_Room_Sharing_Clothes
+[2025.10.02-20.33.55:390][636]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_ClothesL.Fnaf_4_Room_Sharing_ClothesL
+[2025.10.02-20.33.55:390][636]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_ClothesR.Fnaf_4_Room_Sharing_ClothesR
+[2025.10.02-20.33.55:390][636]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_DigiClock_low.Fnaf_4_Room_Sharing_DigiClock_low
+[2025.10.02-20.33.55:390][636]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_Dresser.Fnaf_4_Room_Sharing_Dresser
+[2025.10.02-20.33.55:390][636]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_Dresser2.Fnaf_4_Room_Sharing_Dresser2
+[2025.10.02-20.33.55:390][636]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_Dresser_Side.Fnaf_4_Room_Sharing_Dresser_Side
+[2025.10.02-20.33.55:390][636]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_Fan_low.Fnaf_4_Room_Sharing_Fan_low
+[2025.10.02-20.33.55:390][636]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_GClock_low.Fnaf_4_Room_Sharing_GClock_low
+[2025.10.02-20.33.55:390][636]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_HallF.Fnaf_4_Room_Sharing_HallF
+[2025.10.02-20.33.55:390][636]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_HallL.Fnaf_4_Room_Sharing_HallL
+[2025.10.02-20.33.55:390][636]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_HallR.Fnaf_4_Room_Sharing_HallR
+[2025.10.02-20.33.55:390][636]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_Lamp_Bedside.Fnaf_4_Room_Sharing_Lamp_Bedside
+[2025.10.02-20.33.55:390][636]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_Lamp_Dresser.Fnaf_4_Room_Sharing_Lamp_Dresser
+[2025.10.02-20.33.55:390][636]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_Lamp_Left.Fnaf_4_Room_Sharing_Lamp_Left
+[2025.10.02-20.33.55:390][636]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_Lamp_Right.Fnaf_4_Room_Sharing_Lamp_Right
+[2025.10.02-20.33.55:390][636]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_LLamp.Fnaf_4_Room_Sharing_LLamp
+[2025.10.02-20.33.55:390][636]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_PhoToy_low.Fnaf_4_Room_Sharing_PhoToy_low
+[2025.10.02-20.33.55:390][636]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_Pictures.Fnaf_4_Room_Sharing_Pictures
+[2025.10.02-20.33.55:390][636]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_Plushtrap.Fnaf_4_Room_Sharing_Plushtrap
+[2025.10.02-20.33.55:390][636]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_PTDoorframe1_Left.Fnaf_4_Room_Sharing_PTDoorframe1_Left
+[2025.10.02-20.33.55:390][636]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_PTDoorframe1_Right.Fnaf_4_Room_Sharing_PTDoorframe1_Right
+[2025.10.02-20.33.55:390][636]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_PTDoorframe2_Left.Fnaf_4_Room_Sharing_PTDoorframe2_Left
+[2025.10.02-20.33.55:390][636]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_PTDoorframe2_Right.Fnaf_4_Room_Sharing_PTDoorframe2_Right
+[2025.10.02-20.33.55:390][636]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_RoboToy_low.Fnaf_4_Room_Sharing_RoboToy_low
+[2025.10.02-20.33.55:390][636]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_Table_Bedside.Fnaf_4_Room_Sharing_Table_Bedside
+[2025.10.02-20.33.55:390][636]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_Table_Left.Fnaf_4_Room_Sharing_Table_Left
+[2025.10.02-20.33.55:390][636]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_Table_Right.Fnaf_4_Room_Sharing_Table_Right
+[2025.10.02-20.33.55:390][636]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_WindowH1.Fnaf_4_Room_Sharing_WindowH1
+[2025.10.02-20.33.55:390][636]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_WindowH2.Fnaf_4_Room_Sharing_WindowH2
+[2025.10.02-20.33.55:390][636]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_WindowPT.Fnaf_4_Room_Sharing_WindowPT
+[2025.10.02-20.33.55:390][636]LogContentValidation: Display: Validating /Script/Engine.Material /Game/RaccoonzONLY/TestFab/Frame.Frame
+[2025.10.02-20.33.55:390][636]LogContentValidation: Display: Validating /Script/Engine.Material /Game/RaccoonzONLY/TestFab/GClock.GClock
+[2025.10.02-20.33.55:390][636]LogContentValidation: Display: Validating /Script/Engine.Material /Game/RaccoonzONLY/TestFab/Lamp_001.Lamp_001
+[2025.10.02-20.33.55:390][636]LogContentValidation: Display: Validating /Script/Engine.Material /Game/RaccoonzONLY/TestFab/Light.Light
+[2025.10.02-20.33.55:390][636]LogContentValidation: Display: Validating /Script/Engine.Material /Game/RaccoonzONLY/TestFab/LLamp.LLamp
+[2025.10.02-20.33.55:390][636]LogContentValidation: Display: Validating /Script/Engine.Material /Game/RaccoonzONLY/TestFab/material_atlas_00001_1.material_atlas_00001_1
+[2025.10.02-20.33.55:390][636]LogContentValidation: Display: Validating /Script/Engine.Material /Game/RaccoonzONLY/TestFab/Photoy.Photoy
+[2025.10.02-20.33.55:390][636]LogContentValidation: Display: Validating /Script/Engine.Material /Game/RaccoonzONLY/TestFab/Robotoy.Robotoy
+[2025.10.02-20.33.55:390][636]LogContentValidation: Display: Validating /Script/Engine.Material /Game/RaccoonzONLY/TestFab/Stars.Stars
+[2025.10.02-20.33.55:390][636]LogContentValidation: Display: Validating /Script/Engine.Material /Game/RaccoonzONLY/TestFab/Table1.Table1
+[2025.10.02-20.33.59:485][ 84]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.02-20.33.59:556][ 84]LogSavePackage: Moving output files for package: /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_WindowH1
+[2025.10.02-20.33.59:556][ 84]LogSavePackage: Moving '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/Fnaf_4_Room_Sharing_WindowH1CFC0B1C54608AF370F5E88AF05819C58.tmp' to '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_WindowH1.uasset'
+[2025.10.02-20.33.59:559][ 84]LogSavePackage: Moving output files for package: /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_WindowH2
+[2025.10.02-20.33.59:559][ 84]LogSavePackage: Moving '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/Fnaf_4_Room_Sharing_WindowH222B0420F4B4A6933C261B9B677C936E0.tmp' to '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_WindowH2.uasset'
+[2025.10.02-20.33.59:563][ 84]LogSavePackage: Moving output files for package: /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_WindowPT
+[2025.10.02-20.33.59:563][ 84]LogSavePackage: Moving '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/Fnaf_4_Room_Sharing_WindowPTFAAB2EB24E7855E40C25DBBDF044477C.tmp' to '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_WindowPT.uasset'
+[2025.10.02-20.33.59:566][ 84]LogSavePackage: Moving output files for package: /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_Bedroom
+[2025.10.02-20.33.59:567][ 84]LogSavePackage: Moving '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/Fnaf_4_Room_Sharing_Bedroom945A49CD4465497241075793704CDAD1.tmp' to '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_Bedroom.uasset'
+[2025.10.02-20.33.59:570][ 84]LogSavePackage: Moving output files for package: /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_Closet
+[2025.10.02-20.33.59:571][ 84]LogSavePackage: Moving '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/Fnaf_4_Room_Sharing_ClosetFA0895FE4EAE0AC87C9F4D971178C37D.tmp' to '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_Closet.uasset'
+[2025.10.02-20.33.59:575][ 84]LogSavePackage: Moving output files for package: /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_Plushtrap
+[2025.10.02-20.33.59:575][ 84]LogSavePackage: Moving '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/Fnaf_4_Room_Sharing_Plushtrap02AFE34F4CD19090189AE89EF82ECBBA.tmp' to '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_Plushtrap.uasset'
+[2025.10.02-20.33.59:579][ 84]LogSavePackage: Moving output files for package: /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_HallF
+[2025.10.02-20.33.59:579][ 84]LogSavePackage: Moving '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/Fnaf_4_Room_Sharing_HallF40296BFD40EC155C44A78489A200E5FF.tmp' to '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_HallF.uasset'
+[2025.10.02-20.33.59:582][ 84]LogSavePackage: Moving output files for package: /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_HallL
+[2025.10.02-20.33.59:582][ 84]LogSavePackage: Moving '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/Fnaf_4_Room_Sharing_HallL835E83B34B31597AC9B9CCB2124B8992.tmp' to '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_HallL.uasset'
+[2025.10.02-20.33.59:585][ 84]LogSavePackage: Moving output files for package: /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_HallR
+[2025.10.02-20.33.59:586][ 84]LogSavePackage: Moving '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/Fnaf_4_Room_Sharing_HallR2A03D0B74609B96B1C9101AA30048F02.tmp' to '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_HallR.uasset'
+[2025.10.02-20.33.59:605][ 84]LogSavePackage: Moving output files for package: /Game/RaccoonzONLY/TestFab/Window
+[2025.10.02-20.33.59:605][ 84]LogSavePackage: Moving '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/WindowE295E3974050BE7CA4F28D95CE624726.tmp' to '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/RaccoonzONLY/TestFab/Window.uasset'
+[2025.10.02-20.33.59:621][ 84]LogSavePackage: Moving output files for package: /Game/RaccoonzONLY/TestFab/Wall01
+[2025.10.02-20.33.59:621][ 84]LogSavePackage: Moving '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/Wall01A4AD8F024443F2F10B942C8A001C9D51.tmp' to '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/RaccoonzONLY/TestFab/Wall01.uasset'
+[2025.10.02-20.33.59:639][ 84]LogSavePackage: Moving output files for package: /Game/RaccoonzONLY/TestFab/Wall02
+[2025.10.02-20.33.59:639][ 84]LogSavePackage: Moving '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/Wall0248C8CE7749988526907EADB5F330ECDE.tmp' to '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/RaccoonzONLY/TestFab/Wall02.uasset'
+[2025.10.02-20.33.59:646][ 84]LogFileHelpers: InternalPromptForCheckoutAndSave took 160 ms (total: 7.09 sec)
+[2025.10.02-20.33.59:654][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.10.02-20.33.59:658][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.10.02-20.33.59:661][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2025.10.02-20.33.59:675][ 84]AssetCheck: New page: Asset Save: multiple assets
+[2025.10.02-20.33.59:675][ 84]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_WindowH1.Fnaf_4_Room_Sharing_WindowH1
+[2025.10.02-20.33.59:675][ 84]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_WindowH2.Fnaf_4_Room_Sharing_WindowH2
+[2025.10.02-20.33.59:675][ 84]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_WindowPT.Fnaf_4_Room_Sharing_WindowPT
+[2025.10.02-20.33.59:675][ 84]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_Bedroom.Fnaf_4_Room_Sharing_Bedroom
+[2025.10.02-20.33.59:675][ 84]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_Closet.Fnaf_4_Room_Sharing_Closet
+[2025.10.02-20.33.59:675][ 84]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_Plushtrap.Fnaf_4_Room_Sharing_Plushtrap
+[2025.10.02-20.33.59:675][ 84]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_HallF.Fnaf_4_Room_Sharing_HallF
+[2025.10.02-20.33.59:675][ 84]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_HallL.Fnaf_4_Room_Sharing_HallL
+[2025.10.02-20.33.59:675][ 84]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_HallR.Fnaf_4_Room_Sharing_HallR
+[2025.10.02-20.33.59:675][ 84]LogContentValidation: Display: Validating /Script/Engine.Material /Game/RaccoonzONLY/TestFab/Window.Window
+[2025.10.02-20.33.59:675][ 84]LogContentValidation: Display: Validating /Script/Engine.Material /Game/RaccoonzONLY/TestFab/Wall01.Wall01
+[2025.10.02-20.33.59:675][ 84]LogContentValidation: Display: Validating /Script/Engine.Material /Game/RaccoonzONLY/TestFab/Wall02.Wall02
+[2025.10.02-20.34.03:730][500]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_Bedroom.Fnaf_4_Room_Sharing_Bedroom
+[2025.10.02-20.34.03:730][500]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_Bedroom.Fnaf_4_Room_Sharing_Bedroom
+[2025.10.02-20.34.03:731][500]LogActorFactory: Actor Factory spawned StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_Bedroom.Fnaf_4_Room_Sharing_Bedroom as actor: StaticMeshActor /Game/RaccoonzONLY/Test101.Test101:PersistentLevel.StaticMeshActor_0
+[2025.10.02-20.34.04:876][634]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_Bedroom.Fnaf_4_Room_Sharing_Bedroom
+[2025.10.02-20.34.04:876][634]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_Bedroom.Fnaf_4_Room_Sharing_Bedroom
+[2025.10.02-20.34.04:879][634]LogActorFactory: Actor Factory spawned StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_Bedroom.Fnaf_4_Room_Sharing_Bedroom as actor: StaticMeshActor /Game/RaccoonzONLY/Test101.Test101:PersistentLevel.StaticMeshActor_2
+[2025.10.02-20.34.04:935][634]LogUObjectGlobals: Warning: Failed to find object 'Class /Script/PCG.PCGSettings'
+[2025.10.02-20.34.33:460][921]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_Closet.Fnaf_4_Room_Sharing_Closet
+[2025.10.02-20.34.33:460][921]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_Closet.Fnaf_4_Room_Sharing_Closet
+[2025.10.02-20.34.33:460][921]LogActorFactory: Actor Factory spawned StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_Closet.Fnaf_4_Room_Sharing_Closet as actor: StaticMeshActor /Game/RaccoonzONLY/Test101.Test101:PersistentLevel.StaticMeshActor_3
+[2025.10.02-20.34.34:293][ 16]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_Closet.Fnaf_4_Room_Sharing_Closet
+[2025.10.02-20.34.34:293][ 16]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_Closet.Fnaf_4_Room_Sharing_Closet
+[2025.10.02-20.34.34:294][ 16]LogActorFactory: Actor Factory spawned StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_Closet.Fnaf_4_Room_Sharing_Closet as actor: StaticMeshActor /Game/RaccoonzONLY/Test101.Test101:PersistentLevel.StaticMeshActor_4
+[2025.10.02-20.34.47:836][592]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5438.938965
+[2025.10.02-20.34.48:145][629]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.02-20.34.48:145][629]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5439.238770, Update Interval: 356.705841
+[2025.10.02-20.35.05:604][628]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_HallR.Fnaf_4_Room_Sharing_HallR
+[2025.10.02-20.35.05:604][628]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_HallR.Fnaf_4_Room_Sharing_HallR
+[2025.10.02-20.35.05:605][628]LogActorFactory: Actor Factory spawned StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_HallR.Fnaf_4_Room_Sharing_HallR as actor: StaticMeshActor /Game/RaccoonzONLY/Test101.Test101:PersistentLevel.StaticMeshActor_5
+[2025.10.02-20.35.07:193][813]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_HallR.Fnaf_4_Room_Sharing_HallR
+[2025.10.02-20.35.07:193][813]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_HallR.Fnaf_4_Room_Sharing_HallR
+[2025.10.02-20.35.07:194][813]LogActorFactory: Actor Factory spawned StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_HallR.Fnaf_4_Room_Sharing_HallR as actor: StaticMeshActor /Game/RaccoonzONLY/Test101.Test101:PersistentLevel.StaticMeshActor_6
+[2025.10.02-20.35.18:986][139]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.02-20.35.19:065][139]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.10.02-20.35.19:073][139]LogSavePackage: Moving output files for package: /Game/RaccoonzONLY/Test101
+[2025.10.02-20.35.19:073][139]LogSavePackage: Moving '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/Test1016EF7AE7647A8802D5B96C487E01A3E63.tmp' to '../../../../../../Users/USER/Desktop/Coonhattan/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/RaccoonzONLY/Test101.umap'
+[2025.10.02-20.35.19:081][139]LogFileHelpers: Saving map 'Test101' took 0.033
+[2025.10.02-20.35.19:086][139]LogFileHelpers: InternalPromptForCheckoutAndSave took 100 ms (total: 7.19 sec)
+[2025.10.02-20.35.19:088][139]AssetCheck: New page: Asset Save: Test101
+[2025.10.02-20.35.19:088][139]LogContentValidation: Display: Validating /Script/Engine.World /Game/RaccoonzONLY/Test101.Test101
+[2025.10.02-20.35.21:082][337]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_HallL.Fnaf_4_Room_Sharing_HallL
+[2025.10.02-20.35.21:082][337]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_HallL.Fnaf_4_Room_Sharing_HallL
+[2025.10.02-20.35.21:082][337]LogActorFactory: Actor Factory spawned StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_HallL.Fnaf_4_Room_Sharing_HallL as actor: StaticMeshActor /Game/RaccoonzONLY/Test101.Test101:PersistentLevel.StaticMeshActor_7
+[2025.10.02-20.35.21:738][411]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_HallL.Fnaf_4_Room_Sharing_HallL
+[2025.10.02-20.35.21:738][411]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_HallL.Fnaf_4_Room_Sharing_HallL
+[2025.10.02-20.35.21:739][411]LogActorFactory: Actor Factory spawned StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_HallL.Fnaf_4_Room_Sharing_HallL as actor: StaticMeshActor /Game/RaccoonzONLY/Test101.Test101:PersistentLevel.StaticMeshActor_8
+[2025.10.02-20.35.42:546][794]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_HallF.Fnaf_4_Room_Sharing_HallF
+[2025.10.02-20.35.42:546][794]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_HallF.Fnaf_4_Room_Sharing_HallF
+[2025.10.02-20.35.42:546][794]LogActorFactory: Actor Factory spawned StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_HallF.Fnaf_4_Room_Sharing_HallF as actor: StaticMeshActor /Game/RaccoonzONLY/Test101.Test101:PersistentLevel.StaticMeshActor_9
+[2025.10.02-20.35.43:196][869]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_HallF.Fnaf_4_Room_Sharing_HallF
+[2025.10.02-20.35.43:196][869]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_HallF.Fnaf_4_Room_Sharing_HallF
+[2025.10.02-20.35.43:197][869]LogActorFactory: Actor Factory spawned StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_HallF.Fnaf_4_Room_Sharing_HallF as actor: StaticMeshActor /Game/RaccoonzONLY/Test101.Test101:PersistentLevel.StaticMeshActor_10
+[2025.10.02-20.36.22:161][311]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_Bed.Fnaf_4_Room_Sharing_Bed
+[2025.10.02-20.36.22:163][311]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_Bed.Fnaf_4_Room_Sharing_Bed
+[2025.10.02-20.36.22:163][311]LogActorFactory: Actor Factory spawned StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_Bed.Fnaf_4_Room_Sharing_Bed as actor: StaticMeshActor /Game/RaccoonzONLY/Test101.Test101:PersistentLevel.StaticMeshActor_11
+[2025.10.02-20.36.22:811][385]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_Bed.Fnaf_4_Room_Sharing_Bed
+[2025.10.02-20.36.22:811][385]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_Bed.Fnaf_4_Room_Sharing_Bed
+[2025.10.02-20.36.22:812][385]LogActorFactory: Actor Factory spawned StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_Bed.Fnaf_4_Room_Sharing_Bed as actor: StaticMeshActor /Game/RaccoonzONLY/Test101.Test101:PersistentLevel.StaticMeshActor_12
+[2025.10.02-20.36.38:527][187]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_CeilingFrame.Fnaf_4_Room_Sharing_CeilingFrame
+[2025.10.02-20.36.38:527][187]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_CeilingFrame.Fnaf_4_Room_Sharing_CeilingFrame
+[2025.10.02-20.36.38:528][187]LogActorFactory: Actor Factory spawned StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_CeilingFrame.Fnaf_4_Room_Sharing_CeilingFrame as actor: StaticMeshActor /Game/RaccoonzONLY/Test101.Test101:PersistentLevel.StaticMeshActor_13
+[2025.10.02-20.36.39:819][333]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_CeilingFrame.Fnaf_4_Room_Sharing_CeilingFrame
+[2025.10.02-20.36.39:819][333]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_CeilingFrame.Fnaf_4_Room_Sharing_CeilingFrame
+[2025.10.02-20.36.39:820][333]LogActorFactory: Actor Factory spawned StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_CeilingFrame.Fnaf_4_Room_Sharing_CeilingFrame as actor: StaticMeshActor /Game/RaccoonzONLY/Test101.Test101:PersistentLevel.StaticMeshActor_14
+[2025.10.02-20.37.11:403][852]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_Plushtrap.Fnaf_4_Room_Sharing_Plushtrap
+[2025.10.02-20.37.11:403][852]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_Plushtrap.Fnaf_4_Room_Sharing_Plushtrap
+[2025.10.02-20.37.11:403][852]LogActorFactory: Actor Factory spawned StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_Plushtrap.Fnaf_4_Room_Sharing_Plushtrap as actor: StaticMeshActor /Game/RaccoonzONLY/Test101.Test101:PersistentLevel.StaticMeshActor_15
+[2025.10.02-20.37.12:269][948]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_Plushtrap.Fnaf_4_Room_Sharing_Plushtrap
+[2025.10.02-20.37.12:269][948]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_Plushtrap.Fnaf_4_Room_Sharing_Plushtrap
+[2025.10.02-20.37.12:270][948]LogActorFactory: Actor Factory spawned StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_Plushtrap.Fnaf_4_Room_Sharing_Plushtrap as actor: StaticMeshActor /Game/RaccoonzONLY/Test101.Test101:PersistentLevel.StaticMeshActor_16
+[2025.10.02-20.38.15:953][334]Cmd: TRANSACTION UNDO
+[2025.10.02-20.38.15:953][334]LogEditorTransaction: Undo Move Elements
+[2025.10.02-20.38.16:235][339]Cmd: TRANSACTION UNDO
+[2025.10.02-20.38.16:235][339]LogEditorTransaction: Undo Clicking on Elements
+[2025.10.02-20.38.22:424][ 13]Cmd: DELETE
+[2025.10.02-20.38.22:425][ 13]Cmd: ACTOR DELETE
+[2025.10.02-20.38.22:433][ 13]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.02-20.38.22:439][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.10.02-20.38.22:440][ 13]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2025.10.02-20.38.28:481][685]Cmd: DELETE
+[2025.10.02-20.38.28:481][685]Cmd: ACTOR DELETE
+[2025.10.02-20.38.28:482][685]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.02-20.38.28:485][685]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2025.10.02-20.38.28:487][685]LogEditorActor: Deleted 1 Actors (0.005 secs)
+[2025.10.02-20.38.49:641][ 35]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_Dresser2.Fnaf_4_Room_Sharing_Dresser2
+[2025.10.02-20.38.49:641][ 35]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_Dresser2.Fnaf_4_Room_Sharing_Dresser2
+[2025.10.02-20.38.49:641][ 35]LogActorFactory: Actor Factory spawned StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_Dresser2.Fnaf_4_Room_Sharing_Dresser2 as actor: StaticMeshActor /Game/RaccoonzONLY/Test101.Test101:PersistentLevel.StaticMeshActor_17
+[2025.10.02-20.38.50:365][113]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_Dresser2.Fnaf_4_Room_Sharing_Dresser2
+[2025.10.02-20.38.50:365][113]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_Dresser2.Fnaf_4_Room_Sharing_Dresser2
+[2025.10.02-20.38.50:366][113]LogActorFactory: Actor Factory spawned StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_Dresser2.Fnaf_4_Room_Sharing_Dresser2 as actor: StaticMeshActor /Game/RaccoonzONLY/Test101.Test101:PersistentLevel.StaticMeshActor_18
+[2025.10.02-20.38.51:020][188]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_Dresser2.Fnaf_4_Room_Sharing_Dresser2
+[2025.10.02-20.38.51:020][188]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_Dresser2.Fnaf_4_Room_Sharing_Dresser2
+[2025.10.02-20.38.51:020][188]LogActorFactory: Actor Factory spawned StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_Dresser2.Fnaf_4_Room_Sharing_Dresser2 as actor: StaticMeshActor /Game/RaccoonzONLY/Test101.Test101:PersistentLevel.StaticMeshActor_19
+[2025.10.02-20.38.51:801][277]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_Dresser2.Fnaf_4_Room_Sharing_Dresser2
+[2025.10.02-20.38.51:801][277]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_Dresser2.Fnaf_4_Room_Sharing_Dresser2
+[2025.10.02-20.38.51:801][277]LogActorFactory: Actor Factory spawned StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_Dresser2.Fnaf_4_Room_Sharing_Dresser2 as actor: StaticMeshActor /Game/RaccoonzONLY/Test101.Test101:PersistentLevel.StaticMeshActor_20
+[2025.10.02-20.38.52:378][342]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_Dresser2.Fnaf_4_Room_Sharing_Dresser2
+[2025.10.02-20.38.52:378][342]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_Dresser2.Fnaf_4_Room_Sharing_Dresser2
+[2025.10.02-20.38.52:379][342]LogActorFactory: Actor Factory spawned StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_Dresser2.Fnaf_4_Room_Sharing_Dresser2 as actor: StaticMeshActor /Game/RaccoonzONLY/Test101.Test101:PersistentLevel.StaticMeshActor_21
+[2025.10.02-20.39.01:716][348]Cmd: DELETE
+[2025.10.02-20.39.01:716][348]Cmd: ACTOR DELETE
+[2025.10.02-20.39.01:717][348]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.02-20.39.01:723][348]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.10.02-20.39.01:724][348]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2025.10.02-20.39.03:172][497]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_ClosetFrame.Fnaf_4_Room_Sharing_ClosetFrame
+[2025.10.02-20.39.03:172][497]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_ClosetFrame.Fnaf_4_Room_Sharing_ClosetFrame
+[2025.10.02-20.39.03:172][497]LogActorFactory: Actor Factory spawned StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_ClosetFrame.Fnaf_4_Room_Sharing_ClosetFrame as actor: StaticMeshActor /Game/RaccoonzONLY/Test101.Test101:PersistentLevel.StaticMeshActor_22
+[2025.10.02-20.39.04:073][602]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_ClosetFrame.Fnaf_4_Room_Sharing_ClosetFrame
+[2025.10.02-20.39.04:073][602]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_ClosetFrame.Fnaf_4_Room_Sharing_ClosetFrame
+[2025.10.02-20.39.04:073][602]LogActorFactory: Actor Factory spawned StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_ClosetFrame.Fnaf_4_Room_Sharing_ClosetFrame as actor: StaticMeshActor /Game/RaccoonzONLY/Test101.Test101:PersistentLevel.StaticMeshActor_23
+[2025.10.02-20.39.04:639][667]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_ClosetFrame.Fnaf_4_Room_Sharing_ClosetFrame
+[2025.10.02-20.39.04:639][667]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_ClosetFrame.Fnaf_4_Room_Sharing_ClosetFrame
+[2025.10.02-20.39.04:640][667]LogActorFactory: Actor Factory spawned StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_ClosetFrame.Fnaf_4_Room_Sharing_ClosetFrame as actor: StaticMeshActor /Game/RaccoonzONLY/Test101.Test101:PersistentLevel.StaticMeshActor_24
+[2025.10.02-20.39.23:790][871]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_GClock_low.Fnaf_4_Room_Sharing_GClock_low
+[2025.10.02-20.39.23:790][871]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_GClock_low.Fnaf_4_Room_Sharing_GClock_low
+[2025.10.02-20.39.23:791][871]LogActorFactory: Actor Factory spawned StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_GClock_low.Fnaf_4_Room_Sharing_GClock_low as actor: StaticMeshActor /Game/RaccoonzONLY/Test101.Test101:PersistentLevel.StaticMeshActor_25
+[2025.10.02-20.39.24:744][982]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_GClock_low.Fnaf_4_Room_Sharing_GClock_low
+[2025.10.02-20.39.24:745][982]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_GClock_low.Fnaf_4_Room_Sharing_GClock_low
+[2025.10.02-20.39.24:745][982]LogActorFactory: Actor Factory spawned StaticMesh /Game/RaccoonzONLY/TestFab/Fnaf_4_Room_Sharing_GClock_low.Fnaf_4_Room_Sharing_GClock_low as actor: StaticMeshActor /Game/RaccoonzONLY/Test101.Test101:PersistentLevel.StaticMeshActor_26
+[2025.10.02-20.39.31:478][729]Cmd: TRANSACTION UNDO
+[2025.10.02-20.39.31:478][729]LogEditorTransaction: Undo Move Elements
+[2025.10.02-20.39.31:769][734]Cmd: TRANSACTION UNDO
+[2025.10.02-20.39.31:769][734]LogEditorTransaction: Undo Move Elements
+[2025.10.02-20.39.32:281][771]Cmd: TRANSACTION UNDO
+[2025.10.02-20.39.32:281][771]LogEditorTransaction: Undo Move Elements
+[2025.10.02-20.41.23:619][952]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5834.658691
+[2025.10.02-20.41.24:620][955]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.02-20.41.24:620][955]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5835.327148, Update Interval: 319.691772
