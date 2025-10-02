@@ -3421,3 +3421,13 @@ The following settings have been applied:
 [2025.10.02-20.03.27:132][276]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3558.223145
 [2025.10.02-20.03.28:133][279]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.10.02-20.03.28:133][279]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3558.889893, Update Interval: 348.724030
+[2025.10.02-20.06.13:555][775]LogDerivedDataCache: C:/Users/USER/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:09.051 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 4690 files in 6582 folders with total size 429 MiB.
+[2025.10.02-20.09.58:862][451]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3949.948730
+[2025.10.02-20.10.00:196][455]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.02-20.10.00:196][455]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3950.948486, Update Interval: 312.405762
+[2025.10.02-20.15.54:261][517]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4305.355957
+[2025.10.02-20.15.55:594][521]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.02-20.15.55:594][521]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4306.355957, Update Interval: 324.892120
+[2025.10.02-20.22.10:249][458]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4681.345215
+[2025.10.02-20.22.11:582][462]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.02-20.22.11:582][462]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4682.345703, Update Interval: 333.198029
