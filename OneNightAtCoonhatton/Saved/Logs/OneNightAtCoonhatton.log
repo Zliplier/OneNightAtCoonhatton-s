@@ -5038,3 +5038,1625 @@ Script Stack (0 frames) :
 [2025.10.04-15.25.14:271][ 69]LogFileHelpers: InternalPromptForCheckoutAndSave took 128 ms (total: 17.7 sec)
 [2025.10.04-15.25.14:274][ 69]AssetCheck: New page: Asset Save: DebugMap
 [2025.10.04-15.25.14:274][ 69]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level/DebugMap.DebugMap
+[2025.10.04-15.25.29:891][249]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8854.541992
+[2025.10.04-15.25.30:891][252]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.04-15.25.30:891][252]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8855.208984, Update Interval: 308.344360
+[2025.10.04-15.28.06:990][614]LogDebuggerCommands: Repeating last play command: VR Preview
+[2025.10.04-15.28.06:995][614]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.04-15.28.06:995][614]PIE: New page: PIE session: DebugMap (5 ต.ค. 2568 05:28:06)
+[2025.10.04-15.28.06:996][614]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_DebugMap
+[2025.10.04-15.28.06:998][614]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002277s)
+[2025.10.04-15.28.06:998][614]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/DebugMap.DebugMap to /Game/Level/UEDPIE_0_DebugMap.DebugMap (0.002316s)
+[2025.10.04-15.28.07:007][614]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.10.04-15.28.07:008][614]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.10.04-15.28.07:008][614]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.10.04-15.28.07:008][614]LogAIModule: Creating AISystem for world DebugMap
+[2025.10.04-15.28.07:008][614]LogPlayLevel: PIE: World Init took: (0.000945s)
+[2025.10.04-15.28.07:008][614]LogAudio: Display: Creating Audio Device:                 Id: 33, Scope: Unique, Realtime: True
+[2025.10.04-15.28.07:008][614]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.04-15.28.07:008][614]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.04-15.28.07:008][614]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.04-15.28.07:008][614]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.04-15.28.07:008][614]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.04-15.28.07:008][614]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.04-15.28.07:008][614]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.04-15.28.07:008][614]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.04-15.28.07:010][614]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.04-15.28.07:010][614]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.04-15.28.07:010][614]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.04-15.28.07:011][614]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.04-15.28.07:030][614]LogAudioMixer: Display: Using Audio Hardware Device Speakers (USB Audio Device)
+[2025.10.04-15.28.07:030][614]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.04-15.28.07:030][614]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.04-15.28.07:030][614]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.04-15.28.07:031][614]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=33
+[2025.10.04-15.28.07:031][614]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=33
+[2025.10.04-15.28.07:033][614]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=33
+[2025.10.04-15.28.07:033][614]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=33
+[2025.10.04-15.28.07:033][614]LogInit: FAudioDevice initialized with ID 33.
+[2025.10.04-15.28.07:033][614]LogAudio: Display: Audio Device (ID: 33) registered with world 'DebugMap'.
+[2025.10.04-15.28.07:033][614]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 33
+[2025.10.04-15.28.07:062][614]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.04-15.28.07:198][614]LogLoad: Game class is 'GM_Main_C'
+[2025.10.04-15.28.07:199][614]LogWorld: Bringing World /Game/Level/UEDPIE_0_DebugMap.DebugMap up for play (max tick rate 0) at 2025.10.04-22.28.07
+[2025.10.04-15.28.07:199][614]LogWorld: Bringing up level for play took: 0.001008
+[2025.10.04-15.28.07:202][614]LogOnline: OSS: Created online subsystem instance for: :Context_46
+[2025.10.04-15.28.07:205][614]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2025.10.04-15.28.07:208][614]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2025.10.04-15.28.07:209][614]vr.PixelDensity = "1"
+[2025.10.04-15.28.07:216][614]PIE: Server logged in
+[2025.10.04-15.28.07:221][614]PIE: Play in editor total start time 0.225 seconds.
+[2025.10.04-15.28.07:223][614]LogHMD: Warning: No UPlayerMappableInputConfig provided in the OpenXR Input project settings, action bindings will not be visible to the OpenXR runtime. Action/Axis mappings from the Input configuration are deprecated for XR in favor of Enhanced Input.
+[2025.10.04-15.28.07:232][614]LogViewport: Scene viewport resized to 4128x2272, mode Windowed.
+[2025.10.04-15.28.07:242][614]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2025.10.04-15.28.56:678][394]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.04-15.28.56:678][394]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_DebugMap
+[2025.10.04-15.28.56:724][394]LogSlate: Window 'OneNightAtCoonhatton Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6) OpenXR Oculus (1.111.0)' being destroyed
+[2025.10.04-15.28.56:727][394]LogWorld: UWorld::CleanupWorld for DebugMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.04-15.28.56:729][394]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.04-15.28.56:745][394]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.04-15.28.56:749][394]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.04-15.28.56:763][394]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 33
+[2025.10.04-15.28.56:764][394]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2025.10.04-15.28.56:766][394]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2025.10.04-15.28.56:774][394]LogSlate: Slate User Unregistered.  User Index 8
+[2025.10.04-15.28.56:774][394]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2025.10.04-15.28.56:775][394]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.10.04-15.28.56:823][395]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2025.10.04-15.31.18:121][695]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9202.783203
+[2025.10.04-15.31.19:121][698]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.04-15.31.19:121][698]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9203.450195, Update Interval: 334.366272
+[2025.10.04-15.35.35:658][966]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-15.35.35:755][966]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.10.04-15.35.35:765][966]LogSavePackage: Moving output files for package: /Game/Level/DebugMap
+[2025.10.04-15.35.35:767][966]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/DebugMap9F2970994AE8DBF33016E58E8FBC00E0.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/Level/DebugMap.umap'
+[2025.10.04-15.35.35:774][966]LogFileHelpers: Saving map 'DebugMap' took 0.048
+[2025.10.04-15.35.35:784][966]LogFileHelpers: InternalPromptForCheckoutAndSave took 126 ms (total: 17.9 sec)
+[2025.10.04-15.35.35:789][966]AssetCheck: New page: Asset Save: DebugMap
+[2025.10.04-15.35.35:789][966]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level/DebugMap.DebugMap
+[2025.10.04-15.35.54:290][884]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-15.35.54:425][884]LogSavePackage: Moving output files for package: /Game/BluePrints/Door/BP_Door
+[2025.10.04-15.35.54:425][884]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/BP_Door68C18E4B4E69DB8C6BB490B3202B9BDC.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/BluePrints/Door/BP_Door.uasset'
+[2025.10.04-15.35.54:434][884]LogFileHelpers: InternalPromptForCheckoutAndSave took 144 ms (total: 18.0 sec)
+[2025.10.04-15.35.54:437][884]AssetCheck: New page: Asset Save: BP_Door
+[2025.10.04-15.35.54:437][884]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Door/BP_Door.BP_Door
+[2025.10.04-15.35.55:073][955]BlueprintLog: New page: Compile BP_Door
+[2025.10.04-15.35.55:104][955]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.10.04-15.35.58:428][253]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-15.35.58:513][253]LogSavePackage: Moving output files for package: /Game/BluePrints/Door/BP_Door
+[2025.10.04-15.35.58:513][253]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/BP_DoorC6EF52E340844983DE50909505759C32.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/BluePrints/Door/BP_Door.uasset'
+[2025.10.04-15.35.58:521][253]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms (total: 18.1 sec)
+[2025.10.04-15.35.58:523][253]AssetCheck: New page: Asset Save: BP_Door
+[2025.10.04-15.35.58:523][253]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Door/BP_Door.BP_Door
+[2025.10.04-15.36.18:921][594]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-15.36.19:028][594]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.10.04-15.36.19:041][594]LogSavePackage: Moving output files for package: /Game/Level/DebugMap
+[2025.10.04-15.36.19:042][594]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/DebugMap301652814DE2812A156CB084EA9A645E.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/Level/DebugMap.umap'
+[2025.10.04-15.36.19:050][594]LogFileHelpers: Saving map 'DebugMap' took 0.046
+[2025.10.04-15.36.19:061][594]LogFileHelpers: InternalPromptForCheckoutAndSave took 139 ms (total: 18.2 sec)
+[2025.10.04-15.36.19:064][594]AssetCheck: New page: Asset Save: DebugMap
+[2025.10.04-15.36.19:064][594]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level/DebugMap.DebugMap
+[2025.10.04-15.36.44:630][402]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-15.36.44:709][402]LogSavePackage: Moving output files for package: /Game/BluePrints/Door/BP_Door
+[2025.10.04-15.36.44:711][402]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/BP_DoorD37D37DD482EC7874E6976B12DEB4A44.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/BluePrints/Door/BP_Door.uasset'
+[2025.10.04-15.36.44:718][402]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 18.3 sec)
+[2025.10.04-15.36.44:720][402]AssetCheck: New page: Asset Save: BP_Door
+[2025.10.04-15.36.44:720][402]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Door/BP_Door.BP_Door
+[2025.10.04-15.36.52:318][208]LogEditorTransaction: Undo Modify Component(s)
+[2025.10.04-15.36.53:276][273]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-15.36.53:356][273]LogSavePackage: Moving output files for package: /Game/BluePrints/Door/BP_Door
+[2025.10.04-15.36.53:357][273]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/BP_Door4D19B7B948E2D0DA128DA2A79335D278.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/BluePrints/Door/BP_Door.uasset'
+[2025.10.04-15.36.53:368][273]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 18.4 sec)
+[2025.10.04-15.36.53:371][273]AssetCheck: New page: Asset Save: BP_Door
+[2025.10.04-15.36.53:371][273]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Door/BP_Door.BP_Door
+[2025.10.04-15.36.56:610][637]BlueprintLog: New page: Compile BP_Door
+[2025.10.04-15.36.56:649][637]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.10.04-15.37.16:000][805]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-15.37.16:083][805]LogSavePackage: Moving output files for package: /Game/BluePrints/Door/BP_Door
+[2025.10.04-15.37.16:084][805]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/BP_Door6E628B1440C4D1673B93DA9625AF4292.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/BluePrints/Door/BP_Door.uasset'
+[2025.10.04-15.37.16:092][805]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 18.5 sec)
+[2025.10.04-15.37.16:093][805]AssetCheck: New page: Asset Save: BP_Door
+[2025.10.04-15.37.16:093][805]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Door/BP_Door.BP_Door
+[2025.10.04-15.37.18:346][ 59]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-15.37.18:412][ 59]LogSavePackage: Moving output files for package: /Game/BluePrints/Door/BP_Door
+[2025.10.04-15.37.18:414][ 59]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/BP_DoorB4C62FCC4A498A3D6380119352CD150C.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/BluePrints/Door/BP_Door.uasset'
+[2025.10.04-15.37.18:423][ 59]LogFileHelpers: InternalPromptForCheckoutAndSave took 77 ms (total: 18.6 sec)
+[2025.10.04-15.37.18:425][ 59]AssetCheck: New page: Asset Save: BP_Door
+[2025.10.04-15.37.18:425][ 59]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Door/BP_Door.BP_Door
+[2025.10.04-15.37.20:021][234]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-15.37.20:090][234]LogSavePackage: Moving output files for package: /Game/BluePrints/Door/BP_Door
+[2025.10.04-15.37.20:091][234]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/BP_Door833F6CA5413907E28B552ABAD94EF07D.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/BluePrints/Door/BP_Door.uasset'
+[2025.10.04-15.37.20:100][234]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 18.7 sec)
+[2025.10.04-15.37.20:104][234]AssetCheck: New page: Asset Save: BP_Door
+[2025.10.04-15.37.20:104][234]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Door/BP_Door.BP_Door
+[2025.10.04-15.37.28:639][175]BlueprintLog: New page: Compile BP_Door
+[2025.10.04-15.37.28:707][175]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.10.04-15.37.29:932][288]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9574.531250
+[2025.10.04-15.37.30:255][326]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.04-15.37.30:255][326]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9574.844727, Update Interval: 314.293640
+[2025.10.04-15.37.34:318][729]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-15.37.34:401][729]LogSavePackage: Moving output files for package: /Game/BluePrints/Door/BP_Door
+[2025.10.04-15.37.34:401][729]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/BP_DoorC91E25C948BAB02980F5DD999472E5FF.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/BluePrints/Door/BP_Door.uasset'
+[2025.10.04-15.37.34:410][729]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 18.8 sec)
+[2025.10.04-15.37.34:411][729]AssetCheck: New page: Asset Save: BP_Door
+[2025.10.04-15.37.34:411][729]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Door/BP_Door.BP_Door
+[2025.10.04-15.37.36:210][929]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-15.37.36:268][929]LogSavePackage: Moving output files for package: /Game/BluePrints/Door/BP_Door
+[2025.10.04-15.37.36:268][929]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/BP_Door487A3A97406B10727FF021AAD6A9EAE5.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/BluePrints/Door/BP_Door.uasset'
+[2025.10.04-15.37.36:276][929]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 18.8 sec)
+[2025.10.04-15.37.36:278][929]AssetCheck: New page: Asset Save: BP_Door
+[2025.10.04-15.37.36:278][929]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Door/BP_Door.BP_Door
+[2025.10.04-15.37.37:414][ 51]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-15.37.37:501][ 51]LogSavePackage: Moving output files for package: /Game/BluePrints/Door/BP_Door
+[2025.10.04-15.37.37:501][ 51]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/BP_Door5E13542445EC3C8200CD4995F11BF3E1.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/BluePrints/Door/BP_Door.uasset'
+[2025.10.04-15.37.37:511][ 51]LogFileHelpers: InternalPromptForCheckoutAndSave took 96 ms (total: 18.9 sec)
+[2025.10.04-15.37.37:513][ 51]AssetCheck: New page: Asset Save: BP_Door
+[2025.10.04-15.37.37:513][ 51]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Door/BP_Door.BP_Door
+[2025.10.04-15.37.38:538][163]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-15.37.38:620][163]LogSavePackage: Moving output files for package: /Game/BluePrints/Door/BP_Door
+[2025.10.04-15.37.38:621][163]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/BP_Door31896A484867C8151AD0C8B22A5C4CF3.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/BluePrints/Door/BP_Door.uasset'
+[2025.10.04-15.37.38:630][163]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 19.0 sec)
+[2025.10.04-15.37.38:632][163]AssetCheck: New page: Asset Save: BP_Door
+[2025.10.04-15.37.38:632][163]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Door/BP_Door.BP_Door
+[2025.10.04-15.37.41:673][510]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-15.37.41:738][510]LogSavePackage: Moving output files for package: /Game/BluePrints/Door/BP_Door
+[2025.10.04-15.37.41:738][510]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/BP_Door9054554043662E81474A17B51CC3E263.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/BluePrints/Door/BP_Door.uasset'
+[2025.10.04-15.37.41:748][510]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 19.1 sec)
+[2025.10.04-15.37.41:748][510]AssetCheck: New page: Asset Save: BP_Door
+[2025.10.04-15.37.41:748][510]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Door/BP_Door.BP_Door
+[2025.10.04-15.37.55:101][870]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-15.37.55:164][870]LogSavePackage: Moving output files for package: /Game/BluePrints/Door/BP_Door
+[2025.10.04-15.37.55:166][870]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/BP_Door02C2F97E4CF8065D78480E8E7E142929.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/BluePrints/Door/BP_Door.uasset'
+[2025.10.04-15.37.55:173][870]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 19.2 sec)
+[2025.10.04-15.37.55:174][870]AssetCheck: New page: Asset Save: BP_Door
+[2025.10.04-15.37.55:174][870]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Door/BP_Door.BP_Door
+[2025.10.04-15.37.55:889][949]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-15.37.55:951][949]LogSavePackage: Moving output files for package: /Game/BluePrints/Door/BP_Door
+[2025.10.04-15.37.55:953][949]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/BP_DoorB446A08A4EA68E674D1AAD9D47D9BDB6.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/BluePrints/Door/BP_Door.uasset'
+[2025.10.04-15.37.55:961][949]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 19.2 sec)
+[2025.10.04-15.37.55:963][949]AssetCheck: New page: Asset Save: BP_Door
+[2025.10.04-15.37.55:963][949]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Door/BP_Door.BP_Door
+[2025.10.04-15.38.32:118][146]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-15.38.32:269][146]LogSavePackage: Moving output files for package: /Game/BluePrints/Door/BP_Door
+[2025.10.04-15.38.32:269][146]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/BP_Door6ABEAB1C41119180E136D588111869F5.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/BluePrints/Door/BP_Door.uasset'
+[2025.10.04-15.38.32:281][146]LogFileHelpers: InternalPromptForCheckoutAndSave took 162 ms (total: 19.4 sec)
+[2025.10.04-15.38.32:283][146]AssetCheck: New page: Asset Save: BP_Door
+[2025.10.04-15.38.32:283][146]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Door/BP_Door.BP_Door
+[2025.10.04-15.41.30:458][583]BlueprintLog: New page: Compile BP_Door
+[2025.10.04-15.41.30:491][583]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.10.04-15.42.10:116][226]LogEditorTransaction: Undo Move Nodes
+[2025.10.04-15.43.04:019][353]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-15.43.04:167][353]LogSavePackage: Moving output files for package: /Game/BluePrints/Door/BP_Door
+[2025.10.04-15.43.04:167][353]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/BP_DoorB0612A1A40F8CC8A6E750493EC05C16D.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/BluePrints/Door/BP_Door.uasset'
+[2025.10.04-15.43.04:177][353]LogFileHelpers: InternalPromptForCheckoutAndSave took 158 ms (total: 19.6 sec)
+[2025.10.04-15.43.04:180][353]AssetCheck: New page: Asset Save: BP_Door
+[2025.10.04-15.43.04:180][353]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Door/BP_Door.BP_Door
+[2025.10.04-15.43.22:888][463]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9927.349609
+[2025.10.04-15.43.23:470][533]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.04-15.43.23:470][533]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9927.926758, Update Interval: 313.458649
+[2025.10.04-15.46.19:180][666]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.10.04-15.46.19:192][666]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Level/DebugMap_Auto8
+[2025.10.04-15.46.19:192][666]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/DebugMap_Auto8FAE03736458119DEFF02DBA7B1027AB9.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/Autosaves/Game/Level/DebugMap_Auto8.umap'
+[2025.10.04-15.46.19:194][666]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/Autosaves/Game/Level/DebugMap_Auto8.umap is in the /Temp path, will not scan.
+[2025.10.04-15.46.19:194][666]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/Level/DebugMap_Auto8 is in the /Temp path, will not scan.
+[2025.10.04-15.46.19:194][666]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/Level/DebugMap_Auto8 is in the /Temp path, will not scan.
+[2025.10.04-15.46.19:194][666]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level/DebugMap' took 0.025
+[2025.10.04-15.46.19:194][666]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.025
+[2025.10.04-15.48.23:561][470]LogEditorTransaction: Undo Move Node
+[2025.10.04-15.48.24:528][541]LogEditorTransaction: Undo Create Pin Link
+[2025.10.04-15.48.25:936][701]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-15.48.26:080][701]LogSavePackage: Moving output files for package: /Game/BluePrints/Door/BP_Door
+[2025.10.04-15.48.26:080][701]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/BP_Door4E047CC848708452318C55818202A1F2.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/BluePrints/Door/BP_Door.uasset'
+[2025.10.04-15.48.26:091][701]LogFileHelpers: InternalPromptForCheckoutAndSave took 154 ms (total: 19.7 sec)
+[2025.10.04-15.48.26:093][701]AssetCheck: New page: Asset Save: BP_Door
+[2025.10.04-15.48.26:093][701]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Door/BP_Door.BP_Door
+[2025.10.04-15.49.27:534][273]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10291.596680
+[2025.10.04-15.49.28:869][277]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.04-15.49.28:869][277]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10292.597656, Update Interval: 318.507019
+[2025.10.04-15.53.23:564][706]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-15.53.23:698][706]LogSavePackage: Moving output files for package: /Game/BluePrints/Door/BP_Door
+[2025.10.04-15.53.23:698][706]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/BP_Door2A84E99742251DFE657FEFB4A358A908.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/BluePrints/Door/BP_Door.uasset'
+[2025.10.04-15.53.23:707][706]LogFileHelpers: InternalPromptForCheckoutAndSave took 143 ms (total: 19.9 sec)
+[2025.10.04-15.53.23:712][706]AssetCheck: New page: Asset Save: BP_Door
+[2025.10.04-15.53.23:712][706]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Door/BP_Door.BP_Door
+[2025.10.04-15.53.24:950][843]BlueprintLog: New page: Compile BP_Door
+[2025.10.04-15.53.24:986][843]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.10.04-15.53.43:414][828]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-15.53.43:570][828]LogSavePackage: Moving output files for package: /Game/BluePrints/Door/BP_Door
+[2025.10.04-15.53.43:570][828]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/BP_Door818B67334A52645985240F9C655449B3.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/BluePrints/Door/BP_Door.uasset'
+[2025.10.04-15.53.43:580][828]LogFileHelpers: InternalPromptForCheckoutAndSave took 164 ms (total: 20.0 sec)
+[2025.10.04-15.53.43:581][828]AssetCheck: New page: Asset Save: BP_Door
+[2025.10.04-15.53.43:581][828]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Door/BP_Door.BP_Door
+[2025.10.04-15.53.44:424][929]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-15.53.44:521][929]LogSavePackage: Moving output files for package: /Game/BluePrints/Door/BP_Door
+[2025.10.04-15.53.44:521][929]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/BP_DoorC2DE82C34C3D02128D63E1BFD499DCBA.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/BluePrints/Door/BP_Door.uasset'
+[2025.10.04-15.53.44:530][929]LogFileHelpers: InternalPromptForCheckoutAndSave took 106 ms (total: 20.1 sec)
+[2025.10.04-15.53.44:530][929]AssetCheck: New page: Asset Save: BP_Door
+[2025.10.04-15.53.44:530][929]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Door/BP_Door.BP_Door
+[2025.10.04-15.53.45:318][ 23]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-15.53.45:405][ 23]LogSavePackage: Moving output files for package: /Game/BluePrints/Door/BP_Door
+[2025.10.04-15.53.45:407][ 23]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/BP_Door436966594E2735C93EEB978E2A9EF933.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/BluePrints/Door/BP_Door.uasset'
+[2025.10.04-15.53.45:414][ 23]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 20.2 sec)
+[2025.10.04-15.53.45:414][ 23]AssetCheck: New page: Asset Save: BP_Door
+[2025.10.04-15.53.45:414][ 23]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Door/BP_Door.BP_Door
+[2025.10.04-15.53.45:957][ 88]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-15.53.46:037][ 88]LogSavePackage: Moving output files for package: /Game/BluePrints/Door/BP_Door
+[2025.10.04-15.53.46:037][ 88]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/BP_Door69F6831144CCD80F6318A2BDCD8D3264.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/BluePrints/Door/BP_Door.uasset'
+[2025.10.04-15.53.46:045][ 88]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 20.3 sec)
+[2025.10.04-15.53.46:048][ 88]AssetCheck: New page: Asset Save: BP_Door
+[2025.10.04-15.53.46:048][ 88]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Door/BP_Door.BP_Door
+[2025.10.04-15.53.49:462][485]BlueprintLog: New page: Compile BP_Door
+[2025.10.04-15.53.49:498][485]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.10.04-15.55.23:731][293]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-15.55.23:863][293]LogSavePackage: Moving output files for package: /Game/BluePrints/Door/BP_Door
+[2025.10.04-15.55.23:864][293]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/BP_DoorAC2D26CF499AE54D1B2D898264E323B7.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/BluePrints/Door/BP_Door.uasset'
+[2025.10.04-15.55.23:872][293]LogFileHelpers: InternalPromptForCheckoutAndSave took 141 ms (total: 20.5 sec)
+[2025.10.04-15.55.23:875][293]AssetCheck: New page: Asset Save: BP_Door
+[2025.10.04-15.55.23:875][293]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Door/BP_Door.BP_Door
+[2025.10.04-15.55.24:541][368]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-15.55.24:618][368]LogSavePackage: Moving output files for package: /Game/BluePrints/Door/BP_Door
+[2025.10.04-15.55.24:618][368]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/BP_DoorA3C2165D40B0EA71B4F859B3D4B23AF2.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/BluePrints/Door/BP_Door.uasset'
+[2025.10.04-15.55.24:628][368]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 20.5 sec)
+[2025.10.04-15.55.24:630][368]AssetCheck: New page: Asset Save: BP_Door
+[2025.10.04-15.55.24:631][368]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Door/BP_Door.BP_Door
+[2025.10.04-15.55.25:274][445]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-15.55.25:365][445]LogSavePackage: Moving output files for package: /Game/BluePrints/Door/BP_Door
+[2025.10.04-15.55.25:366][445]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/BP_DoorA65212DB4F431C3F1F87AC943CC0F5FD.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/BluePrints/Door/BP_Door.uasset'
+[2025.10.04-15.55.25:374][445]LogFileHelpers: InternalPromptForCheckoutAndSave took 101 ms (total: 20.6 sec)
+[2025.10.04-15.55.25:377][445]AssetCheck: New page: Asset Save: BP_Door
+[2025.10.04-15.55.25:377][445]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Door/BP_Door.BP_Door
+[2025.10.04-15.55.26:204][544]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-15.55.26:288][544]LogSavePackage: Moving output files for package: /Game/BluePrints/Door/BP_Door
+[2025.10.04-15.55.26:290][544]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/BP_Door1BEEAE09409432A266E02F8E37D4A54D.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/BluePrints/Door/BP_Door.uasset'
+[2025.10.04-15.55.26:298][544]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms (total: 20.7 sec)
+[2025.10.04-15.55.26:299][544]AssetCheck: New page: Asset Save: BP_Door
+[2025.10.04-15.55.26:299][544]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Door/BP_Door.BP_Door
+[2025.10.04-15.55.27:208][653]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-15.55.27:294][653]LogSavePackage: Moving output files for package: /Game/BluePrints/Door/BP_Door
+[2025.10.04-15.55.27:295][653]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/BP_Door4F022D6A448AB2DE17E377B1E2C1BBB7.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/BluePrints/Door/BP_Door.uasset'
+[2025.10.04-15.55.27:304][653]LogFileHelpers: InternalPromptForCheckoutAndSave took 94 ms (total: 20.8 sec)
+[2025.10.04-15.55.27:306][653]AssetCheck: New page: Asset Save: BP_Door
+[2025.10.04-15.55.27:306][653]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Door/BP_Door.BP_Door
+[2025.10.04-15.55.28:553][793]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-15.55.28:633][793]LogSavePackage: Moving output files for package: /Game/BluePrints/Door/BP_Door
+[2025.10.04-15.55.28:635][793]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/BP_Door29E9D35443EE9E13EE247A9A5E485D10.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/BluePrints/Door/BP_Door.uasset'
+[2025.10.04-15.55.28:644][793]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms (total: 20.9 sec)
+[2025.10.04-15.55.28:647][793]AssetCheck: New page: Asset Save: BP_Door
+[2025.10.04-15.55.28:647][793]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Door/BP_Door.BP_Door
+[2025.10.04-15.55.40:821][186]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-15.55.40:889][186]LogSavePackage: Moving output files for package: /Game/BluePrints/Door/BP_Door
+[2025.10.04-15.55.40:889][186]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/BP_DoorD448F2784BDC5AA35C86A6A733B6680A.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/BluePrints/Door/BP_Door.uasset'
+[2025.10.04-15.55.40:904][186]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 21.0 sec)
+[2025.10.04-15.55.40:908][186]AssetCheck: New page: Asset Save: BP_Door
+[2025.10.04-15.55.40:909][186]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Door/BP_Door.BP_Door
+[2025.10.04-15.55.45:500][703]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10669.261719
+[2025.10.04-15.55.46:233][791]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.04-15.55.46:234][791]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10669.981445, Update Interval: 305.729553
+[2025.10.04-15.55.48:355][ 37]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-15.55.48:441][ 37]LogSavePackage: Moving output files for package: /Game/BluePrints/Door/BP_Door
+[2025.10.04-15.55.48:441][ 37]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/BP_Door7E8B1DDE4815EC7E2D9E5780C95BE313.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/BluePrints/Door/BP_Door.uasset'
+[2025.10.04-15.55.48:450][ 37]LogFileHelpers: InternalPromptForCheckoutAndSave took 94 ms (total: 21.1 sec)
+[2025.10.04-15.55.48:451][ 37]AssetCheck: New page: Asset Save: BP_Door
+[2025.10.04-15.55.48:451][ 37]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Door/BP_Door.BP_Door
+[2025.10.04-15.55.49:139][115]BlueprintLog: New page: Compile BP_Door
+[2025.10.04-15.55.49:172][115]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.10.04-15.56.11:490][707]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-15.56.11:636][707]LogSavePackage: Moving output files for package: /Game/BluePrints/Door/BP_Door
+[2025.10.04-15.56.11:638][707]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/BP_DoorEDA720AA4B6B969CC184C79380F86F4D.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/BluePrints/Door/BP_Door.uasset'
+[2025.10.04-15.56.11:646][707]LogFileHelpers: InternalPromptForCheckoutAndSave took 154 ms (total: 21.3 sec)
+[2025.10.04-15.56.11:646][707]AssetCheck: New page: Asset Save: BP_Door
+[2025.10.04-15.56.11:646][707]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Door/BP_Door.BP_Door
+[2025.10.04-15.56.14:676][ 64]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-15.56.14:774][ 64]LogSavePackage: Moving output files for package: /Game/BluePrints/Door/BP_Door
+[2025.10.04-15.56.14:774][ 64]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/BP_Door8F8502EA437AEE50878BCFBBE768E06C.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/BluePrints/Door/BP_Door.uasset'
+[2025.10.04-15.56.14:783][ 64]LogFileHelpers: InternalPromptForCheckoutAndSave took 105 ms (total: 21.4 sec)
+[2025.10.04-15.56.14:784][ 64]AssetCheck: New page: Asset Save: BP_Door
+[2025.10.04-15.56.14:784][ 64]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Door/BP_Door.BP_Door
+[2025.10.04-15.56.17:462][375]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-15.56.17:544][375]LogSavePackage: Moving output files for package: /Game/BluePrints/Door/BP_Door
+[2025.10.04-15.56.17:544][375]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/BP_Door1C0831E94FA44E2ECA356BA928B18345.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/BluePrints/Door/BP_Door.uasset'
+[2025.10.04-15.56.17:553][375]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 21.5 sec)
+[2025.10.04-15.56.17:554][375]AssetCheck: New page: Asset Save: BP_Door
+[2025.10.04-15.56.17:554][375]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Door/BP_Door.BP_Door
+[2025.10.04-15.56.21:680][863]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-15.56.21:759][863]LogSavePackage: Moving output files for package: /Game/BluePrints/Door/BP_Door
+[2025.10.04-15.56.21:761][863]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/BP_DoorF0C5641F4ED2C9EDDF433B807BCF0466.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/BluePrints/Door/BP_Door.uasset'
+[2025.10.04-15.56.21:769][863]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 21.5 sec)
+[2025.10.04-15.56.21:772][863]AssetCheck: New page: Asset Save: BP_Door
+[2025.10.04-15.56.21:772][863]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Door/BP_Door.BP_Door
+[2025.10.04-15.56.51:301][298]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-15.56.51:428][298]LogSavePackage: Moving output files for package: /Game/BluePrints/Door/BP_Door
+[2025.10.04-15.56.51:430][298]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/BP_DoorE35E479741803B7B24EA5BBBDDF6E006.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/BluePrints/Door/BP_Door.uasset'
+[2025.10.04-15.56.51:441][298]LogFileHelpers: InternalPromptForCheckoutAndSave took 140 ms (total: 21.7 sec)
+[2025.10.04-15.56.51:444][298]AssetCheck: New page: Asset Save: BP_Door
+[2025.10.04-15.56.51:444][298]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Door/BP_Door.BP_Door
+[2025.10.04-15.56.53:508][518]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.10.04-15.56.53:521][518]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Level/DebugMap_Auto9
+[2025.10.04-15.56.53:521][518]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/DebugMap_Auto9FF6A33F64C0E612B7937A2A8A13188F2.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/Autosaves/Game/Level/DebugMap_Auto9.umap'
+[2025.10.04-15.56.53:521][518]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/Autosaves/Game/Level/DebugMap_Auto9.umap is in the /Temp path, will not scan.
+[2025.10.04-15.56.53:521][518]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/Level/DebugMap_Auto9 is in the /Temp path, will not scan.
+[2025.10.04-15.56.53:521][518]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/Level/DebugMap_Auto9 is in the /Temp path, will not scan.
+[2025.10.04-15.56.53:523][518]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level/DebugMap' took 0.025
+[2025.10.04-15.56.53:523][518]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.025
+[2025.10.04-15.56.59:004][100]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-15.56.59:153][100]LogSavePackage: Moving output files for package: /Game/BluePrints/Door/BP_Door
+[2025.10.04-15.56.59:154][100]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/BP_Door81459E38485BF103E6C80BAF335B0DDB.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/BluePrints/Door/BP_Door.uasset'
+[2025.10.04-15.56.59:166][100]LogFileHelpers: InternalPromptForCheckoutAndSave took 161 ms (total: 21.8 sec)
+[2025.10.04-15.56.59:169][100]AssetCheck: New page: Asset Save: BP_Door
+[2025.10.04-15.56.59:169][100]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Door/BP_Door.BP_Door
+[2025.10.04-15.57.03:348][583]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-15.57.03:428][583]LogSavePackage: Moving output files for package: /Game/BluePrints/Door/BP_Door
+[2025.10.04-15.57.03:428][583]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/BP_Door281AD25E4A018A048C23659B2241800A.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/BluePrints/Door/BP_Door.uasset'
+[2025.10.04-15.57.03:436][583]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 21.9 sec)
+[2025.10.04-15.57.03:439][583]AssetCheck: New page: Asset Save: BP_Door
+[2025.10.04-15.57.03:439][583]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Door/BP_Door.BP_Door
+[2025.10.04-15.57.07:419][ 48]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-15.57.07:489][ 48]LogSavePackage: Moving output files for package: /Game/BluePrints/Door/BP_Door
+[2025.10.04-15.57.07:489][ 48]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/BP_Door41E11C37402BD2E2294F3680A4C1F6C1.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/BluePrints/Door/BP_Door.uasset'
+[2025.10.04-15.57.07:498][ 48]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 22.0 sec)
+[2025.10.04-15.57.07:501][ 48]AssetCheck: New page: Asset Save: BP_Door
+[2025.10.04-15.57.07:501][ 48]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Door/BP_Door.BP_Door
+[2025.10.04-15.57.08:451][157]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-15.57.08:526][157]LogSavePackage: Moving output files for package: /Game/BluePrints/Door/BP_Door
+[2025.10.04-15.57.08:528][157]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/BP_DoorB20D1B0F4DA6F7955F82F695A982E707.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/BluePrints/Door/BP_Door.uasset'
+[2025.10.04-15.57.08:540][157]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 22.1 sec)
+[2025.10.04-15.57.08:543][157]AssetCheck: New page: Asset Save: BP_Door
+[2025.10.04-15.57.08:543][157]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Door/BP_Door.BP_Door
+[2025.10.04-15.57.09:428][259]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-15.57.09:508][259]LogSavePackage: Moving output files for package: /Game/BluePrints/Door/BP_Door
+[2025.10.04-15.57.09:508][259]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/BP_DoorB8C855734291BA91DAD674A7DF443968.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/BluePrints/Door/BP_Door.uasset'
+[2025.10.04-15.57.09:515][259]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 22.2 sec)
+[2025.10.04-15.57.09:518][259]AssetCheck: New page: Asset Save: BP_Door
+[2025.10.04-15.57.09:518][259]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Door/BP_Door.BP_Door
+[2025.10.04-15.57.11:614][509]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-15.57.11:705][509]LogSavePackage: Moving output files for package: /Game/BluePrints/Door/BP_Door
+[2025.10.04-15.57.11:707][509]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/BP_DoorC03B67584D4FC34A6ACB48AFF956504F.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/BluePrints/Door/BP_Door.uasset'
+[2025.10.04-15.57.11:714][509]LogFileHelpers: InternalPromptForCheckoutAndSave took 100 ms (total: 22.3 sec)
+[2025.10.04-15.57.11:718][509]AssetCheck: New page: Asset Save: BP_Door
+[2025.10.04-15.57.11:718][509]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Door/BP_Door.BP_Door
+[2025.10.04-15.57.13:248][691]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-15.57.13:329][691]LogSavePackage: Moving output files for package: /Game/BluePrints/Door/BP_Door
+[2025.10.04-15.57.13:331][691]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/BP_Door308C46C6436B20F739295EB35AAD0EBC.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/BluePrints/Door/BP_Door.uasset'
+[2025.10.04-15.57.13:340][691]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 22.4 sec)
+[2025.10.04-15.57.13:341][691]AssetCheck: New page: Asset Save: BP_Door
+[2025.10.04-15.57.13:341][691]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Door/BP_Door.BP_Door
+[2025.10.04-15.57.14:292][804]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-15.57.14:390][804]LogSavePackage: Moving output files for package: /Game/BluePrints/Door/BP_Door
+[2025.10.04-15.57.14:390][804]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/BP_Door060571114E5DD59F5143E6B2E81BB2DB.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/BluePrints/Door/BP_Door.uasset'
+[2025.10.04-15.57.14:403][804]LogFileHelpers: InternalPromptForCheckoutAndSave took 109 ms (total: 22.5 sec)
+[2025.10.04-15.57.14:406][804]AssetCheck: New page: Asset Save: BP_Door
+[2025.10.04-15.57.14:406][804]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Door/BP_Door.BP_Door
+[2025.10.04-15.57.45:130][410]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-15.57.45:258][410]LogSavePackage: Moving output files for package: /Game/BluePrints/Door/BP_Door
+[2025.10.04-15.57.45:258][410]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/BP_Door12E70F71477DCF27924E8FA706892D66.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/BluePrints/Door/BP_Door.uasset'
+[2025.10.04-15.57.45:268][410]LogFileHelpers: InternalPromptForCheckoutAndSave took 137 ms (total: 22.6 sec)
+[2025.10.04-15.57.45:271][410]AssetCheck: New page: Asset Save: BP_Door
+[2025.10.04-15.57.45:271][410]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Door/BP_Door.BP_Door
+[2025.10.04-15.57.45:939][490]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-15.57.46:033][490]LogSavePackage: Moving output files for package: /Game/BluePrints/Door/BP_Door
+[2025.10.04-15.57.46:034][490]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/BP_Door99CC32464376BFF5782410B83F6FD264.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/BluePrints/Door/BP_Door.uasset'
+[2025.10.04-15.57.46:043][490]LogFileHelpers: InternalPromptForCheckoutAndSave took 103 ms (total: 22.7 sec)
+[2025.10.04-15.57.46:046][490]AssetCheck: New page: Asset Save: BP_Door
+[2025.10.04-15.57.46:046][490]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Door/BP_Door.BP_Door
+[2025.10.04-15.57.47:464][660]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-15.57.47:558][660]LogSavePackage: Moving output files for package: /Game/BluePrints/Door/BP_Door
+[2025.10.04-15.57.47:558][660]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/BP_Door36D751174B04869B35544F8D219D633B.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/BluePrints/Door/BP_Door.uasset'
+[2025.10.04-15.57.47:568][660]LogFileHelpers: InternalPromptForCheckoutAndSave took 102 ms (total: 22.8 sec)
+[2025.10.04-15.57.47:568][660]AssetCheck: New page: Asset Save: BP_Door
+[2025.10.04-15.57.47:568][660]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Door/BP_Door.BP_Door
+[2025.10.04-15.57.48:979][829]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-15.57.49:070][829]LogSavePackage: Moving output files for package: /Game/BluePrints/Door/BP_Door
+[2025.10.04-15.57.49:070][829]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/BP_DoorCC72147F46302CC39C7B938D718C4101.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/BluePrints/Door/BP_Door.uasset'
+[2025.10.04-15.57.49:080][829]LogFileHelpers: InternalPromptForCheckoutAndSave took 100 ms (total: 22.9 sec)
+[2025.10.04-15.57.49:083][829]AssetCheck: New page: Asset Save: BP_Door
+[2025.10.04-15.57.49:083][829]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Door/BP_Door.BP_Door
+[2025.10.04-15.57.50:081][948]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-15.57.50:182][948]LogSavePackage: Moving output files for package: /Game/BluePrints/Door/BP_Door
+[2025.10.04-15.57.50:184][948]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/BP_DoorF684FBA442C1E7BE4C76BFA112B1AAC1.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/BluePrints/Door/BP_Door.uasset'
+[2025.10.04-15.57.50:193][948]LogFileHelpers: InternalPromptForCheckoutAndSave took 112 ms (total: 23.0 sec)
+[2025.10.04-15.57.50:195][948]AssetCheck: New page: Asset Save: BP_Door
+[2025.10.04-15.57.50:195][948]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Door/BP_Door.BP_Door
+[2025.10.04-15.57.53:426][332]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-15.57.53:511][332]LogSavePackage: Moving output files for package: /Game/BluePrints/Door/BP_Door
+[2025.10.04-15.57.53:511][332]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/BP_Door5D52CBA64EE61EC5FEC0D88EE6A6BB0D.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/BluePrints/Door/BP_Door.uasset'
+[2025.10.04-15.57.53:520][332]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms (total: 23.1 sec)
+[2025.10.04-15.57.53:520][332]AssetCheck: New page: Asset Save: BP_Door
+[2025.10.04-15.57.53:520][332]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Door/BP_Door.BP_Door
+[2025.10.04-15.57.54:774][478]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-15.57.54:875][478]LogSavePackage: Moving output files for package: /Game/BluePrints/Door/BP_Door
+[2025.10.04-15.57.54:877][478]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/BP_DoorBBA830EF446F9C37125B56A573EF75BE.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/BluePrints/Door/BP_Door.uasset'
+[2025.10.04-15.57.54:887][478]LogFileHelpers: InternalPromptForCheckoutAndSave took 112 ms (total: 23.3 sec)
+[2025.10.04-15.57.54:888][478]AssetCheck: New page: Asset Save: BP_Door
+[2025.10.04-15.57.54:888][478]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Door/BP_Door.BP_Door
+[2025.10.04-15.58.05:991][799]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-15.58.06:075][799]LogSavePackage: Moving output files for package: /Game/BluePrints/Door/BP_Door
+[2025.10.04-15.58.06:075][799]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/BP_Door82AE1B534488059E4CFD3C869B4289DA.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/BluePrints/Door/BP_Door.uasset'
+[2025.10.04-15.58.06:084][799]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 23.3 sec)
+[2025.10.04-15.58.06:087][799]AssetCheck: New page: Asset Save: BP_Door
+[2025.10.04-15.58.06:087][799]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Door/BP_Door.BP_Door
+[2025.10.04-15.58.14:843][824]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-15.58.14:930][824]LogSavePackage: Moving output files for package: /Game/BluePrints/Door/BP_Door
+[2025.10.04-15.58.14:930][824]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/BP_Door806E6AFC4517A89F6CF58288E5D33BB2.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/BluePrints/Door/BP_Door.uasset'
+[2025.10.04-15.58.14:939][824]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 23.4 sec)
+[2025.10.04-15.58.14:941][824]AssetCheck: New page: Asset Save: BP_Door
+[2025.10.04-15.58.14:941][824]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Door/BP_Door.BP_Door
+[2025.10.04-15.58.16:114][961]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-15.58.16:196][961]LogSavePackage: Moving output files for package: /Game/BluePrints/Door/BP_Door
+[2025.10.04-15.58.16:196][961]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/BP_Door3345B5784E4DE945AA60B8940F7652E0.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/BluePrints/Door/BP_Door.uasset'
+[2025.10.04-15.58.16:204][961]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms (total: 23.5 sec)
+[2025.10.04-15.58.16:208][961]AssetCheck: New page: Asset Save: BP_Door
+[2025.10.04-15.58.16:208][961]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Door/BP_Door.BP_Door
+[2025.10.04-15.58.17:245][ 80]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-15.58.17:321][ 80]LogSavePackage: Moving output files for package: /Game/BluePrints/Door/BP_Door
+[2025.10.04-15.58.17:321][ 80]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/BP_Door5F2BE2E4420591FC1BAE67A54A04976D.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/BluePrints/Door/BP_Door.uasset'
+[2025.10.04-15.58.17:330][ 80]LogFileHelpers: InternalPromptForCheckoutAndSave took 84 ms (total: 23.6 sec)
+[2025.10.04-15.58.17:333][ 80]AssetCheck: New page: Asset Save: BP_Door
+[2025.10.04-15.58.17:333][ 80]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Door/BP_Door.BP_Door
+[2025.10.04-15.58.19:392][318]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-15.58.19:463][318]LogSavePackage: Moving output files for package: /Game/BluePrints/Door/BP_Door
+[2025.10.04-15.58.19:465][318]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/BP_Door579433F8490E02CC29F338A89C68DD54.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/BluePrints/Door/BP_Door.uasset'
+[2025.10.04-15.58.19:472][318]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 23.7 sec)
+[2025.10.04-15.58.19:475][318]AssetCheck: New page: Asset Save: BP_Door
+[2025.10.04-15.58.19:475][318]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Door/BP_Door.BP_Door
+[2025.10.04-15.58.29:145][462]BlueprintLog: New page: Compile BP_Door
+[2025.10.04-15.58.29:180][462]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.10.04-15.58.32:815][866]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-15.58.32:908][866]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2025.10.04-15.58.32:919][866]LogSavePackage: Moving output files for package: /Game/Level/DebugMap
+[2025.10.04-15.58.32:919][866]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/DebugMap33BD80D64FF638D9256F1FBB19E3AD72.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/Level/DebugMap.umap'
+[2025.10.04-15.58.32:927][866]LogFileHelpers: Saving map 'DebugMap' took 0.044
+[2025.10.04-15.58.32:936][866]LogFileHelpers: InternalPromptForCheckoutAndSave took 120 ms (total: 23.8 sec)
+[2025.10.04-15.58.32:939][866]AssetCheck: New page: Asset Save: DebugMap
+[2025.10.04-15.58.32:939][866]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level/DebugMap.DebugMap
+[2025.10.04-15.58.37:211][313]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.10.04-15.58.38:545][470]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.10.04-15.58.39:539][587]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.10.04-15.58.40:025][642]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-15.58.40:117][642]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.10.04-15.58.40:126][642]LogSavePackage: Moving output files for package: /Game/Level/DebugMap
+[2025.10.04-15.58.40:128][642]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/DebugMap75982BD0473CE62FC5D365AD366B0717.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/Level/DebugMap.umap'
+[2025.10.04-15.58.40:137][642]LogFileHelpers: Saving map 'DebugMap' took 0.046
+[2025.10.04-15.58.40:147][642]LogFileHelpers: InternalPromptForCheckoutAndSave took 121 ms (total: 23.9 sec)
+[2025.10.04-15.58.40:150][642]AssetCheck: New page: Asset Save: DebugMap
+[2025.10.04-15.58.40:150][642]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level/DebugMap.DebugMap
+[2025.10.04-15.58.48:101][508]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.10.04-15.58.48:654][565]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.10.04-15.58.50:121][706]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.10.04-15.58.50:944][802]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.10.04-15.58.55:247][241]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.10.04-15.59.00:474][822]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.10.04-15.59.00:899][871]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.10.04-15.59.02:487][ 24]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.10.04-15.59.05:913][400]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.10.04-15.59.06:778][501]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.10.04-15.59.08:145][653]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-15.59.08:239][653]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.10.04-15.59.08:250][653]LogSavePackage: Moving output files for package: /Game/Level/DebugMap
+[2025.10.04-15.59.08:250][653]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/DebugMap281D819342E5569C06B5E4B9CBEF43BE.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/Level/DebugMap.umap'
+[2025.10.04-15.59.08:258][653]LogFileHelpers: Saving map 'DebugMap' took 0.042
+[2025.10.04-15.59.08:266][653]LogFileHelpers: InternalPromptForCheckoutAndSave took 121 ms (total: 24.1 sec)
+[2025.10.04-15.59.08:269][653]AssetCheck: New page: Asset Save: DebugMap
+[2025.10.04-15.59.08:269][653]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level/DebugMap.DebugMap
+[2025.10.04-15.59.30:662][ 72]LogDebuggerCommands: Repeating last play command: VR Preview
+[2025.10.04-15.59.30:668][ 72]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.04-15.59.30:668][ 72]PIE: New page: PIE session: DebugMap (5 ต.ค. 2568 05:59:30)
+[2025.10.04-15.59.30:669][ 72]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_DebugMap
+[2025.10.04-15.59.30:671][ 72]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002456s)
+[2025.10.04-15.59.30:671][ 72]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/DebugMap.DebugMap to /Game/Level/UEDPIE_0_DebugMap.DebugMap (0.002501s)
+[2025.10.04-15.59.30:684][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.10.04-15.59.30:686][ 72]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.10.04-15.59.30:686][ 72]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.10.04-15.59.30:687][ 72]LogAIModule: Creating AISystem for world DebugMap
+[2025.10.04-15.59.30:688][ 72]LogPlayLevel: PIE: World Init took: (0.001078s)
+[2025.10.04-15.59.30:688][ 72]LogAudio: Display: Creating Audio Device:                 Id: 34, Scope: Unique, Realtime: True
+[2025.10.04-15.59.30:688][ 72]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.04-15.59.30:688][ 72]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.04-15.59.30:688][ 72]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.04-15.59.30:688][ 72]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.04-15.59.30:688][ 72]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.04-15.59.30:688][ 72]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.04-15.59.30:688][ 72]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.04-15.59.30:688][ 72]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.04-15.59.30:688][ 72]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.04-15.59.30:688][ 72]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.04-15.59.30:688][ 72]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.04-15.59.30:690][ 72]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.04-15.59.30:711][ 72]LogAudioMixer: Display: Using Audio Hardware Device Speakers (USB Audio Device)
+[2025.10.04-15.59.30:711][ 72]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.04-15.59.30:711][ 72]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.04-15.59.30:711][ 72]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.04-15.59.30:712][ 72]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=34
+[2025.10.04-15.59.30:712][ 72]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=34
+[2025.10.04-15.59.30:714][ 72]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=34
+[2025.10.04-15.59.30:714][ 72]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=34
+[2025.10.04-15.59.30:714][ 72]LogInit: FAudioDevice initialized with ID 34.
+[2025.10.04-15.59.30:714][ 72]LogAudio: Display: Audio Device (ID: 34) registered with world 'DebugMap'.
+[2025.10.04-15.59.30:714][ 72]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 34
+[2025.10.04-15.59.30:764][ 72]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.04-15.59.30:906][ 72]LogLoad: Game class is 'GM_Main_C'
+[2025.10.04-15.59.30:908][ 72]LogWorld: Bringing World /Game/Level/UEDPIE_0_DebugMap.DebugMap up for play (max tick rate 0) at 2025.10.04-22.59.30
+[2025.10.04-15.59.30:908][ 72]LogWorld: Bringing up level for play took: 0.000840
+[2025.10.04-15.59.30:911][ 72]LogOnline: OSS: Created online subsystem instance for: :Context_47
+[2025.10.04-15.59.30:915][ 72]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2025.10.04-15.59.30:917][ 72]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2025.10.04-15.59.30:918][ 72]vr.PixelDensity = "1"
+[2025.10.04-15.59.30:926][ 72]PIE: Server logged in
+[2025.10.04-15.59.30:931][ 72]PIE: Play in editor total start time 0.263 seconds.
+[2025.10.04-15.59.30:933][ 72]LogHMD: Warning: No UPlayerMappableInputConfig provided in the OpenXR Input project settings, action bindings will not be visible to the OpenXR runtime. Action/Axis mappings from the Input configuration are deprecated for XR in favor of Enhanced Input.
+[2025.10.04-15.59.30:955][ 72]LogViewport: Scene viewport resized to 4128x2272, mode Windowed.
+[2025.10.04-15.59.30:963][ 72]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2025.10.04-15.59.52:769][863]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.04-15.59.52:769][863]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_DebugMap
+[2025.10.04-15.59.52:843][863]LogSlate: Window 'OneNightAtCoonhatton Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6) OpenXR Oculus (1.111.0)' being destroyed
+[2025.10.04-15.59.52:846][863]LogWorld: UWorld::CleanupWorld for DebugMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.04-15.59.52:847][863]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.04-15.59.52:869][863]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.04-15.59.52:874][863]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.04-15.59.52:888][863]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 34
+[2025.10.04-15.59.52:888][863]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2025.10.04-15.59.52:890][863]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2025.10.04-15.59.52:899][863]LogSlate: Slate User Unregistered.  User Index 8
+[2025.10.04-15.59.52:899][863]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2025.10.04-15.59.52:901][863]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.10.04-15.59.52:958][864]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2025.10.04-15.59.53:900][961]LogDerivedDataCache: C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.048 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1686 files in 2720 folders with total size 95 MiB.
+[2025.10.04-16.00.03:553][ 66]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-16.00.03:694][ 66]LogSavePackage: Moving output files for package: /Game/BluePrints/Door/BP_Door
+[2025.10.04-16.00.03:694][ 66]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/BP_Door0AE07C0249E3AF1F24570D8F13801854.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/BluePrints/Door/BP_Door.uasset'
+[2025.10.04-16.00.03:705][ 66]LogFileHelpers: InternalPromptForCheckoutAndSave took 151 ms (total: 24.2 sec)
+[2025.10.04-16.00.03:708][ 66]AssetCheck: New page: Asset Save: BP_Door
+[2025.10.04-16.00.03:708][ 66]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Door/BP_Door.BP_Door
+[2025.10.04-16.00.28:748][902]BlueprintLog: New page: Compile BP_Door
+[2025.10.04-16.00.28:779][902]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.10.04-16.00.31:491][181]LogDebuggerCommands: Repeating last play command: VR Preview
+[2025.10.04-16.00.31:498][181]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.04-16.00.31:498][181]PIE: New page: PIE session: DebugMap (5 ต.ค. 2568 06:00:31)
+[2025.10.04-16.00.31:498][181]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_DebugMap
+[2025.10.04-16.00.31:501][181]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002621s)
+[2025.10.04-16.00.31:501][181]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/DebugMap.DebugMap to /Game/Level/UEDPIE_0_DebugMap.DebugMap (0.002657s)
+[2025.10.04-16.00.31:511][181]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.10.04-16.00.31:514][181]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.10.04-16.00.31:514][181]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.10.04-16.00.31:514][181]LogAIModule: Creating AISystem for world DebugMap
+[2025.10.04-16.00.31:516][181]LogPlayLevel: PIE: World Init took: (0.000933s)
+[2025.10.04-16.00.31:516][181]LogAudio: Display: Creating Audio Device:                 Id: 35, Scope: Unique, Realtime: True
+[2025.10.04-16.00.31:516][181]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.04-16.00.31:516][181]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.04-16.00.31:516][181]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.04-16.00.31:516][181]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.04-16.00.31:516][181]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.04-16.00.31:516][181]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.04-16.00.31:516][181]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.04-16.00.31:516][181]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.04-16.00.31:516][181]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.04-16.00.31:516][181]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.04-16.00.31:516][181]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.04-16.00.31:518][181]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.04-16.00.31:537][181]LogAudioMixer: Display: Using Audio Hardware Device Speakers (USB Audio Device)
+[2025.10.04-16.00.31:538][181]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.04-16.00.31:538][181]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.04-16.00.31:538][181]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.04-16.00.31:538][181]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=35
+[2025.10.04-16.00.31:538][181]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=35
+[2025.10.04-16.00.31:540][181]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=35
+[2025.10.04-16.00.31:540][181]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=35
+[2025.10.04-16.00.31:540][181]LogInit: FAudioDevice initialized with ID 35.
+[2025.10.04-16.00.31:540][181]LogAudio: Display: Audio Device (ID: 35) registered with world 'DebugMap'.
+[2025.10.04-16.00.31:540][181]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 35
+[2025.10.04-16.00.31:581][181]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.04-16.00.31:718][181]LogLoad: Game class is 'GM_Main_C'
+[2025.10.04-16.00.31:720][181]LogWorld: Bringing World /Game/Level/UEDPIE_0_DebugMap.DebugMap up for play (max tick rate 0) at 2025.10.04-23.00.31
+[2025.10.04-16.00.31:720][181]LogWorld: Bringing up level for play took: 0.001265
+[2025.10.04-16.00.31:723][181]LogOnline: OSS: Created online subsystem instance for: :Context_48
+[2025.10.04-16.00.31:726][181]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2025.10.04-16.00.31:728][181]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2025.10.04-16.00.31:729][181]vr.PixelDensity = "1"
+[2025.10.04-16.00.31:738][181]PIE: Server logged in
+[2025.10.04-16.00.31:743][181]PIE: Play in editor total start time 0.244 seconds.
+[2025.10.04-16.00.31:744][181]LogHMD: Warning: No UPlayerMappableInputConfig provided in the OpenXR Input project settings, action bindings will not be visible to the OpenXR runtime. Action/Axis mappings from the Input configuration are deprecated for XR in favor of Enhanced Input.
+[2025.10.04-16.00.31:751][181]LogViewport: Scene viewport resized to 4128x2272, mode Windowed.
+[2025.10.04-16.00.31:756][181]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2025.10.04-16.00.50:698][872]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.04-16.00.50:698][872]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_DebugMap
+[2025.10.04-16.00.50:747][872]LogSlate: Window 'OneNightAtCoonhatton Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6) OpenXR Oculus (1.111.0)' being destroyed
+[2025.10.04-16.00.50:750][872]LogWorld: UWorld::CleanupWorld for DebugMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.04-16.00.50:750][872]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.04-16.00.50:772][872]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.04-16.00.50:778][872]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.04-16.00.50:791][872]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.04-16.00.50:791][872]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 35
+[2025.10.04-16.00.50:791][872]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35
+[2025.10.04-16.00.50:794][872]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35
+[2025.10.04-16.00.50:801][872]LogSlate: Slate User Unregistered.  User Index 8
+[2025.10.04-16.00.50:801][872]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2025.10.04-16.00.50:802][872]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.10.04-16.00.50:856][873]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2025.10.04-16.00.59:609][823]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.10.04-16.01.01:617][ 54]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.10.04-16.01.02:780][187]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.10.04-16.01.03:503][268]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.10.04-16.01.04:703][404]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.10.04-16.01.05:977][549]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.10.04-16.01.06:856][649]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.10.04-16.01.08:338][816]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.10.04-16.01.10:306][ 35]LogDebuggerCommands: Repeating last play command: VR Preview
+[2025.10.04-16.01.10:312][ 35]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.04-16.01.10:312][ 35]PIE: New page: PIE session: DebugMap (5 ต.ค. 2568 06:01:10)
+[2025.10.04-16.01.10:312][ 35]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_DebugMap
+[2025.10.04-16.01.10:314][ 35]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002176s)
+[2025.10.04-16.01.10:314][ 35]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/DebugMap.DebugMap to /Game/Level/UEDPIE_0_DebugMap.DebugMap (0.002212s)
+[2025.10.04-16.01.10:326][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.10.04-16.01.10:329][ 35]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.10.04-16.01.10:329][ 35]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.10.04-16.01.10:329][ 35]LogAIModule: Creating AISystem for world DebugMap
+[2025.10.04-16.01.10:329][ 35]LogPlayLevel: PIE: World Init took: (0.000874s)
+[2025.10.04-16.01.10:329][ 35]LogAudio: Display: Creating Audio Device:                 Id: 36, Scope: Unique, Realtime: True
+[2025.10.04-16.01.10:329][ 35]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.04-16.01.10:329][ 35]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.04-16.01.10:329][ 35]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.04-16.01.10:329][ 35]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.04-16.01.10:329][ 35]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.04-16.01.10:329][ 35]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.04-16.01.10:329][ 35]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.04-16.01.10:329][ 35]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.04-16.01.10:331][ 35]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.04-16.01.10:331][ 35]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.04-16.01.10:331][ 35]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.04-16.01.10:332][ 35]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.04-16.01.10:352][ 35]LogAudioMixer: Display: Using Audio Hardware Device Speakers (USB Audio Device)
+[2025.10.04-16.01.10:352][ 35]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.04-16.01.10:352][ 35]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.04-16.01.10:352][ 35]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.04-16.01.10:352][ 35]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=36
+[2025.10.04-16.01.10:352][ 35]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=36
+[2025.10.04-16.01.10:353][ 35]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=36
+[2025.10.04-16.01.10:353][ 35]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=36
+[2025.10.04-16.01.10:353][ 35]LogInit: FAudioDevice initialized with ID 36.
+[2025.10.04-16.01.10:355][ 35]LogAudio: Display: Audio Device (ID: 36) registered with world 'DebugMap'.
+[2025.10.04-16.01.10:355][ 35]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 36
+[2025.10.04-16.01.10:393][ 35]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.04-16.01.10:535][ 35]LogLoad: Game class is 'GM_Main_C'
+[2025.10.04-16.01.10:535][ 35]LogWorld: Bringing World /Game/Level/UEDPIE_0_DebugMap.DebugMap up for play (max tick rate 0) at 2025.10.04-23.01.10
+[2025.10.04-16.01.10:536][ 35]LogWorld: Bringing up level for play took: 0.000899
+[2025.10.04-16.01.10:539][ 35]LogOnline: OSS: Created online subsystem instance for: :Context_49
+[2025.10.04-16.01.10:542][ 35]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2025.10.04-16.01.10:544][ 35]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2025.10.04-16.01.10:545][ 35]vr.PixelDensity = "1"
+[2025.10.04-16.01.10:551][ 35]PIE: Server logged in
+[2025.10.04-16.01.10:556][ 35]PIE: Play in editor total start time 0.243 seconds.
+[2025.10.04-16.01.10:557][ 35]LogHMD: Warning: No UPlayerMappableInputConfig provided in the OpenXR Input project settings, action bindings will not be visible to the OpenXR runtime. Action/Axis mappings from the Input configuration are deprecated for XR in favor of Enhanced Input.
+[2025.10.04-16.01.10:566][ 35]LogViewport: Scene viewport resized to 4128x2272, mode Windowed.
+[2025.10.04-16.01.10:571][ 35]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2025.10.04-16.01.32:866][852]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11016.298828
+[2025.10.04-16.01.33:365][869]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.04-16.01.33:365][869]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11016.769531, Update Interval: 308.062378
+[2025.10.04-16.01.36:868][ 20]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.04-16.01.36:868][ 20]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_DebugMap
+[2025.10.04-16.01.36:928][ 20]LogSlate: Window 'OneNightAtCoonhatton Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6) OpenXR Oculus (1.111.0)' being destroyed
+[2025.10.04-16.01.36:931][ 20]LogWorld: UWorld::CleanupWorld for DebugMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.04-16.01.36:931][ 20]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.04-16.01.36:935][ 20]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.04-16.01.36:940][ 20]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.04-16.01.36:952][ 20]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.04-16.01.36:952][ 20]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 36
+[2025.10.04-16.01.36:952][ 20]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36
+[2025.10.04-16.01.36:955][ 20]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36
+[2025.10.04-16.01.36:964][ 20]LogSlate: Slate User Unregistered.  User Index 8
+[2025.10.04-16.01.36:964][ 20]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2025.10.04-16.01.36:964][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.10.04-16.01.37:099][ 21]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2025.10.04-16.01.41:867][550]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-16.01.42:030][550]LogSavePackage: Moving output files for package: /Game/BluePrints/Door/BP_Door
+[2025.10.04-16.01.42:030][550]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/BP_Door1D60CAB9408BF4B5BBD362AEC7EB4BA3.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/BluePrints/Door/BP_Door.uasset'
+[2025.10.04-16.01.42:042][550]LogFileHelpers: InternalPromptForCheckoutAndSave took 175 ms (total: 24.4 sec)
+[2025.10.04-16.01.42:044][550]AssetCheck: New page: Asset Save: BP_Door
+[2025.10.04-16.01.42:044][550]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Door/BP_Door.BP_Door
+[2025.10.04-16.02.39:948][164]BlueprintLog: New page: Compile BP_Door
+[2025.10.04-16.02.39:980][164]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.10.04-16.02.42:596][440]LogDebuggerCommands: Repeating last play command: VR Preview
+[2025.10.04-16.02.42:602][440]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.04-16.02.42:604][440]PIE: New page: PIE session: DebugMap (5 ต.ค. 2568 06:02:42)
+[2025.10.04-16.02.42:604][440]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_DebugMap
+[2025.10.04-16.02.42:605][440]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002250s)
+[2025.10.04-16.02.42:605][440]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/DebugMap.DebugMap to /Game/Level/UEDPIE_0_DebugMap.DebugMap (0.002297s)
+[2025.10.04-16.02.42:618][440]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.10.04-16.02.42:621][440]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.10.04-16.02.42:621][440]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.10.04-16.02.42:621][440]LogAIModule: Creating AISystem for world DebugMap
+[2025.10.04-16.02.42:622][440]LogPlayLevel: PIE: World Init took: (0.000870s)
+[2025.10.04-16.02.42:622][440]LogAudio: Display: Creating Audio Device:                 Id: 37, Scope: Unique, Realtime: True
+[2025.10.04-16.02.42:622][440]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.04-16.02.42:622][440]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.04-16.02.42:622][440]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.04-16.02.42:622][440]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.04-16.02.42:622][440]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.04-16.02.42:622][440]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.04-16.02.42:622][440]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.04-16.02.42:622][440]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.04-16.02.42:622][440]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.04-16.02.42:622][440]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.04-16.02.42:622][440]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.04-16.02.42:624][440]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.04-16.02.42:642][440]LogAudioMixer: Display: Using Audio Hardware Device Speakers (USB Audio Device)
+[2025.10.04-16.02.42:642][440]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.04-16.02.42:642][440]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.04-16.02.42:642][440]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.04-16.02.42:644][440]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=37
+[2025.10.04-16.02.42:644][440]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=37
+[2025.10.04-16.02.42:645][440]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=37
+[2025.10.04-16.02.42:645][440]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=37
+[2025.10.04-16.02.42:645][440]LogInit: FAudioDevice initialized with ID 37.
+[2025.10.04-16.02.42:645][440]LogAudio: Display: Audio Device (ID: 37) registered with world 'DebugMap'.
+[2025.10.04-16.02.42:645][440]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 37
+[2025.10.04-16.02.42:683][440]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.04-16.02.42:825][440]LogLoad: Game class is 'GM_Main_C'
+[2025.10.04-16.02.42:827][440]LogWorld: Bringing World /Game/Level/UEDPIE_0_DebugMap.DebugMap up for play (max tick rate 0) at 2025.10.04-23.02.42
+[2025.10.04-16.02.42:828][440]LogWorld: Bringing up level for play took: 0.001267
+[2025.10.04-16.02.42:830][440]LogOnline: OSS: Created online subsystem instance for: :Context_50
+[2025.10.04-16.02.42:833][440]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2025.10.04-16.02.42:836][440]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2025.10.04-16.02.42:836][440]vr.PixelDensity = "1"
+[2025.10.04-16.02.42:843][440]PIE: Server logged in
+[2025.10.04-16.02.42:848][440]PIE: Play in editor total start time 0.244 seconds.
+[2025.10.04-16.02.42:849][440]LogHMD: Warning: No UPlayerMappableInputConfig provided in the OpenXR Input project settings, action bindings will not be visible to the OpenXR runtime. Action/Axis mappings from the Input configuration are deprecated for XR in favor of Enhanced Input.
+[2025.10.04-16.02.42:864][440]LogViewport: Scene viewport resized to 4128x2272, mode Windowed.
+[2025.10.04-16.02.42:868][440]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2025.10.04-16.03.17:199][679]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.04-16.03.17:199][679]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_DebugMap
+[2025.10.04-16.03.17:298][679]LogSlate: Window 'OneNightAtCoonhatton Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6) OpenXR Oculus (1.111.0)' being destroyed
+[2025.10.04-16.03.17:301][679]LogWorld: UWorld::CleanupWorld for DebugMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.04-16.03.17:301][679]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.04-16.03.17:323][679]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.04-16.03.17:328][679]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.04-16.03.17:342][679]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.04-16.03.17:342][679]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 37
+[2025.10.04-16.03.17:342][679]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37
+[2025.10.04-16.03.17:345][679]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37
+[2025.10.04-16.03.17:352][679]LogSlate: Slate User Unregistered.  User Index 8
+[2025.10.04-16.03.17:352][679]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2025.10.04-16.03.17:354][679]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.10.04-16.03.17:408][680]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2025.10.04-16.03.20:775][ 39]LogDebuggerCommands: Repeating last play command: VR Preview
+[2025.10.04-16.03.20:779][ 39]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.04-16.03.20:779][ 39]PIE: New page: PIE session: DebugMap (5 ต.ค. 2568 06:03:20)
+[2025.10.04-16.03.20:779][ 39]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_DebugMap
+[2025.10.04-16.03.20:783][ 39]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002034s)
+[2025.10.04-16.03.20:783][ 39]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/DebugMap.DebugMap to /Game/Level/UEDPIE_0_DebugMap.DebugMap (0.002066s)
+[2025.10.04-16.03.20:793][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.10.04-16.03.20:794][ 39]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.10.04-16.03.20:794][ 39]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.10.04-16.03.20:794][ 39]LogAIModule: Creating AISystem for world DebugMap
+[2025.10.04-16.03.20:794][ 39]LogPlayLevel: PIE: World Init took: (0.001004s)
+[2025.10.04-16.03.20:794][ 39]LogAudio: Display: Creating Audio Device:                 Id: 38, Scope: Unique, Realtime: True
+[2025.10.04-16.03.20:796][ 39]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.04-16.03.20:796][ 39]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.04-16.03.20:796][ 39]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.04-16.03.20:796][ 39]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.04-16.03.20:796][ 39]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.04-16.03.20:796][ 39]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.04-16.03.20:796][ 39]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.04-16.03.20:796][ 39]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.04-16.03.20:796][ 39]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.04-16.03.20:796][ 39]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.04-16.03.20:796][ 39]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.04-16.03.20:798][ 39]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.04-16.03.20:814][ 39]LogAudioMixer: Display: Using Audio Hardware Device Speakers (USB Audio Device)
+[2025.10.04-16.03.20:814][ 39]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.04-16.03.20:814][ 39]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.04-16.03.20:814][ 39]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.04-16.03.20:815][ 39]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=38
+[2025.10.04-16.03.20:815][ 39]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=38
+[2025.10.04-16.03.20:817][ 39]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=38
+[2025.10.04-16.03.20:817][ 39]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=38
+[2025.10.04-16.03.20:817][ 39]LogInit: FAudioDevice initialized with ID 38.
+[2025.10.04-16.03.20:817][ 39]LogAudio: Display: Audio Device (ID: 38) registered with world 'DebugMap'.
+[2025.10.04-16.03.20:817][ 39]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 38
+[2025.10.04-16.03.20:856][ 39]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.04-16.03.21:011][ 39]LogLoad: Game class is 'GM_Main_C'
+[2025.10.04-16.03.21:012][ 39]LogWorld: Bringing World /Game/Level/UEDPIE_0_DebugMap.DebugMap up for play (max tick rate 0) at 2025.10.04-23.03.21
+[2025.10.04-16.03.21:012][ 39]LogWorld: Bringing up level for play took: 0.000873
+[2025.10.04-16.03.21:015][ 39]LogOnline: OSS: Created online subsystem instance for: :Context_51
+[2025.10.04-16.03.21:018][ 39]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2025.10.04-16.03.21:020][ 39]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2025.10.04-16.03.21:021][ 39]vr.PixelDensity = "1"
+[2025.10.04-16.03.21:027][ 39]PIE: Server logged in
+[2025.10.04-16.03.21:032][ 39]PIE: Play in editor total start time 0.251 seconds.
+[2025.10.04-16.03.21:033][ 39]LogHMD: Warning: No UPlayerMappableInputConfig provided in the OpenXR Input project settings, action bindings will not be visible to the OpenXR runtime. Action/Axis mappings from the Input configuration are deprecated for XR in favor of Enhanced Input.
+[2025.10.04-16.03.21:041][ 39]LogViewport: Scene viewport resized to 4128x2272, mode Windowed.
+[2025.10.04-16.03.21:047][ 39]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2025.10.04-16.04.21:980][235]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.04-16.04.21:980][235]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_DebugMap
+[2025.10.04-16.04.22:092][235]LogSlate: Window 'OneNightAtCoonhatton Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6) OpenXR Oculus (1.111.0)' being destroyed
+[2025.10.04-16.04.22:097][235]LogWorld: UWorld::CleanupWorld for DebugMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.04-16.04.22:097][235]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.04-16.04.22:103][235]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.04-16.04.22:106][235]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.04-16.04.22:119][235]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 38
+[2025.10.04-16.04.22:119][235]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38
+[2025.10.04-16.04.22:124][235]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38
+[2025.10.04-16.04.22:132][235]LogSlate: Slate User Unregistered.  User Index 8
+[2025.10.04-16.04.22:132][235]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2025.10.04-16.04.22:133][235]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.10.04-16.04.22:184][236]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2025.10.04-16.07.39:479][586]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11382.424805
+[2025.10.04-16.07.40:028][652]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.04-16.07.40:028][652]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11382.968750, Update Interval: 344.649811
+[2025.10.04-16.11.51:389][756]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.10.04-16.11.51:399][756]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Level/DebugMap_Auto0
+[2025.10.04-16.11.51:399][756]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/DebugMap_Auto031A74C9F4CC361007F30E4811F4BE795.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/Autosaves/Game/Level/DebugMap_Auto0.umap'
+[2025.10.04-16.11.51:401][756]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/Autosaves/Game/Level/DebugMap_Auto0.umap is in the /Temp path, will not scan.
+[2025.10.04-16.11.51:401][756]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/Level/DebugMap_Auto0 is in the /Temp path, will not scan.
+[2025.10.04-16.11.51:401][756]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/Level/DebugMap_Auto0 is in the /Temp path, will not scan.
+[2025.10.04-16.11.51:401][756]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level/DebugMap' took 0.027
+[2025.10.04-16.11.51:401][756]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.027
+[2025.10.04-16.11.51:402][756]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BluePrints/Door/BP_Door] ([2] browsable assets)...
+[2025.10.04-16.11.51:465][756]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrints/Door/BP_Door.BP_Door]
+[2025.10.04-16.11.51:465][756]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Door/BP_Door]
+[2025.10.04-16.11.51:475][756]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BluePrints/Door/BP_Door_Auto0
+[2025.10.04-16.11.51:475][756]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/BP_Door_Auto0A62DAD21420B9915FC2B0F9F0C0C6476.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/Autosaves/Game/BluePrints/Door/BP_Door_Auto0.uasset'
+[2025.10.04-16.11.51:477][756]LogFileHelpers: Auto-saving content packages took 0.075
+[2025.10.04-16.14.20:828][671]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11782.630859
+[2025.10.04-16.14.21:245][721]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.04-16.14.21:245][721]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11783.037109, Update Interval: 305.454865
+[2025.10.04-16.20.13:710][855]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12134.427734
+[2025.10.04-16.20.14:887][996]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.04-16.20.14:887][996]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12135.591797, Update Interval: 342.924896
+[2025.10.04-16.21.50:243][260]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-16.21.50:375][260]LogSavePackage: Moving output files for package: /Game/BluePrints/Door/BP_Door
+[2025.10.04-16.21.50:376][260]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/BP_Door703DB86340E11782F2EA3989EE1A75E9.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/BluePrints/Door/BP_Door.uasset'
+[2025.10.04-16.21.50:386][260]LogFileHelpers: InternalPromptForCheckoutAndSave took 141 ms (total: 24.5 sec)
+[2025.10.04-16.21.50:388][260]AssetCheck: New page: Asset Save: BP_Door
+[2025.10.04-16.21.50:388][260]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Door/BP_Door.BP_Door
+[2025.10.04-16.21.50:770][305]BlueprintLog: New page: Compile BP_Door
+[2025.10.04-16.21.50:802][305]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.10.04-16.21.56:861][885]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-16.21.56:946][885]LogSavePackage: Moving output files for package: /Game/BluePrints/Door/BP_Door
+[2025.10.04-16.21.56:946][885]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/BP_DoorAFDD801C48E594C7333E6B98E3EC2E6F.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/BluePrints/Door/BP_Door.uasset'
+[2025.10.04-16.21.56:956][885]LogFileHelpers: InternalPromptForCheckoutAndSave took 94 ms (total: 24.6 sec)
+[2025.10.04-16.21.56:959][885]AssetCheck: New page: Asset Save: BP_Door
+[2025.10.04-16.21.56:959][885]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Door/BP_Door.BP_Door
+[2025.10.04-16.21.57:253][919]BlueprintLog: New page: Compile BP_Door
+[2025.10.04-16.21.57:295][919]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.10.04-16.22.15:536][ 38]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2025.10.04-16.22.15:598][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.10.04-16.22.16:966][172]LogDebuggerCommands: Repeating last play command: VR Preview
+[2025.10.04-16.22.16:971][172]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.04-16.22.16:971][172]PIE: New page: PIE session: DebugMap (5 ต.ค. 2568 06:22:16)
+[2025.10.04-16.22.16:971][172]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_DebugMap
+[2025.10.04-16.22.16:975][172]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002569s)
+[2025.10.04-16.22.16:975][172]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/DebugMap.DebugMap to /Game/Level/UEDPIE_0_DebugMap.DebugMap (0.002607s)
+[2025.10.04-16.22.16:985][172]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.10.04-16.22.16:988][172]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.10.04-16.22.16:988][172]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.10.04-16.22.16:988][172]LogAIModule: Creating AISystem for world DebugMap
+[2025.10.04-16.22.16:989][172]LogPlayLevel: PIE: World Init took: (0.001029s)
+[2025.10.04-16.22.16:989][172]LogAudio: Display: Creating Audio Device:                 Id: 39, Scope: Unique, Realtime: True
+[2025.10.04-16.22.16:989][172]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.04-16.22.16:989][172]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.04-16.22.16:989][172]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.04-16.22.16:989][172]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.04-16.22.16:989][172]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.04-16.22.16:989][172]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.04-16.22.16:989][172]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.04-16.22.16:989][172]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.04-16.22.16:989][172]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.04-16.22.16:989][172]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.04-16.22.16:989][172]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.04-16.22.16:992][172]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.04-16.22.17:015][172]LogAudioMixer: Display: Using Audio Hardware Device Speakers (USB Audio Device)
+[2025.10.04-16.22.17:015][172]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.04-16.22.17:015][172]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.04-16.22.17:015][172]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.04-16.22.17:015][172]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=39
+[2025.10.04-16.22.17:015][172]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=39
+[2025.10.04-16.22.17:017][172]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=39
+[2025.10.04-16.22.17:017][172]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=39
+[2025.10.04-16.22.17:017][172]LogInit: FAudioDevice initialized with ID 39.
+[2025.10.04-16.22.17:018][172]LogAudio: Display: Audio Device (ID: 39) registered with world 'DebugMap'.
+[2025.10.04-16.22.17:018][172]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 39
+[2025.10.04-16.22.17:051][172]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.04-16.22.17:182][172]LogLoad: Game class is 'GM_Main_C'
+[2025.10.04-16.22.17:183][172]LogWorld: Bringing World /Game/Level/UEDPIE_0_DebugMap.DebugMap up for play (max tick rate 0) at 2025.10.04-23.22.17
+[2025.10.04-16.22.17:183][172]LogWorld: Bringing up level for play took: 0.001222
+[2025.10.04-16.22.17:188][172]LogOnline: OSS: Created online subsystem instance for: :Context_52
+[2025.10.04-16.22.17:191][172]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2025.10.04-16.22.17:193][172]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2025.10.04-16.22.17:194][172]vr.PixelDensity = "1"
+[2025.10.04-16.22.17:201][172]PIE: Server logged in
+[2025.10.04-16.22.17:204][172]PIE: Play in editor total start time 0.233 seconds.
+[2025.10.04-16.22.17:207][172]LogHMD: Warning: No UPlayerMappableInputConfig provided in the OpenXR Input project settings, action bindings will not be visible to the OpenXR runtime. Action/Axis mappings from the Input configuration are deprecated for XR in favor of Enhanced Input.
+[2025.10.04-16.22.17:223][172]LogViewport: Scene viewport resized to 4128x2272, mode Windowed.
+[2025.10.04-16.22.17:231][172]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2025.10.04-16.22.33:909][774]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.04-16.22.33:909][774]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_DebugMap
+[2025.10.04-16.22.33:909][774]LogSlate: Window 'OneNightAtCoonhatton Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6) OpenXR Oculus (1.111.0)' being destroyed
+[2025.10.04-16.22.33:911][774]LogWorld: UWorld::CleanupWorld for DebugMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.04-16.22.33:912][774]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.04-16.22.33:918][774]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.04-16.22.33:921][774]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.04-16.22.33:934][774]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.04-16.22.33:934][774]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 39
+[2025.10.04-16.22.33:934][774]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2025.10.04-16.22.33:937][774]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2025.10.04-16.22.33:945][774]LogSlate: Slate User Unregistered.  User Index 8
+[2025.10.04-16.22.33:945][774]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2025.10.04-16.22.33:947][774]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.10.04-16.22.33:990][775]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2025.10.04-16.23.00:641][955]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.10.04-16.23.00:654][955]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Level/DebugMap_Auto1
+[2025.10.04-16.23.00:654][955]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/DebugMap_Auto1EC26D9304023444FF6C07FB5790B23DA.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/Autosaves/Game/Level/DebugMap_Auto1.umap'
+[2025.10.04-16.23.00:656][955]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/Autosaves/Game/Level/DebugMap_Auto1.umap is in the /Temp path, will not scan.
+[2025.10.04-16.23.00:656][955]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level/DebugMap' took 0.026
+[2025.10.04-16.23.00:656][955]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.026
+[2025.10.04-16.23.12:408][935]LogDebuggerCommands: Repeating last play command: VR Preview
+[2025.10.04-16.23.12:414][935]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.04-16.23.12:414][935]PIE: New page: PIE session: DebugMap (5 ต.ค. 2568 06:23:12)
+[2025.10.04-16.23.12:414][935]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_DebugMap
+[2025.10.04-16.23.12:417][935]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002314s)
+[2025.10.04-16.23.12:417][935]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/DebugMap.DebugMap to /Game/Level/UEDPIE_0_DebugMap.DebugMap (0.002357s)
+[2025.10.04-16.23.12:427][935]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.10.04-16.23.12:428][935]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.10.04-16.23.12:428][935]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.10.04-16.23.12:428][935]LogAIModule: Creating AISystem for world DebugMap
+[2025.10.04-16.23.12:430][935]LogPlayLevel: PIE: World Init took: (0.001350s)
+[2025.10.04-16.23.12:430][935]LogAudio: Display: Creating Audio Device:                 Id: 40, Scope: Unique, Realtime: True
+[2025.10.04-16.23.12:430][935]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.04-16.23.12:430][935]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.04-16.23.12:430][935]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.04-16.23.12:430][935]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.04-16.23.12:430][935]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.04-16.23.12:430][935]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.04-16.23.12:430][935]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.04-16.23.12:430][935]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.04-16.23.12:430][935]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.04-16.23.12:430][935]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.04-16.23.12:430][935]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.04-16.23.12:433][935]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.04-16.23.12:453][935]LogAudioMixer: Display: Using Audio Hardware Device Speakers (USB Audio Device)
+[2025.10.04-16.23.12:453][935]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.04-16.23.12:453][935]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.04-16.23.12:453][935]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.04-16.23.12:455][935]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=40
+[2025.10.04-16.23.12:455][935]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=40
+[2025.10.04-16.23.12:456][935]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=40
+[2025.10.04-16.23.12:456][935]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=40
+[2025.10.04-16.23.12:456][935]LogInit: FAudioDevice initialized with ID 40.
+[2025.10.04-16.23.12:456][935]LogAudio: Display: Audio Device (ID: 40) registered with world 'DebugMap'.
+[2025.10.04-16.23.12:456][935]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 40
+[2025.10.04-16.23.12:490][935]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.04-16.23.12:639][935]LogLoad: Game class is 'GM_Main_C'
+[2025.10.04-16.23.12:640][935]LogWorld: Bringing World /Game/Level/UEDPIE_0_DebugMap.DebugMap up for play (max tick rate 0) at 2025.10.04-23.23.12
+[2025.10.04-16.23.12:640][935]LogWorld: Bringing up level for play took: 0.000958
+[2025.10.04-16.23.12:643][935]LogOnline: OSS: Created online subsystem instance for: :Context_53
+[2025.10.04-16.23.12:648][935]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2025.10.04-16.23.12:649][935]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2025.10.04-16.23.12:651][935]vr.PixelDensity = "1"
+[2025.10.04-16.23.12:658][935]PIE: Server logged in
+[2025.10.04-16.23.12:663][935]PIE: Play in editor total start time 0.25 seconds.
+[2025.10.04-16.23.12:666][935]LogHMD: Warning: No UPlayerMappableInputConfig provided in the OpenXR Input project settings, action bindings will not be visible to the OpenXR runtime. Action/Axis mappings from the Input configuration are deprecated for XR in favor of Enhanced Input.
+[2025.10.04-16.23.12:686][935]LogViewport: Scene viewport resized to 4128x2272, mode Windowed.
+[2025.10.04-16.23.12:693][935]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2025.10.04-16.23.41:768][990]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.04-16.23.41:768][990]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_DebugMap
+[2025.10.04-16.23.41:816][990]LogSlate: Window 'OneNightAtCoonhatton Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6) OpenXR Oculus (1.111.0)' being destroyed
+[2025.10.04-16.23.41:820][990]LogWorld: UWorld::CleanupWorld for DebugMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.04-16.23.41:820][990]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.04-16.23.41:841][990]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.04-16.23.41:847][990]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.04-16.23.41:862][990]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 40
+[2025.10.04-16.23.41:862][990]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2025.10.04-16.23.41:865][990]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2025.10.04-16.23.41:873][990]LogSlate: Slate User Unregistered.  User Index 8
+[2025.10.04-16.23.41:873][990]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2025.10.04-16.23.41:874][990]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2025.10.04-16.23.41:930][991]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2025.10.04-16.24.49:935][789]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-16.24.50:082][789]LogSavePackage: Moving output files for package: /Game/BluePrints/Door/BP_Door
+[2025.10.04-16.24.50:083][789]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/BP_DoorBD924112420FAAAD49AC29A04947DF69.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/BluePrints/Door/BP_Door.uasset'
+[2025.10.04-16.24.50:094][789]LogFileHelpers: InternalPromptForCheckoutAndSave took 158 ms (total: 24.8 sec)
+[2025.10.04-16.24.50:098][789]AssetCheck: New page: Asset Save: BP_Door
+[2025.10.04-16.24.50:098][789]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Door/BP_Door.BP_Door
+[2025.10.04-16.24.51:908][984]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-16.24.51:995][984]LogSavePackage: Moving output files for package: /Game/BluePrints/Door/BP_Door
+[2025.10.04-16.24.51:997][984]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/BP_Door7A931D8E4BC68EA7397918997F6331BC.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/BluePrints/Door/BP_Door.uasset'
+[2025.10.04-16.24.52:006][984]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 24.9 sec)
+[2025.10.04-16.24.52:009][984]AssetCheck: New page: Asset Save: BP_Door
+[2025.10.04-16.24.52:009][984]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Door/BP_Door.BP_Door
+[2025.10.04-16.24.55:308][360]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-16.24.55:393][360]LogSavePackage: Moving output files for package: /Game/BluePrints/Door/BP_Door
+[2025.10.04-16.24.55:394][360]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/BP_Door3BF0BD0442AB65F64FEE1DB0751DCEBA.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/BluePrints/Door/BP_Door.uasset'
+[2025.10.04-16.24.55:404][360]LogFileHelpers: InternalPromptForCheckoutAndSave took 97 ms (total: 25.0 sec)
+[2025.10.04-16.24.55:408][360]AssetCheck: New page: Asset Save: BP_Door
+[2025.10.04-16.24.55:408][360]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Door/BP_Door.BP_Door
+[2025.10.04-16.24.56:384][472]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-16.24.56:483][472]LogSavePackage: Moving output files for package: /Game/BluePrints/Door/BP_Door
+[2025.10.04-16.24.56:483][472]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/BP_Door14A5F57140A49443F55CBD9A25F0C86A.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/BluePrints/Door/BP_Door.uasset'
+[2025.10.04-16.24.56:494][472]LogFileHelpers: InternalPromptForCheckoutAndSave took 109 ms (total: 25.1 sec)
+[2025.10.04-16.24.56:498][472]AssetCheck: New page: Asset Save: BP_Door
+[2025.10.04-16.24.56:498][472]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Door/BP_Door.BP_Door
+[2025.10.04-16.24.56:960][519]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-16.24.57:056][519]LogSavePackage: Moving output files for package: /Game/BluePrints/Door/BP_Door
+[2025.10.04-16.24.57:056][519]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/BP_Door8C706C5743EFD014445BAFBDED347F52.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/BluePrints/Door/BP_Door.uasset'
+[2025.10.04-16.24.57:066][519]LogFileHelpers: InternalPromptForCheckoutAndSave took 105 ms (total: 25.2 sec)
+[2025.10.04-16.24.57:068][519]AssetCheck: New page: Asset Save: BP_Door
+[2025.10.04-16.24.57:068][519]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Door/BP_Door.BP_Door
+[2025.10.04-16.25.12:440][252]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-16.25.12:609][252]LogSavePackage: Moving output files for package: /Game/BluePrints/Door/BP_Door
+[2025.10.04-16.25.12:610][252]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/BP_DoorCA2E3DDE4D93A24E24694799FBDB5374.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/BluePrints/Door/BP_Door.uasset'
+[2025.10.04-16.25.12:619][252]LogFileHelpers: InternalPromptForCheckoutAndSave took 179 ms (total: 25.4 sec)
+[2025.10.04-16.25.12:621][252]AssetCheck: New page: Asset Save: BP_Door
+[2025.10.04-16.25.12:623][252]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Door/BP_Door.BP_Door
+[2025.10.04-16.25.25:075][657]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-16.25.25:234][657]LogSavePackage: Moving output files for package: /Game/BluePrints/Door/BP_Door
+[2025.10.04-16.25.25:234][657]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/BP_DoorDD7C5E304A63869CF60B198980376BF7.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/BluePrints/Door/BP_Door.uasset'
+[2025.10.04-16.25.25:244][657]LogFileHelpers: InternalPromptForCheckoutAndSave took 170 ms (total: 25.5 sec)
+[2025.10.04-16.25.25:250][657]AssetCheck: New page: Asset Save: BP_Door
+[2025.10.04-16.25.25:252][657]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Door/BP_Door.BP_Door
+[2025.10.04-16.25.30:603][261]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-16.25.30:683][261]LogSavePackage: Moving output files for package: /Game/BluePrints/Door/BP_Door
+[2025.10.04-16.25.30:685][261]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/BP_DoorB941897C4BA9FD8AEB7709AB69E1095D.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/BluePrints/Door/BP_Door.uasset'
+[2025.10.04-16.25.30:692][261]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 25.6 sec)
+[2025.10.04-16.25.30:695][261]AssetCheck: New page: Asset Save: BP_Door
+[2025.10.04-16.25.30:695][261]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Door/BP_Door.BP_Door
+[2025.10.04-16.25.32:010][413]BlueprintLog: New page: Compile BP_Door
+[2025.10.04-16.25.32:043][413]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.10.04-16.25.37:935][ 69]LogDebuggerCommands: Repeating last play command: VR Preview
+[2025.10.04-16.25.37:939][ 69]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.04-16.25.37:941][ 69]PIE: New page: PIE session: DebugMap (5 ต.ค. 2568 06:25:37)
+[2025.10.04-16.25.37:941][ 69]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_DebugMap
+[2025.10.04-16.25.37:944][ 69]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002927s)
+[2025.10.04-16.25.37:944][ 69]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/DebugMap.DebugMap to /Game/Level/UEDPIE_0_DebugMap.DebugMap (0.002968s)
+[2025.10.04-16.25.37:953][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.10.04-16.25.37:956][ 69]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.10.04-16.25.37:956][ 69]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.10.04-16.25.37:957][ 69]LogAIModule: Creating AISystem for world DebugMap
+[2025.10.04-16.25.37:958][ 69]LogPlayLevel: PIE: World Init took: (0.001061s)
+[2025.10.04-16.25.37:958][ 69]LogAudio: Display: Creating Audio Device:                 Id: 41, Scope: Unique, Realtime: True
+[2025.10.04-16.25.37:958][ 69]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.04-16.25.37:958][ 69]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.04-16.25.37:958][ 69]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.04-16.25.37:958][ 69]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.04-16.25.37:958][ 69]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.04-16.25.37:958][ 69]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.04-16.25.37:958][ 69]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.04-16.25.37:958][ 69]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.04-16.25.37:958][ 69]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.04-16.25.37:958][ 69]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.04-16.25.37:958][ 69]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.04-16.25.37:960][ 69]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.04-16.25.37:982][ 69]LogAudioMixer: Display: Using Audio Hardware Device Speakers (USB Audio Device)
+[2025.10.04-16.25.37:983][ 69]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.04-16.25.37:983][ 69]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.04-16.25.37:983][ 69]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.04-16.25.37:983][ 69]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=41
+[2025.10.04-16.25.37:983][ 69]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=41
+[2025.10.04-16.25.37:987][ 69]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=41
+[2025.10.04-16.25.37:987][ 69]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=41
+[2025.10.04-16.25.37:987][ 69]LogInit: FAudioDevice initialized with ID 41.
+[2025.10.04-16.25.37:987][ 69]LogAudio: Display: Audio Device (ID: 41) registered with world 'DebugMap'.
+[2025.10.04-16.25.37:987][ 69]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 41
+[2025.10.04-16.25.38:023][ 69]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.04-16.25.38:169][ 69]LogLoad: Game class is 'GM_Main_C'
+[2025.10.04-16.25.38:171][ 69]LogWorld: Bringing World /Game/Level/UEDPIE_0_DebugMap.DebugMap up for play (max tick rate 0) at 2025.10.04-23.25.38
+[2025.10.04-16.25.38:171][ 69]LogWorld: Bringing up level for play took: 0.000980
+[2025.10.04-16.25.38:174][ 69]LogOnline: OSS: Created online subsystem instance for: :Context_54
+[2025.10.04-16.25.38:178][ 69]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2025.10.04-16.25.38:181][ 69]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2025.10.04-16.25.38:181][ 69]vr.PixelDensity = "1"
+[2025.10.04-16.25.38:189][ 69]PIE: Server logged in
+[2025.10.04-16.25.38:195][ 69]PIE: Play in editor total start time 0.255 seconds.
+[2025.10.04-16.25.38:197][ 69]LogHMD: Warning: No UPlayerMappableInputConfig provided in the OpenXR Input project settings, action bindings will not be visible to the OpenXR runtime. Action/Axis mappings from the Input configuration are deprecated for XR in favor of Enhanced Input.
+[2025.10.04-16.25.38:208][ 69]LogViewport: Scene viewport resized to 4128x2272, mode Windowed.
+[2025.10.04-16.25.38:212][ 69]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2025.10.04-16.26.06:509][ 94]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.04-16.26.06:509][ 94]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_DebugMap
+[2025.10.04-16.26.06:553][ 94]LogSlate: Window 'OneNightAtCoonhatton Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6) OpenXR Oculus (1.111.0)' being destroyed
+[2025.10.04-16.26.06:557][ 94]LogWorld: UWorld::CleanupWorld for DebugMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.04-16.26.06:557][ 94]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.04-16.26.06:584][ 94]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.04-16.26.06:590][ 94]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.04-16.26.06:602][ 94]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.04-16.26.06:603][ 94]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 41
+[2025.10.04-16.26.06:603][ 94]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41
+[2025.10.04-16.26.06:605][ 94]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41
+[2025.10.04-16.26.06:613][ 94]LogSlate: Slate User Unregistered.  User Index 8
+[2025.10.04-16.26.06:613][ 94]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2025.10.04-16.26.06:615][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.10.04-16.26.06:678][ 95]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2025.10.04-16.26.32:661][761]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12513.320312
+[2025.10.04-16.26.34:328][766]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.04-16.26.34:328][766]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12514.654297, Update Interval: 357.886902
+[2025.10.04-16.28.24:399][121]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-16.28.24:548][121]LogSavePackage: Moving output files for package: /Game/BluePrints/Door/BP_Door
+[2025.10.04-16.28.24:548][121]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/BP_DoorA073010342CC01E27CB03888682F60AE.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/BluePrints/Door/BP_Door.uasset'
+[2025.10.04-16.28.24:557][121]LogFileHelpers: InternalPromptForCheckoutAndSave took 158 ms (total: 25.8 sec)
+[2025.10.04-16.28.24:560][121]AssetCheck: New page: Asset Save: BP_Door
+[2025.10.04-16.28.24:560][121]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Door/BP_Door.BP_Door
+[2025.10.04-16.28.25:435][216]BlueprintLog: New page: Compile BP_Door
+[2025.10.04-16.28.25:470][216]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.10.04-16.28.28:414][523]LogDebuggerCommands: Repeating last play command: VR Preview
+[2025.10.04-16.28.28:421][523]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.04-16.28.28:421][523]PIE: New page: PIE session: DebugMap (5 ต.ค. 2568 06:28:28)
+[2025.10.04-16.28.28:421][523]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_DebugMap
+[2025.10.04-16.28.28:424][523]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002199s)
+[2025.10.04-16.28.28:424][523]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/DebugMap.DebugMap to /Game/Level/UEDPIE_0_DebugMap.DebugMap (0.002239s)
+[2025.10.04-16.28.28:433][523]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.10.04-16.28.28:436][523]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.10.04-16.28.28:438][523]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.10.04-16.28.28:438][523]LogAIModule: Creating AISystem for world DebugMap
+[2025.10.04-16.28.28:438][523]LogPlayLevel: PIE: World Init took: (0.000978s)
+[2025.10.04-16.28.28:438][523]LogAudio: Display: Creating Audio Device:                 Id: 42, Scope: Unique, Realtime: True
+[2025.10.04-16.28.28:438][523]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.04-16.28.28:438][523]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.04-16.28.28:438][523]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.04-16.28.28:438][523]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.04-16.28.28:438][523]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.04-16.28.28:438][523]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.04-16.28.28:438][523]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.04-16.28.28:438][523]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.04-16.28.28:439][523]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.04-16.28.28:439][523]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.04-16.28.28:439][523]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.04-16.28.28:440][523]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.04-16.28.28:458][523]LogAudioMixer: Display: Using Audio Hardware Device Speakers (USB Audio Device)
+[2025.10.04-16.28.28:458][523]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.04-16.28.28:458][523]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.04-16.28.28:458][523]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.04-16.28.28:458][523]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=42
+[2025.10.04-16.28.28:460][523]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=42
+[2025.10.04-16.28.28:461][523]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=42
+[2025.10.04-16.28.28:461][523]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=42
+[2025.10.04-16.28.28:461][523]LogInit: FAudioDevice initialized with ID 42.
+[2025.10.04-16.28.28:461][523]LogAudio: Display: Audio Device (ID: 42) registered with world 'DebugMap'.
+[2025.10.04-16.28.28:461][523]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 42
+[2025.10.04-16.28.28:504][523]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.04-16.28.28:654][523]LogLoad: Game class is 'GM_Main_C'
+[2025.10.04-16.28.28:654][523]LogWorld: Bringing World /Game/Level/UEDPIE_0_DebugMap.DebugMap up for play (max tick rate 0) at 2025.10.04-23.28.28
+[2025.10.04-16.28.28:654][523]LogWorld: Bringing up level for play took: 0.000907
+[2025.10.04-16.28.28:658][523]LogOnline: OSS: Created online subsystem instance for: :Context_55
+[2025.10.04-16.28.28:660][523]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2025.10.04-16.28.28:661][523]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2025.10.04-16.28.28:663][523]vr.PixelDensity = "1"
+[2025.10.04-16.28.28:672][523]PIE: Server logged in
+[2025.10.04-16.28.28:676][523]PIE: Play in editor total start time 0.255 seconds.
+[2025.10.04-16.28.28:678][523]LogHMD: Warning: No UPlayerMappableInputConfig provided in the OpenXR Input project settings, action bindings will not be visible to the OpenXR runtime. Action/Axis mappings from the Input configuration are deprecated for XR in favor of Enhanced Input.
+[2025.10.04-16.28.28:690][523]LogViewport: Scene viewport resized to 4128x2272, mode Windowed.
+[2025.10.04-16.28.28:693][523]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2025.10.04-16.28.56:519][458]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.04-16.28.56:519][458]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_DebugMap
+[2025.10.04-16.28.56:563][458]LogSlate: Window 'OneNightAtCoonhatton Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6) OpenXR Oculus (1.111.0)' being destroyed
+[2025.10.04-16.28.56:566][458]LogWorld: UWorld::CleanupWorld for DebugMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.04-16.28.56:566][458]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.04-16.28.56:591][458]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.04-16.28.56:594][458]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.04-16.28.56:610][458]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.04-16.28.56:610][458]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 42
+[2025.10.04-16.28.56:610][458]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=42
+[2025.10.04-16.28.56:611][458]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=42
+[2025.10.04-16.28.56:630][458]LogSlate: Slate User Unregistered.  User Index 8
+[2025.10.04-16.28.56:630][458]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2025.10.04-16.28.56:632][458]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.10.04-16.28.56:763][459]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2025.10.04-16.29.28:561][101]BlueprintLog: New page: Compile BP_Door
+[2025.10.04-16.29.28:596][101]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.10.04-16.29.30:983][345]LogDebuggerCommands: Repeating last play command: VR Preview
+[2025.10.04-16.29.30:988][345]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.04-16.29.30:988][345]PIE: New page: PIE session: DebugMap (5 ต.ค. 2568 06:29:30)
+[2025.10.04-16.29.30:988][345]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_DebugMap
+[2025.10.04-16.29.30:990][345]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002199s)
+[2025.10.04-16.29.30:990][345]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/DebugMap.DebugMap to /Game/Level/UEDPIE_0_DebugMap.DebugMap (0.002236s)
+[2025.10.04-16.29.31:000][345]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.10.04-16.29.31:003][345]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.10.04-16.29.31:003][345]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.10.04-16.29.31:003][345]LogAIModule: Creating AISystem for world DebugMap
+[2025.10.04-16.29.31:005][345]LogPlayLevel: PIE: World Init took: (0.000807s)
+[2025.10.04-16.29.31:005][345]LogAudio: Display: Creating Audio Device:                 Id: 43, Scope: Unique, Realtime: True
+[2025.10.04-16.29.31:005][345]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.04-16.29.31:005][345]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.04-16.29.31:005][345]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.04-16.29.31:005][345]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.04-16.29.31:005][345]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.04-16.29.31:005][345]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.04-16.29.31:005][345]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.04-16.29.31:005][345]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.04-16.29.31:005][345]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.04-16.29.31:005][345]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.04-16.29.31:005][345]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.04-16.29.31:006][345]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.04-16.29.31:023][345]LogAudioMixer: Display: Using Audio Hardware Device Speakers (USB Audio Device)
+[2025.10.04-16.29.31:023][345]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.04-16.29.31:023][345]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.04-16.29.31:023][345]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.04-16.29.31:025][345]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=43
+[2025.10.04-16.29.31:025][345]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=43
+[2025.10.04-16.29.31:026][345]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=43
+[2025.10.04-16.29.31:026][345]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=43
+[2025.10.04-16.29.31:026][345]LogInit: FAudioDevice initialized with ID 43.
+[2025.10.04-16.29.31:026][345]LogAudio: Display: Audio Device (ID: 43) registered with world 'DebugMap'.
+[2025.10.04-16.29.31:026][345]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 43
+[2025.10.04-16.29.31:066][345]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.04-16.29.31:198][345]LogLoad: Game class is 'GM_Main_C'
+[2025.10.04-16.29.31:198][345]LogWorld: Bringing World /Game/Level/UEDPIE_0_DebugMap.DebugMap up for play (max tick rate 0) at 2025.10.04-23.29.31
+[2025.10.04-16.29.31:198][345]LogWorld: Bringing up level for play took: 0.000838
+[2025.10.04-16.29.31:201][345]LogOnline: OSS: Created online subsystem instance for: :Context_56
+[2025.10.04-16.29.31:205][345]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2025.10.04-16.29.31:206][345]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2025.10.04-16.29.31:208][345]vr.PixelDensity = "1"
+[2025.10.04-16.29.31:215][345]PIE: Server logged in
+[2025.10.04-16.29.31:218][345]PIE: Play in editor total start time 0.23 seconds.
+[2025.10.04-16.29.31:225][345]LogViewport: Scene viewport resized to 4128x2272, mode Windowed.
+[2025.10.04-16.29.31:302][345]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2025.10.04-16.29.31:893][378]LogHMD: Warning: No UPlayerMappableInputConfig provided in the OpenXR Input project settings, action bindings will not be visible to the OpenXR runtime. Action/Axis mappings from the Input configuration are deprecated for XR in favor of Enhanced Input.
+[2025.10.04-16.29.58:908][400]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.04-16.29.58:908][400]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_DebugMap
+[2025.10.04-16.29.58:993][400]LogSlate: Window 'OneNightAtCoonhatton Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6) OpenXR Oculus (1.111.0)' being destroyed
+[2025.10.04-16.29.58:996][400]LogWorld: UWorld::CleanupWorld for DebugMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.04-16.29.58:997][400]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.04-16.29.59:020][400]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.04-16.29.59:025][400]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.04-16.29.59:037][400]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.04-16.29.59:037][400]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 43
+[2025.10.04-16.29.59:037][400]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=43
+[2025.10.04-16.29.59:039][400]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=43
+[2025.10.04-16.29.59:045][400]LogSlate: Slate User Unregistered.  User Index 8
+[2025.10.04-16.29.59:046][400]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2025.10.04-16.29.59:047][400]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.10.04-16.29.59:179][401]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2025.10.04-16.30.08:036][255]LogEditorTransaction: Undo Create Pin Link
+[2025.10.04-16.30.08:293][261]LogEditorTransaction: Undo Split Struct Pin
+[2025.10.04-16.30.08:520][266]LogEditorTransaction: Undo Add Node
+[2025.10.04-16.30.08:733][278]LogEditorTransaction: Undo Delete current selection
+[2025.10.04-16.30.09:043][305]LogEditorTransaction: Undo Move Node
+[2025.10.04-16.30.09:423][340]LogEditorTransaction: Undo Create Pin Link
+[2025.10.04-16.30.09:722][365]LogEditorTransaction: Undo Create Pin Link
+[2025.10.04-16.30.10:046][393]LogEditorTransaction: Undo Move Node
+[2025.10.04-16.30.10:528][440]LogEditorTransaction: Undo Paste clipboard contents
+[2025.10.04-16.30.12:449][659]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-16.30.12:597][659]LogSavePackage: Moving output files for package: /Game/BluePrints/Door/BP_Door
+[2025.10.04-16.30.12:597][659]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/BP_Door3CA307E1456572BB935EB9AAD1EDC39A.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/BluePrints/Door/BP_Door.uasset'
+[2025.10.04-16.30.12:607][659]LogFileHelpers: InternalPromptForCheckoutAndSave took 156 ms (total: 25.9 sec)
+[2025.10.04-16.30.12:608][659]AssetCheck: New page: Asset Save: BP_Door
+[2025.10.04-16.30.12:608][659]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Door/BP_Door.BP_Door
+[2025.10.04-16.31.57:543][864]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-16.31.57:681][864]LogSavePackage: Moving output files for package: /Game/BluePrints/Door/BP_Door
+[2025.10.04-16.31.57:683][864]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/BP_Door97B5FACB44F49FD1C4B7C88582CFF6F8.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/BluePrints/Door/BP_Door.uasset'
+[2025.10.04-16.31.57:690][864]LogFileHelpers: InternalPromptForCheckoutAndSave took 146 ms (total: 26.1 sec)
+[2025.10.04-16.31.57:693][864]AssetCheck: New page: Asset Save: BP_Door
+[2025.10.04-16.31.57:693][864]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Door/BP_Door.BP_Door
+[2025.10.04-16.32.03:676][566]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-16.32.03:816][566]LogSavePackage: Moving output files for package: /Game/BluePrints/Door/BP_Door
+[2025.10.04-16.32.03:816][566]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/BP_Door3188635245CD220314D3E48DB4798487.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/BluePrints/Door/BP_Door.uasset'
+[2025.10.04-16.32.03:824][566]LogFileHelpers: InternalPromptForCheckoutAndSave took 148 ms (total: 26.2 sec)
+[2025.10.04-16.32.03:826][566]AssetCheck: New page: Asset Save: BP_Door
+[2025.10.04-16.32.03:826][566]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Door/BP_Door.BP_Door
+[2025.10.04-16.32.09:295][210]BlueprintLog: New page: Compile BP_Door
+[2025.10.04-16.32.09:329][210]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.10.04-16.32.13:877][724]LogDebuggerCommands: Repeating last play command: VR Preview
+[2025.10.04-16.32.13:882][724]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.04-16.32.13:884][724]PIE: New page: PIE session: DebugMap (5 ต.ค. 2568 06:32:13)
+[2025.10.04-16.32.13:884][724]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_DebugMap
+[2025.10.04-16.32.13:885][724]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002139s)
+[2025.10.04-16.32.13:885][724]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/DebugMap.DebugMap to /Game/Level/UEDPIE_0_DebugMap.DebugMap (0.002175s)
+[2025.10.04-16.32.13:897][724]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.10.04-16.32.13:901][724]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.10.04-16.32.13:901][724]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.10.04-16.32.13:901][724]LogAIModule: Creating AISystem for world DebugMap
+[2025.10.04-16.32.13:901][724]LogPlayLevel: PIE: World Init took: (0.000959s)
+[2025.10.04-16.32.13:901][724]LogAudio: Display: Creating Audio Device:                 Id: 44, Scope: Unique, Realtime: True
+[2025.10.04-16.32.13:901][724]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.04-16.32.13:901][724]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.04-16.32.13:901][724]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.04-16.32.13:901][724]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.04-16.32.13:901][724]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.04-16.32.13:901][724]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.04-16.32.13:901][724]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.04-16.32.13:901][724]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.04-16.32.13:903][724]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.04-16.32.13:903][724]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.04-16.32.13:903][724]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.04-16.32.13:904][724]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.04-16.32.13:922][724]LogAudioMixer: Display: Using Audio Hardware Device Speakers (USB Audio Device)
+[2025.10.04-16.32.13:922][724]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.04-16.32.13:922][724]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.04-16.32.13:922][724]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.04-16.32.13:922][724]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=44
+[2025.10.04-16.32.13:922][724]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=44
+[2025.10.04-16.32.13:924][724]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=44
+[2025.10.04-16.32.13:924][724]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=44
+[2025.10.04-16.32.13:924][724]LogInit: FAudioDevice initialized with ID 44.
+[2025.10.04-16.32.13:924][724]LogAudio: Display: Audio Device (ID: 44) registered with world 'DebugMap'.
+[2025.10.04-16.32.13:924][724]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 44
+[2025.10.04-16.32.13:976][724]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.04-16.32.14:121][724]LogLoad: Game class is 'GM_Main_C'
+[2025.10.04-16.32.14:122][724]LogWorld: Bringing World /Game/Level/UEDPIE_0_DebugMap.DebugMap up for play (max tick rate 0) at 2025.10.04-23.32.14
+[2025.10.04-16.32.14:122][724]LogWorld: Bringing up level for play took: 0.000923
+[2025.10.04-16.32.14:125][724]LogOnline: OSS: Created online subsystem instance for: :Context_57
+[2025.10.04-16.32.14:130][724]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2025.10.04-16.32.14:131][724]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2025.10.04-16.32.14:133][724]vr.PixelDensity = "1"
+[2025.10.04-16.32.14:140][724]PIE: Server logged in
+[2025.10.04-16.32.14:145][724]PIE: Play in editor total start time 0.262 seconds.
+[2025.10.04-16.32.14:152][724]LogViewport: Scene viewport resized to 4128x2272, mode Windowed.
+[2025.10.04-16.32.14:157][724]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2025.10.04-16.32.14:640][747]LogHMD: Warning: No UPlayerMappableInputConfig provided in the OpenXR Input project settings, action bindings will not be visible to the OpenXR runtime. Action/Axis mappings from the Input configuration are deprecated for XR in favor of Enhanced Input.
+[2025.10.04-16.32.47:378][915]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.04-16.32.47:380][915]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_DebugMap
+[2025.10.04-16.32.47:446][915]LogSlate: Window 'OneNightAtCoonhatton Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6) OpenXR Oculus (1.111.0)' being destroyed
+[2025.10.04-16.32.47:450][915]LogWorld: UWorld::CleanupWorld for DebugMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.04-16.32.47:451][915]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.04-16.32.47:478][915]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.04-16.32.47:484][915]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.04-16.32.47:500][915]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.04-16.32.47:501][915]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 44
+[2025.10.04-16.32.47:501][915]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=44
+[2025.10.04-16.32.47:503][915]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=44
+[2025.10.04-16.32.47:513][915]LogSlate: Slate User Unregistered.  User Index 8
+[2025.10.04-16.32.47:513][915]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2025.10.04-16.32.47:514][915]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2025.10.04-16.32.47:663][916]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2025.10.04-16.32.53:068][520]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-16.32.53:213][520]LogSavePackage: Moving output files for package: /Game/BluePrints/Door/BP_Door
+[2025.10.04-16.32.53:213][520]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/BP_Door52E8E92E4D0EA08985AE6AB84D53B6D6.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/BluePrints/Door/BP_Door.uasset'
+[2025.10.04-16.32.53:222][520]LogFileHelpers: InternalPromptForCheckoutAndSave took 154 ms (total: 26.4 sec)
+[2025.10.04-16.32.53:225][520]AssetCheck: New page: Asset Save: BP_Door
+[2025.10.04-16.32.53:225][520]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Door/BP_Door.BP_Door
+[2025.10.04-16.32.54:506][667]BlueprintLog: New page: Compile BP_Door
+[2025.10.04-16.32.54:539][667]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.10.04-16.32.56:243][846]LogDebuggerCommands: Repeating last play command: VR Preview
+[2025.10.04-16.32.56:248][846]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.04-16.32.56:248][846]PIE: New page: PIE session: DebugMap (5 ต.ค. 2568 06:32:56)
+[2025.10.04-16.32.56:250][846]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_DebugMap
+[2025.10.04-16.32.56:251][846]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002239s)
+[2025.10.04-16.32.56:251][846]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/DebugMap.DebugMap to /Game/Level/UEDPIE_0_DebugMap.DebugMap (0.002277s)
+[2025.10.04-16.32.56:260][846]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.10.04-16.32.56:263][846]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.10.04-16.32.56:263][846]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.10.04-16.32.56:265][846]LogAIModule: Creating AISystem for world DebugMap
+[2025.10.04-16.32.56:265][846]LogPlayLevel: PIE: World Init took: (0.000940s)
+[2025.10.04-16.32.56:265][846]LogAudio: Display: Creating Audio Device:                 Id: 45, Scope: Unique, Realtime: True
+[2025.10.04-16.32.56:265][846]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.04-16.32.56:265][846]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.04-16.32.56:265][846]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.04-16.32.56:265][846]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.04-16.32.56:265][846]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.04-16.32.56:265][846]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.04-16.32.56:265][846]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.04-16.32.56:265][846]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.04-16.32.56:265][846]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.04-16.32.56:265][846]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.04-16.32.56:265][846]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.04-16.32.56:268][846]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.04-16.32.56:286][846]LogAudioMixer: Display: Using Audio Hardware Device Speakers (USB Audio Device)
+[2025.10.04-16.32.56:286][846]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.04-16.32.56:286][846]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.04-16.32.56:286][846]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.04-16.32.56:286][846]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=45
+[2025.10.04-16.32.56:286][846]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=45
+[2025.10.04-16.32.56:288][846]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=45
+[2025.10.04-16.32.56:288][846]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=45
+[2025.10.04-16.32.56:288][846]LogInit: FAudioDevice initialized with ID 45.
+[2025.10.04-16.32.56:288][846]LogAudio: Display: Audio Device (ID: 45) registered with world 'DebugMap'.
+[2025.10.04-16.32.56:288][846]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 45
+[2025.10.04-16.32.56:318][846]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.04-16.32.56:446][846]LogLoad: Game class is 'GM_Main_C'
+[2025.10.04-16.32.56:448][846]LogWorld: Bringing World /Game/Level/UEDPIE_0_DebugMap.DebugMap up for play (max tick rate 0) at 2025.10.04-23.32.56
+[2025.10.04-16.32.56:448][846]LogWorld: Bringing up level for play took: 0.001002
+[2025.10.04-16.32.56:450][846]LogOnline: OSS: Created online subsystem instance for: :Context_58
+[2025.10.04-16.32.56:453][846]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2025.10.04-16.32.56:457][846]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2025.10.04-16.32.56:458][846]vr.PixelDensity = "1"
+[2025.10.04-16.32.56:464][846]PIE: Server logged in
+[2025.10.04-16.32.56:468][846]PIE: Play in editor total start time 0.22 seconds.
+[2025.10.04-16.32.56:471][846]LogHMD: Warning: No UPlayerMappableInputConfig provided in the OpenXR Input project settings, action bindings will not be visible to the OpenXR runtime. Action/Axis mappings from the Input configuration are deprecated for XR in favor of Enhanced Input.
+[2025.10.04-16.32.56:480][846]LogViewport: Scene viewport resized to 4128x2272, mode Windowed.
+[2025.10.04-16.32.56:488][846]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2025.10.04-16.33.14:308][500]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12914.769531
+[2025.10.04-16.33.14:579][508]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.04-16.33.14:579][508]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_DebugMap
+[2025.10.04-16.33.14:630][508]LogSlate: Window 'OneNightAtCoonhatton Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6) OpenXR Oculus (1.111.0)' being destroyed
+[2025.10.04-16.33.14:633][508]LogWorld: UWorld::CleanupWorld for DebugMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.04-16.33.14:633][508]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.04-16.33.14:658][508]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.04-16.33.14:664][508]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.04-16.33.14:677][508]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 45
+[2025.10.04-16.33.14:677][508]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=45
+[2025.10.04-16.33.14:680][508]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=45
+[2025.10.04-16.33.14:688][508]LogSlate: Slate User Unregistered.  User Index 8
+[2025.10.04-16.33.14:688][508]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2025.10.04-16.33.14:690][508]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2025.10.04-16.33.14:748][509]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2025.10.04-16.33.14:900][510]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.04-16.33.14:900][510]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12915.182617, Update Interval: 354.645844
+[2025.10.04-16.33.26:879][794]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-16.33.27:019][794]LogSavePackage: Moving output files for package: /Game/BluePrints/Door/BP_Door
+[2025.10.04-16.33.27:019][794]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/BP_DoorF7430D2F41E72E0DECA1F4A9DA2CDFA3.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/BluePrints/Door/BP_Door.uasset'
+[2025.10.04-16.33.27:030][794]LogFileHelpers: InternalPromptForCheckoutAndSave took 151 ms (total: 26.5 sec)
+[2025.10.04-16.33.27:030][794]AssetCheck: New page: Asset Save: BP_Door
+[2025.10.04-16.33.27:030][794]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Door/BP_Door.BP_Door
+[2025.10.04-16.33.28:952][ 22]BlueprintLog: New page: Compile BP_Door
+[2025.10.04-16.33.28:982][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.10.04-16.33.46:468][ 82]BlueprintLog: New page: Compile BP_Door
+[2025.10.04-16.33.46:498][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.10.04-16.33.48:490][288]LogDebuggerCommands: Repeating last play command: VR Preview
+[2025.10.04-16.33.48:495][288]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.04-16.33.48:495][288]PIE: New page: PIE session: DebugMap (5 ต.ค. 2568 06:33:48)
+[2025.10.04-16.33.48:497][288]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_DebugMap
+[2025.10.04-16.33.48:498][288]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002927s)
+[2025.10.04-16.33.48:498][288]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/DebugMap.DebugMap to /Game/Level/UEDPIE_0_DebugMap.DebugMap (0.002972s)
+[2025.10.04-16.33.48:508][288]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.10.04-16.33.48:510][288]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.10.04-16.33.48:511][288]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.10.04-16.33.48:511][288]LogAIModule: Creating AISystem for world DebugMap
+[2025.10.04-16.33.48:511][288]LogPlayLevel: PIE: World Init took: (0.000848s)
+[2025.10.04-16.33.48:511][288]LogAudio: Display: Creating Audio Device:                 Id: 46, Scope: Unique, Realtime: True
+[2025.10.04-16.33.48:511][288]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.04-16.33.48:511][288]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.04-16.33.48:511][288]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.04-16.33.48:511][288]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.04-16.33.48:511][288]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.04-16.33.48:511][288]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.04-16.33.48:511][288]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.04-16.33.48:511][288]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.04-16.33.48:511][288]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.04-16.33.48:511][288]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.04-16.33.48:511][288]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.04-16.33.48:514][288]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.04-16.33.48:533][288]LogAudioMixer: Display: Using Audio Hardware Device Speakers (USB Audio Device)
+[2025.10.04-16.33.48:533][288]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.04-16.33.48:533][288]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.04-16.33.48:533][288]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.04-16.33.48:535][288]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=46
+[2025.10.04-16.33.48:535][288]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=46
+[2025.10.04-16.33.48:536][288]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=46
+[2025.10.04-16.33.48:536][288]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=46
+[2025.10.04-16.33.48:536][288]LogInit: FAudioDevice initialized with ID 46.
+[2025.10.04-16.33.48:536][288]LogAudio: Display: Audio Device (ID: 46) registered with world 'DebugMap'.
+[2025.10.04-16.33.48:536][288]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 46
+[2025.10.04-16.33.48:573][288]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.04-16.33.48:710][288]LogLoad: Game class is 'GM_Main_C'
+[2025.10.04-16.33.48:711][288]LogWorld: Bringing World /Game/Level/UEDPIE_0_DebugMap.DebugMap up for play (max tick rate 0) at 2025.10.04-23.33.48
+[2025.10.04-16.33.48:711][288]LogWorld: Bringing up level for play took: 0.000697
+[2025.10.04-16.33.48:713][288]LogOnline: OSS: Created online subsystem instance for: :Context_59
+[2025.10.04-16.33.48:716][288]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2025.10.04-16.33.48:719][288]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2025.10.04-16.33.48:719][288]vr.PixelDensity = "1"
+[2025.10.04-16.33.48:725][288]PIE: Server logged in
+[2025.10.04-16.33.48:729][288]PIE: Play in editor total start time 0.233 seconds.
+[2025.10.04-16.33.48:737][288]LogViewport: Scene viewport resized to 4128x2272, mode Windowed.
+[2025.10.04-16.33.48:819][288]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2025.10.04-16.33.49:225][311]LogHMD: Warning: No UPlayerMappableInputConfig provided in the OpenXR Input project settings, action bindings will not be visible to the OpenXR runtime. Action/Axis mappings from the Input configuration are deprecated for XR in favor of Enhanced Input.
+[2025.10.04-16.34.55:220][697]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.04-16.34.55:220][697]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_DebugMap
+[2025.10.04-16.34.55:266][697]LogSlate: Window 'OneNightAtCoonhatton Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6) OpenXR Oculus (1.111.0)' being destroyed
+[2025.10.04-16.34.55:270][697]LogWorld: UWorld::CleanupWorld for DebugMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.04-16.34.55:270][697]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.04-16.34.55:295][697]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.04-16.34.55:300][697]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.04-16.34.55:316][697]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.04-16.34.55:316][697]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 46
+[2025.10.04-16.34.55:316][697]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=46
+[2025.10.04-16.34.55:317][697]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=46
+[2025.10.04-16.34.55:327][697]LogSlate: Slate User Unregistered.  User Index 8
+[2025.10.04-16.34.55:327][697]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2025.10.04-16.34.55:328][697]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2025.10.04-16.34.55:387][698]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2025.10.04-16.35.09:848][345]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.10.04-16.35.42:150][967]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-16.35.42:242][967]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.10.04-16.35.42:258][967]LogSavePackage: Moving output files for package: /Game/Level/DebugMap
+[2025.10.04-16.35.42:260][967]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/DebugMapF5460A9F48D2D58472B6DE95F633AF07.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/Level/DebugMap.umap'
+[2025.10.04-16.35.42:270][967]LogFileHelpers: Saving map 'DebugMap' took 0.057
+[2025.10.04-16.35.42:284][967]LogFileHelpers: InternalPromptForCheckoutAndSave took 134 ms (total: 26.7 sec)
+[2025.10.04-16.35.42:289][967]AssetCheck: New page: Asset Save: DebugMap
+[2025.10.04-16.35.42:289][967]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level/DebugMap.DebugMap
+[2025.10.04-16.35.43:310][ 77]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-16.35.43:452][ 77]LogSavePackage: Moving output files for package: /Game/BluePrints/Door/BP_Door
+[2025.10.04-16.35.43:453][ 77]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/BP_Door56DC13704848B6F8F88B9A90A519EED9.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/BluePrints/Door/BP_Door.uasset'
+[2025.10.04-16.35.43:463][ 77]LogFileHelpers: InternalPromptForCheckoutAndSave took 154 ms (total: 26.8 sec)
+[2025.10.04-16.35.43:468][ 77]AssetCheck: New page: Asset Save: BP_Door
+[2025.10.04-16.35.43:468][ 77]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Door/BP_Door.BP_Door
+[2025.10.04-16.35.54:408][254]LogContentBrowser: Attempting asset rename: BP_Door -> BP_Door_R
+[2025.10.04-16.35.54:466][254]LogMetaData: Removing '/Game/BluePrints/Door/BP_Door_R.BP_Door_R:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/BluePrints/Door/BP_Door.PackageMetaData'
+[2025.10.04-16.35.54:466][254]LogMetaData: Removing '/Game/BluePrints/Door/BP_Door_R.SKEL_BP_Door_R_C' ref from Metadata '/Game/BluePrints/Door/BP_Door.PackageMetaData'
+[2025.10.04-16.35.54:466][254]LogMetaData: Removing '/Game/BluePrints/Door/BP_Door_R.BP_Door_R_C' ref from Metadata '/Game/BluePrints/Door/BP_Door.PackageMetaData'
+[2025.10.04-16.35.54:466][254]LogMetaData: Removing '/Game/BluePrints/Door/BP_Door_R.BP_Door_R:EventGraph.K2Node_Event_0' ref from Metadata '/Game/BluePrints/Door/BP_Door.PackageMetaData'
+[2025.10.04-16.35.54:466][254]LogMetaData: Removing '/Game/BluePrints/Door/BP_Door_R.BP_Door_R:EventGraph.K2Node_Event_1' ref from Metadata '/Game/BluePrints/Door/BP_Door.PackageMetaData'
+[2025.10.04-16.35.54:466][254]LogMetaData: Removing '/Game/BluePrints/Door/BP_Door_R.BP_Door_R:EventGraph.K2Node_Event_2' ref from Metadata '/Game/BluePrints/Door/BP_Door.PackageMetaData'
+[2025.10.04-16.35.54:466][254]LogMetaData: Removing '/Game/BluePrints/Door/BP_Door_R.BP_Door_R_C:ReceiveTick' ref from Metadata '/Game/BluePrints/Door/BP_Door.PackageMetaData'
+[2025.10.04-16.35.54:466][254]LogMetaData: Removing '/Game/BluePrints/Door/BP_Door_R.SKEL_BP_Door_R_C:UserConstructionScript' ref from Metadata '/Game/BluePrints/Door/BP_Door.PackageMetaData'
+[2025.10.04-16.35.54:466][254]LogMetaData: Removing '/Game/BluePrints/Door/BP_Door_R.SKEL_BP_Door_R_C:ReceiveTick' ref from Metadata '/Game/BluePrints/Door/BP_Door.PackageMetaData'
+[2025.10.04-16.35.54:476][254]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-16.35.54:590][254]LogSavePackage: Moving output files for package: /Game/BluePrints/Door/BP_Door_R
+[2025.10.04-16.35.54:590][254]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/BP_Door_R361E724647B6EE18DFB81EABB39F51ED.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/BluePrints/Door/BP_Door_R.uasset'
+[2025.10.04-16.35.54:603][254]LogSavePackage: Moving output files for package: /Game/BluePrints/Door/BP_Door
+[2025.10.04-16.35.54:603][254]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/BP_Door70AAD8B1412D5E17C9A6E384246EB9E9.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/BluePrints/Door/BP_Door.uasset'
+[2025.10.04-16.35.54:612][254]LogFileHelpers: InternalPromptForCheckoutAndSave took 136 ms (total: 27.0 sec)
+[2025.10.04-16.35.54:615][254]AssetCheck: New page: Asset Save: multiple assets
+[2025.10.04-16.35.54:615][254]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Door/BP_Door_R.BP_Door_R
+[2025.10.04-16.35.54:615][254]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/BluePrints/Door/BP_Door.BP_Door
+[2025.10.04-16.35.54:615][254]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/BluePrints/Door/BP_Door.BP_Door_C
+[2025.10.04-16.35.54:615][254]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/BluePrints/Door/BP_Door.Default__BP_Door_C
+[2025.10.04-16.35.54:615][254]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.10.04-16.35.56:660][465]LogShaderCompilers: Display: ================================================
+[2025.10.04-16.35.56:660][465]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.10.04-16.35.56:660][465]LogShaderCompilers: Display: Total job queries 113, among them cache hits 32 (28.32%)
+[2025.10.04-16.35.56:660][465]LogShaderCompilers: Display: Tracking 79 distinct input hashes that result in 59 distinct outputs (74.68%)
+[2025.10.04-16.35.56:660][465]LogShaderCompilers: Display: RAM used: 2.93 MiB of 1.60 GiB budget. Usage: 0.18%
+[2025.10.04-16.35.56:660][465]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.10.04-16.35.56:660][465]LogShaderCompilers: Display: Shaders Compiled: 51
+[2025.10.04-16.35.56:660][465]LogShaderCompilers: Display: Jobs assigned 53, completed 51 (96.23%)
+[2025.10.04-16.35.56:660][465]LogShaderCompilers: Display: Average time worker was idle: 1078.77 s
+[2025.10.04-16.35.56:660][465]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.11 s
+[2025.10.04-16.35.56:660][465]LogShaderCompilers: Display: Job execution time: average 0.62 s, max 1.94 s
+[2025.10.04-16.35.56:660][465]LogShaderCompilers: Display: Job life time (pending + execution): average 0.69 s, max 2.02
+[2025.10.04-16.35.56:660][465]LogShaderCompilers: Display: Shader code size: average 65.943 KiB, min 4.504 KiB, max 98.047 KiB
+[2025.10.04-16.35.56:660][465]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 18.84 s
+[2025.10.04-16.35.56:660][465]LogShaderCompilers: Display: Jobs were issued in 53 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.10.04-16.35.56:660][465]LogShaderCompilers: Display: Average processing rate: 2.71 jobs/sec
+[2025.10.04-16.35.56:660][465]LogShaderCompilers: Display: Total thread time: 23.674 s
+[2025.10.04-16.35.56:660][465]LogShaderCompilers: Display: Total thread preprocess time: 1.348 s
+[2025.10.04-16.35.56:660][465]LogShaderCompilers: Display: Percentage time preprocessing: 5.70%
+[2025.10.04-16.35.56:660][465]LogShaderCompilers: Display: Effective parallelization: 1.26 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.10.04-16.35.56:660][465]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.10.04-16.35.56:660][465]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    9 times, average 1.37 sec, max 1.53 sec, min 1.27 sec)
+[2025.10.04-16.35.56:661][465]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   12 times, average 0.36 sec, max 1.65 sec, min 0.20 sec)
+[2025.10.04-16.35.56:661][465]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   19 times, average 0.27 sec, max 0.31 sec, min 0.22 sec)
+[2025.10.04-16.35.56:661][465]LogShaderCompilers: Display:                                            FDistortionMeshVS (compiled    1 times, average 0.21 sec, max 0.21 sec, min 0.21 sec)
+[2025.10.04-16.35.56:661][465]LogShaderCompilers: Display:                                                  FVelocityVS (compiled    1 times, average 0.20 sec, max 0.20 sec, min 0.20 sec)
+[2025.10.04-16.35.56:661][465]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.10.04-16.35.56:661][465]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 52.13% of total time (compiled    9 times, average 1.37 sec, max 1.53 sec, min 1.27 sec)
+[2025.10.04-16.35.56:661][465]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 21.57% of total time (compiled   19 times, average 0.27 sec, max 0.31 sec, min 0.22 sec)
+[2025.10.04-16.35.56:661][465]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 18.18% of total time (compiled   12 times, average 0.36 sec, max 1.65 sec, min 0.20 sec)
+[2025.10.04-16.35.56:661][465]LogShaderCompilers: Display:                                                  FHitProxyVS - 3.37% of total time (compiled    4 times, average 0.20 sec, max 0.21 sec, min 0.17 sec)
+[2025.10.04-16.35.56:661][465]LogShaderCompilers: Display:                                                  FHitProxyPS - 1.99% of total time (compiled    4 times, average 0.12 sec, max 0.17 sec, min 0.09 sec)
+[2025.10.04-16.35.56:661][465]LogShaderCompilers: Display: ================================================
+[2025.10.04-16.36.00:354][656]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-16.36.00:442][656]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.10.04-16.36.00:452][656]LogSavePackage: Moving output files for package: /Game/Level/DebugMap
+[2025.10.04-16.36.00:453][656]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/DebugMapD9F2D52A4C05F79AAB8C8BB7D17E8D56.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/Level/DebugMap.umap'
+[2025.10.04-16.36.00:460][656]LogFileHelpers: Saving map 'DebugMap' took 0.043
+[2025.10.04-16.36.00:469][656]LogFileHelpers: InternalPromptForCheckoutAndSave took 114 ms (total: 27.1 sec)
+[2025.10.04-16.36.00:470][656]AssetCheck: New page: Asset Save: DebugMap
+[2025.10.04-16.36.00:470][656]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level/DebugMap.DebugMap
+[2025.10.04-16.36.01:234][733]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-16.36.01:320][733]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2025.10.04-16.36.01:330][733]LogSavePackage: Moving output files for package: /Game/Level/DebugMap
+[2025.10.04-16.36.01:330][733]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/DebugMap9CB4F87B4D0ABDBAAA1B719AD25B6ED6.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/Level/DebugMap.umap'
+[2025.10.04-16.36.01:340][733]LogFileHelpers: Saving map 'DebugMap' took 0.045
+[2025.10.04-16.36.01:349][733]LogFileHelpers: InternalPromptForCheckoutAndSave took 113 ms (total: 27.2 sec)
+[2025.10.04-16.36.01:350][733]AssetCheck: New page: Asset Save: DebugMap
+[2025.10.04-16.36.01:350][733]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level/DebugMap.DebugMap
+[2025.10.04-16.36.02:748][870]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.10.04-16.36.02:753][870]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/BluePrints/Door/BP_Door_R1 does not exist, will not scan.
+[2025.10.04-16.36.02:837][872]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.10.04-16.36.08:175][402]LogContentBrowser: Attempting asset rename: BP_Door_R1 -> BP_Door_L
+[2025.10.04-16.36.08:197][402]LogMetaData: Removing '/Game/BluePrints/Door/BP_Door_L.SKEL_BP_Door_L_C' ref from Metadata '/Game/BluePrints/Door/BP_Door_R1.PackageMetaData'
+[2025.10.04-16.36.08:197][402]LogMetaData: Removing '/Game/BluePrints/Door/BP_Door_L.BP_Door_L_C' ref from Metadata '/Game/BluePrints/Door/BP_Door_R1.PackageMetaData'
+[2025.10.04-16.36.08:197][402]LogMetaData: Removing '/Game/BluePrints/Door/BP_Door_L.SKEL_BP_Door_L_C:ReceiveTick' ref from Metadata '/Game/BluePrints/Door/BP_Door_R1.PackageMetaData'
+[2025.10.04-16.36.08:197][402]LogMetaData: Removing '/Game/BluePrints/Door/BP_Door_L.SKEL_BP_Door_L_C:UserConstructionScript' ref from Metadata '/Game/BluePrints/Door/BP_Door_R1.PackageMetaData'
+[2025.10.04-16.36.08:197][402]LogMetaData: Removing '/Game/BluePrints/Door/BP_Door_L.BP_Door_L_C:ReceiveTick' ref from Metadata '/Game/BluePrints/Door/BP_Door_R1.PackageMetaData'
+[2025.10.04-16.36.08:198][402]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-16.36.08:255][402]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.10.04-16.36.08:285][402]LogSavePackage: Moving output files for package: /Game/BluePrints/Door/BP_Door_L
+[2025.10.04-16.36.08:285][402]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/BP_Door_L0D516C6A4B2D39D2B1E94591B0AC0E07.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/BluePrints/Door/BP_Door_L.uasset'
+[2025.10.04-16.36.08:299][402]LogFileHelpers: InternalPromptForCheckoutAndSave took 101 ms (total: 27.3 sec)
+[2025.10.04-16.36.08:314][402]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2025.10.04-16.36.08:324][402]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.10.04-16.36.08:333][402]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2025.10.04-16.36.08:338][402]AssetCheck: New page: Asset Save: BP_Door_L
+[2025.10.04-16.36.08:338][402]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Door/BP_Door_L.BP_Door_L
+[2025.10.04-16.36.08:734][447]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-16.36.08:810][447]LogSavePackage: Moving output files for package: /Game/BluePrints/Door/BP_Door_L
+[2025.10.04-16.36.08:812][447]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/BP_Door_LFF3A9706451303C1DDF66A9B00A3E92F.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/BluePrints/Door/BP_Door_L.uasset'
+[2025.10.04-16.36.08:819][447]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 27.4 sec)
+[2025.10.04-16.36.08:820][447]AssetCheck: New page: Asset Save: BP_Door_L
+[2025.10.04-16.36.08:820][447]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Door/BP_Door_L.BP_Door_L
+[2025.10.04-16.36.09:657][543]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.04-16.36.09:748][543]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.10.04-16.36.09:758][543]LogSavePackage: Moving output files for package: /Game/Level/DebugMap
+[2025.10.04-16.36.09:759][543]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/DebugMap7C7B2BB144B30022E7AF4FBAA158E1AF.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/Level/DebugMap.umap'
+[2025.10.04-16.36.09:766][543]LogFileHelpers: Saving map 'DebugMap' took 0.043
+[2025.10.04-16.36.09:775][543]LogFileHelpers: InternalPromptForCheckoutAndSave took 117 ms (total: 27.5 sec)
+[2025.10.04-16.36.09:778][543]AssetCheck: New page: Asset Save: DebugMap
+[2025.10.04-16.36.09:778][543]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level/DebugMap.DebugMap
+[2025.10.04-16.36.14:330][726]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
