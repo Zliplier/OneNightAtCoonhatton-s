@@ -1,0 +1,5 @@
+[1003/103531.511:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[1003/103531.940:ERROR:backend_impl.cc(1041)] Critical error found -8
+[1003/103532.356:WARNING:storage_block-inl.h(146)] Failed data load.
+[1003/103533.234:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[1003/103731.880:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
