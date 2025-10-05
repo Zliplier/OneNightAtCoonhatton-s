@@ -4230,3 +4230,636 @@ Script Stack (0 frames) :
 [2025.10.05-02.18.21:764][715]LogFileHelpers: InternalPromptForCheckoutAndSave took 104 ms (total: 16.1 sec)
 [2025.10.05-02.18.21:765][715]AssetCheck: New page: Asset Save: DebugMap
 [2025.10.05-02.18.21:765][715]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level/DebugMap.DebugMap
+[2025.10.05-02.22.39:236][690]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 33900.671875
+[2025.10.05-02.22.40:237][693]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.05-02.22.40:237][693]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 33901.339844, Update Interval: 320.317993
+[2025.10.05-02.28.40:638][774]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 34262.019531
+[2025.10.05-02.28.41:633][777]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.05-02.28.41:633][777]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 34262.679688, Update Interval: 301.706604
+[2025.10.05-02.34.18:675][788]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 34600.011719
+[2025.10.05-02.34.20:009][792]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.05-02.34.20:009][792]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 34601.015625, Update Interval: 318.734100
+[2025.10.05-02.40.12:068][848]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 34953.335938
+[2025.10.05-02.40.13:409][852]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.05-02.40.13:410][852]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 34954.332031, Update Interval: 359.185150
+[2025.10.05-02.46.14:799][936]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: c04...320
+[2025.10.05-02.46.14:800][936]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.87 RefreshExpires: 1.552e+07
+[2025.10.05-02.46.16:133][940]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: c04...320 Access[Expires: 2025.10.05-04.46.16 Remaining: 7200.93] Refresh[Expires: 2026-04-02T16:54:30.319Z Remaining: 15516494.32] State: Valid
+[2025.10.05-02.47.11:473][106]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 35372.656250
+[2025.10.05-02.47.12:481][109]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.05-02.47.12:482][109]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 35373.320312, Update Interval: 306.482117
+[2025.10.05-02.52.52:860][130]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 35714.035156
+[2025.10.05-02.52.53:859][133]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.05-02.52.53:859][133]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 35714.699219, Update Interval: 326.684784
+[2025.10.05-02.56.18:543][746]LogDerivedDataCache: C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.082 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1831 files in 2876 folders with total size 100 MiB.
+[2025.10.05-02.58.53:260][211]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 36074.304688
+[2025.10.05-02.58.54:260][214]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.05-02.58.54:260][214]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 36074.972656, Update Interval: 326.170227
+[2025.10.05-03.05.16:664][361]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 36457.531250
+[2025.10.05-03.05.17:665][364]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.05-03.05.17:665][364]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 36458.195312, Update Interval: 304.581451
+[2025.10.05-03.11.17:056][442]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 36817.898438
+[2025.10.05-03.11.18:066][445]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.05-03.11.18:066][445]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 36818.566406, Update Interval: 353.539856
+[2025.10.05-03.18.00:460][652]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 37221.339844
+[2025.10.05-03.18.01:458][655]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.05-03.18.01:458][655]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 37222.011719, Update Interval: 306.203796
+[2025.10.05-03.23.46:528][690]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 37567.316406
+[2025.10.05-03.23.47:525][693]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.05-03.23.47:525][693]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 37567.980469, Update Interval: 313.160187
+[2025.10.05-03.27.08:996][811]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.10.05-03.27.10:890][ 35]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.10.05-03.27.38:475][404]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.10.05-03.27.38:487][404]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Level/DebugMap_Auto2
+[2025.10.05-03.27.38:488][404]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/DebugMap_Auto2385B82754E54B048B9DA939E1C399CBD.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/Autosaves/Game/Level/DebugMap_Auto2.umap'
+[2025.10.05-03.27.38:489][404]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/Autosaves/Game/Level/DebugMap_Auto2.umap is in the /Temp path, will not scan.
+[2025.10.05-03.27.38:489][404]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level/DebugMap' took 0.028
+[2025.10.05-03.27.38:489][404]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.028
+[2025.10.05-03.28.27:413][772]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.10.05-03.28.27:449][773]LogShaderCompilers: Display: ================================================
+[2025.10.05-03.28.27:450][773]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.10.05-03.28.27:450][773]LogShaderCompilers: Display: Total job queries 264, among them cache hits 51 (19.32%)
+[2025.10.05-03.28.27:450][773]LogShaderCompilers: Display: Tracking 213 distinct input hashes that result in 129 distinct outputs (60.56%)
+[2025.10.05-03.28.27:450][773]LogShaderCompilers: Display: RAM used: 7.91 MiB of 1.60 GiB budget. Usage: 0.48%
+[2025.10.05-03.28.27:450][773]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.10.05-03.28.27:450][773]LogShaderCompilers: Display: Shaders Compiled: 117
+[2025.10.05-03.28.27:450][773]LogShaderCompilers: Display: Jobs assigned 117, completed 117 (100%)
+[2025.10.05-03.28.27:450][773]LogShaderCompilers: Display: Average time worker was idle: 4.60 s
+[2025.10.05-03.28.27:450][773]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.11 s
+[2025.10.05-03.28.27:450][773]LogShaderCompilers: Display: Job execution time: average 0.51 s, max 1.63 s
+[2025.10.05-03.28.27:450][773]LogShaderCompilers: Display: Job life time (pending + execution): average 0.57 s, max 1.72
+[2025.10.05-03.28.27:450][773]LogShaderCompilers: Display: Shader code size: average 58.989 KiB, min 3.105 KiB, max 87.836 KiB
+[2025.10.05-03.28.27:450][773]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 34.60 s
+[2025.10.05-03.28.27:450][773]LogShaderCompilers: Display: Jobs were issued in 117 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.10.05-03.28.27:450][773]LogShaderCompilers: Display: Average processing rate: 3.38 jobs/sec
+[2025.10.05-03.28.27:450][773]LogShaderCompilers: Display: Total thread time: 48.295 s
+[2025.10.05-03.28.27:450][773]LogShaderCompilers: Display: Total thread preprocess time: 3.208 s
+[2025.10.05-03.28.27:450][773]LogShaderCompilers: Display: Percentage time preprocessing: 6.64%
+[2025.10.05-03.28.27:450][773]LogShaderCompilers: Display: Effective parallelization: 1.40 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.10.05-03.28.27:450][773]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.10.05-03.28.27:450][773]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled   15 times, average 1.42 sec, max 1.52 sec, min 1.33 sec)
+[2025.10.05-03.28.27:450][773]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   41 times, average 0.28 sec, max 0.36 sec, min 0.24 sec)
+[2025.10.05-03.28.27:450][773]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   26 times, average 0.24 sec, max 0.34 sec, min 0.20 sec)
+[2025.10.05-03.28.27:450][773]LogShaderCompilers: Display:                  TShadowDepthVSVertexShadowDepth_OutputDepth (compiled    8 times, average 0.23 sec, max 0.26 sec, min 0.21 sec)
+[2025.10.05-03.28.27:450][773]LogShaderCompilers: Display:                                          TDepthOnlyVS<false> (compiled    8 times, average 0.22 sec, max 0.26 sec, min 0.19 sec)
+[2025.10.05-03.28.27:450][773]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.10.05-03.28.27:450][773]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 44.22% of total time (compiled   15 times, average 1.42 sec, max 1.52 sec, min 1.33 sec)
+[2025.10.05-03.28.27:450][773]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 24.15% of total time (compiled   41 times, average 0.28 sec, max 0.36 sec, min 0.24 sec)
+[2025.10.05-03.28.27:450][773]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 12.78% of total time (compiled   26 times, average 0.24 sec, max 0.34 sec, min 0.20 sec)
+[2025.10.05-03.28.27:450][773]LogShaderCompilers: Display:                                                  FVelocityVS - 5.30% of total time (compiled   12 times, average 0.21 sec, max 0.24 sec, min 0.18 sec)
+[2025.10.05-03.28.27:450][773]LogShaderCompilers: Display:                  TShadowDepthVSVertexShadowDepth_OutputDepth - 3.86% of total time (compiled    8 times, average 0.23 sec, max 0.26 sec, min 0.21 sec)
+[2025.10.05-03.28.27:450][773]LogShaderCompilers: Display: ================================================
+[2025.10.05-03.28.27:950][826]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Player/BP_PlayerCharacter.BP_PlayerCharacter
+[2025.10.05-03.28.27:951][826]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.10.05-03.28.27:951][826]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.10.05-03.28.29:418][966]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.05-03.28.29:581][966]LogSavePackage: Moving output files for package: /Game/Player/BP_PlayerCharacter
+[2025.10.05-03.28.29:581][966]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/BP_PlayerCharacterA3A32A09460D3F38C42F079A3B063590.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/Player/BP_PlayerCharacter.uasset'
+[2025.10.05-03.28.29:592][966]LogFileHelpers: InternalPromptForCheckoutAndSave took 174 ms (total: 16.2 sec)
+[2025.10.05-03.28.29:596][966]AssetCheck: New page: Asset Save: BP_PlayerCharacter
+[2025.10.05-03.28.29:596][966]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/BP_PlayerCharacter.BP_PlayerCharacter
+[2025.10.05-03.28.30:317][ 49]LogViewport: Scene viewport resized to 1076x685, mode Windowed.
+[2025.10.05-03.28.43:810][566]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.05-03.28.43:929][566]LogSavePackage: Moving output files for package: /Game/Player/BP_PlayerCharacter
+[2025.10.05-03.28.43:930][566]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/BP_PlayerCharacter2EE876984F9F63A544E110B82844A6A0.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/Player/BP_PlayerCharacter.uasset'
+[2025.10.05-03.28.43:939][566]LogFileHelpers: InternalPromptForCheckoutAndSave took 128 ms (total: 16.4 sec)
+[2025.10.05-03.28.43:940][566]AssetCheck: New page: Asset Save: BP_PlayerCharacter
+[2025.10.05-03.28.43:940][566]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/BP_PlayerCharacter.BP_PlayerCharacter
+[2025.10.05-03.28.46:238][789]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.05-03.28.46:348][789]LogSavePackage: Moving output files for package: /Game/Player/BP_PlayerCharacter
+[2025.10.05-03.28.46:349][789]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/BP_PlayerCharacterBEBFF00D4ABD3D2B52C5CF896F3DA24C.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/Player/BP_PlayerCharacter.uasset'
+[2025.10.05-03.28.46:357][789]LogFileHelpers: InternalPromptForCheckoutAndSave took 118 ms (total: 16.5 sec)
+[2025.10.05-03.28.46:360][789]AssetCheck: New page: Asset Save: BP_PlayerCharacter
+[2025.10.05-03.28.46:360][789]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/BP_PlayerCharacter.BP_PlayerCharacter
+[2025.10.05-03.28.57:148][979]LogEditorTransaction: Undo Modify Component(s)
+[2025.10.05-03.28.57:786][  1]LogEditorTransaction: Undo Make New Scene Root
+[2025.10.05-03.29.02:287][478]LogEditorTransaction: Undo Make New Scene Root
+[2025.10.05-03.29.05:936][843]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.10.05-03.29.06:375][888]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.10.05-03.29.29:941][551]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.05-03.29.30:061][551]LogSavePackage: Moving output files for package: /Game/Player/BP_PlayerCharacter
+[2025.10.05-03.29.30:062][551]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/BP_PlayerCharacter6BA820D24B3343CDD31D00BD8C41F7C8.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/Player/BP_PlayerCharacter.uasset'
+[2025.10.05-03.29.30:072][551]LogFileHelpers: InternalPromptForCheckoutAndSave took 131 ms (total: 16.6 sec)
+[2025.10.05-03.29.30:075][551]AssetCheck: New page: Asset Save: BP_PlayerCharacter
+[2025.10.05-03.29.30:075][551]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/BP_PlayerCharacter.BP_PlayerCharacter
+[2025.10.05-03.29.31:139][670]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.05-03.29.31:243][670]LogSavePackage: Moving output files for package: /Game/Player/BP_PlayerCharacter
+[2025.10.05-03.29.31:244][670]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/BP_PlayerCharacter44EB0DAA404DF2423BC1AD878AD7E6B2.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/Player/BP_PlayerCharacter.uasset'
+[2025.10.05-03.29.31:252][670]LogFileHelpers: InternalPromptForCheckoutAndSave took 113 ms (total: 16.7 sec)
+[2025.10.05-03.29.31:255][670]AssetCheck: New page: Asset Save: BP_PlayerCharacter
+[2025.10.05-03.29.31:255][670]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/BP_PlayerCharacter.BP_PlayerCharacter
+[2025.10.05-03.29.34:511][ 44]LogEditorTransaction: Undo Attach Component
+[2025.10.05-03.29.36:032][170]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 37912.652344
+[2025.10.05-03.29.36:373][210]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.05-03.29.36:373][210]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 37912.964844, Update Interval: 344.166382
+[2025.10.05-03.29.36:993][284]LogEditorTransaction: Redo Attach Component
+[2025.10.05-03.29.46:036][240]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.05-03.29.46:146][240]LogSavePackage: Moving output files for package: /Game/Player/BP_PlayerCharacter
+[2025.10.05-03.29.46:148][240]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/BP_PlayerCharacter7F2497764D374A07F4AD1B81B1D57DB0.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/Player/BP_PlayerCharacter.uasset'
+[2025.10.05-03.29.46:155][240]LogFileHelpers: InternalPromptForCheckoutAndSave took 119 ms (total: 16.9 sec)
+[2025.10.05-03.29.46:158][240]AssetCheck: New page: Asset Save: BP_PlayerCharacter
+[2025.10.05-03.29.46:158][240]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/BP_PlayerCharacter.BP_PlayerCharacter
+[2025.10.05-03.29.46:590][291]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2025.10.05-03.29.46:679][291]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2025.10.05-03.30.03:881][193]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.05-03.30.03:992][193]LogSavePackage: Moving output files for package: /Game/Player/BP_PlayerCharacter
+[2025.10.05-03.30.03:993][193]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/BP_PlayerCharacter2A95982B4195EED36BEF1FADF9A1BEFB.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/Player/BP_PlayerCharacter.uasset'
+[2025.10.05-03.30.04:001][193]LogFileHelpers: InternalPromptForCheckoutAndSave took 120 ms (total: 17.0 sec)
+[2025.10.05-03.30.04:004][193]AssetCheck: New page: Asset Save: BP_PlayerCharacter
+[2025.10.05-03.30.04:004][193]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/BP_PlayerCharacter.BP_PlayerCharacter
+[2025.10.05-03.30.05:273][332]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.05-03.30.05:384][332]LogSavePackage: Moving output files for package: /Game/Player/BP_PlayerCharacter
+[2025.10.05-03.30.05:384][332]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/BP_PlayerCharacter1F51FAAC481E20357E3E428349E5C5BC.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/Player/BP_PlayerCharacter.uasset'
+[2025.10.05-03.30.05:393][332]LogFileHelpers: InternalPromptForCheckoutAndSave took 119 ms (total: 17.1 sec)
+[2025.10.05-03.30.05:395][332]AssetCheck: New page: Asset Save: BP_PlayerCharacter
+[2025.10.05-03.30.05:395][332]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/BP_PlayerCharacter.BP_PlayerCharacter
+[2025.10.05-03.30.05:690][367]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2025.10.05-03.30.05:778][367]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.10.05-03.30.08:456][652]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Player/BP_PlayerCharacter.BP_PlayerCharacter_C
+[2025.10.05-03.30.08:456][652]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Player/BP_PlayerCharacter.BP_PlayerCharacter_C
+[2025.10.05-03.30.08:458][652]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2025.10.05-03.30.08:458][652]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2025.10.05-03.30.08:464][652]LogActorFactory: Actor Factory spawned Blueprint /Game/Player/BP_PlayerCharacter.BP_PlayerCharacter as actor: BP_PlayerCharacter_C /Game/Level/DebugMap.DebugMap:PersistentLevel.BP_PlayerCharacter_C_0
+[2025.10.05-03.30.08:471][652]LogActorFactory: Actor Factory spawned Blueprint /Game/Player/BP_PlayerCharacter.BP_PlayerCharacter as actor: BP_PlayerCharacter_C /Game/Level/DebugMap.DebugMap:PersistentLevel.BP_PlayerCharacter_C_0
+[2025.10.05-03.30.08:792][672]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Player/BP_PlayerCharacter.BP_PlayerCharacter_C
+[2025.10.05-03.30.08:792][672]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Player/BP_PlayerCharacter.BP_PlayerCharacter_C
+[2025.10.05-03.30.08:799][672]LogActorFactory: Actor Factory spawned Blueprint /Game/Player/BP_PlayerCharacter.BP_PlayerCharacter as actor: BP_PlayerCharacter_C /Game/Level/DebugMap.DebugMap:PersistentLevel.BP_PlayerCharacter_C_1
+[2025.10.05-03.30.08:806][672]LogActorFactory: Actor Factory spawned Blueprint /Game/Player/BP_PlayerCharacter.BP_PlayerCharacter as actor: BP_PlayerCharacter_C /Game/Level/DebugMap.DebugMap:PersistentLevel.BP_PlayerCharacter_C_1
+[2025.10.05-03.30.08:917][673]LogViewport: Scene viewport resized to 384x190, mode Windowed.
+[2025.10.05-03.30.13:582][159]Cmd: TRANSACTION UNDO
+[2025.10.05-03.30.13:582][159]LogEditorTransaction: Undo Move Elements
+[2025.10.05-03.30.14:205][182]Cmd: TRANSACTION UNDO
+[2025.10.05-03.30.14:205][182]LogEditorTransaction: Undo Create Actors
+[2025.10.05-03.30.22:493][ 77]LogEditorTransaction: Undo Modify Component(s)
+[2025.10.05-03.30.56:095][879]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.05-03.30.56:215][879]LogSavePackage: Moving output files for package: /Game/Player/BP_PlayerCharacter
+[2025.10.05-03.30.56:216][879]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/BP_PlayerCharacter594EA16F4AA31226574E9D95700F6503.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/Player/BP_PlayerCharacter.uasset'
+[2025.10.05-03.30.56:224][879]LogFileHelpers: InternalPromptForCheckoutAndSave took 128 ms (total: 17.2 sec)
+[2025.10.05-03.30.56:226][879]AssetCheck: New page: Asset Save: BP_PlayerCharacter
+[2025.10.05-03.30.56:226][879]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/BP_PlayerCharacter.BP_PlayerCharacter
+[2025.10.05-03.30.56:624][926]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2025.10.05-03.30.56:742][926]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.10.05-03.31.10:727][469]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.05-03.31.10:857][469]LogSavePackage: Moving output files for package: /Game/Player/BP_PlayerCharacter
+[2025.10.05-03.31.10:858][469]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/BP_PlayerCharacterC9745934413BF0DC720E47B590F6FEE6.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/Player/BP_PlayerCharacter.uasset'
+[2025.10.05-03.31.10:866][469]LogFileHelpers: InternalPromptForCheckoutAndSave took 138 ms (total: 17.4 sec)
+[2025.10.05-03.31.10:868][469]AssetCheck: New page: Asset Save: BP_PlayerCharacter
+[2025.10.05-03.31.10:868][469]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/BP_PlayerCharacter.BP_PlayerCharacter
+[2025.10.05-03.31.19:383][403]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.05-03.31.19:503][403]LogSavePackage: Moving output files for package: /Game/Player/BP_PlayerCharacter
+[2025.10.05-03.31.19:503][403]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/BP_PlayerCharacterCDA7ACF94AF97EDCA95C9BBF7A3E9A4E.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/Player/BP_PlayerCharacter.uasset'
+[2025.10.05-03.31.19:512][403]LogFileHelpers: InternalPromptForCheckoutAndSave took 129 ms (total: 17.5 sec)
+[2025.10.05-03.31.19:521][403]AssetCheck: New page: Asset Save: BP_PlayerCharacter
+[2025.10.05-03.31.19:521][403]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/BP_PlayerCharacter.BP_PlayerCharacter
+[2025.10.05-03.31.23:195][837]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.05-03.31.23:301][837]LogSavePackage: Moving output files for package: /Game/Player/BP_PlayerCharacter
+[2025.10.05-03.31.23:301][837]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/BP_PlayerCharacterA843165D4BDD508ADAAB28BF71FFE713.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/Player/BP_PlayerCharacter.uasset'
+[2025.10.05-03.31.23:309][837]LogFileHelpers: InternalPromptForCheckoutAndSave took 114 ms (total: 17.6 sec)
+[2025.10.05-03.31.23:311][837]AssetCheck: New page: Asset Save: BP_PlayerCharacter
+[2025.10.05-03.31.23:311][837]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/BP_PlayerCharacter.BP_PlayerCharacter
+[2025.10.05-03.31.29:775][533]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.05-03.31.29:891][533]LogSavePackage: Moving output files for package: /Game/Player/BP_PlayerCharacter
+[2025.10.05-03.31.29:891][533]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/BP_PlayerCharacter4F1F4AF7435EBC88064C909DDFDA12EA.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/Player/BP_PlayerCharacter.uasset'
+[2025.10.05-03.31.29:900][533]LogFileHelpers: InternalPromptForCheckoutAndSave took 125 ms (total: 17.7 sec)
+[2025.10.05-03.31.29:903][533]AssetCheck: New page: Asset Save: BP_PlayerCharacter
+[2025.10.05-03.31.29:903][533]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/BP_PlayerCharacter.BP_PlayerCharacter
+[2025.10.05-03.31.30:390][589]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2025.10.05-03.31.30:471][589]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.10.05-03.31.32:977][850]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Player/BP_PlayerCharacter.BP_PlayerCharacter_C
+[2025.10.05-03.31.32:977][850]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Player/BP_PlayerCharacter.BP_PlayerCharacter_C
+[2025.10.05-03.31.32:983][850]LogActorFactory: Actor Factory spawned Blueprint /Game/Player/BP_PlayerCharacter.BP_PlayerCharacter as actor: BP_PlayerCharacter_C /Game/Level/DebugMap.DebugMap:PersistentLevel.BP_PlayerCharacter_C_2
+[2025.10.05-03.31.32:989][850]LogActorFactory: Actor Factory spawned Blueprint /Game/Player/BP_PlayerCharacter.BP_PlayerCharacter as actor: BP_PlayerCharacter_C /Game/Level/DebugMap.DebugMap:PersistentLevel.BP_PlayerCharacter_C_2
+[2025.10.05-03.31.33:726][904]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Player/BP_PlayerCharacter.BP_PlayerCharacter_C
+[2025.10.05-03.31.33:726][904]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Player/BP_PlayerCharacter.BP_PlayerCharacter_C
+[2025.10.05-03.31.33:733][904]LogActorFactory: Actor Factory spawned Blueprint /Game/Player/BP_PlayerCharacter.BP_PlayerCharacter as actor: BP_PlayerCharacter_C /Game/Level/DebugMap.DebugMap:PersistentLevel.BP_PlayerCharacter_C_3
+[2025.10.05-03.31.33:739][904]LogActorFactory: Actor Factory spawned Blueprint /Game/Player/BP_PlayerCharacter.BP_PlayerCharacter as actor: BP_PlayerCharacter_C /Game/Level/DebugMap.DebugMap:PersistentLevel.BP_PlayerCharacter_C_3
+[2025.10.05-03.31.33:817][905]LogViewport: Scene viewport resized to 384x190, mode Windowed.
+[2025.10.05-03.31.50:520][851]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.10.05-03.31.51:541][966]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.05-03.31.51:620][966]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.10.05-03.31.51:635][966]LogSavePackage: Moving output files for package: /Game/Level/DebugMap
+[2025.10.05-03.31.51:637][966]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/DebugMap1A76F4C94B2BE0F554AB4B86E7A37E3B.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/Level/DebugMap.umap'
+[2025.10.05-03.31.51:644][966]LogFileHelpers: Saving map 'DebugMap' took 0.057
+[2025.10.05-03.31.51:652][966]LogFileHelpers: InternalPromptForCheckoutAndSave took 110 ms (total: 17.8 sec)
+[2025.10.05-03.31.51:654][966]AssetCheck: New page: Asset Save: DebugMap
+[2025.10.05-03.31.51:654][966]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level/DebugMap.DebugMap
+[2025.10.05-03.31.53:396][155]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.10.05-03.31.53:908][209]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.05-03.31.53:989][209]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.10.05-03.31.54:001][209]LogSavePackage: Moving output files for package: /Game/Level/DebugMap
+[2025.10.05-03.31.54:002][209]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/DebugMapD68E586A4D8BC1EE9F9349BC0A62E061.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/Level/DebugMap.umap'
+[2025.10.05-03.31.54:010][209]LogFileHelpers: Saving map 'DebugMap' took 0.047
+[2025.10.05-03.31.54:019][209]LogFileHelpers: InternalPromptForCheckoutAndSave took 111 ms (total: 17.9 sec)
+[2025.10.05-03.31.54:022][209]AssetCheck: New page: Asset Save: DebugMap
+[2025.10.05-03.31.54:022][209]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level/DebugMap.DebugMap
+[2025.10.05-03.32.03:085][260]LogViewport: Scene viewport resized to 384x190, mode Windowed.
+[2025.10.05-03.32.04:026][372]Cmd: DELETE
+[2025.10.05-03.32.04:026][372]Cmd: ACTOR DELETE
+[2025.10.05-03.32.04:028][372]LogEditorActor: Deleted Actor: BP_PlayerCharacter_C
+[2025.10.05-03.32.04:041][372]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.10.05-03.32.04:043][372]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2025.10.05-03.32.04:798][460]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.05-03.32.04:872][460]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.10.05-03.32.04:882][460]LogSavePackage: Moving output files for package: /Game/Level/DebugMap
+[2025.10.05-03.32.04:883][460]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/DebugMap2E5721EF4BA00A33694D70991D5DA030.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/Level/DebugMap.umap'
+[2025.10.05-03.32.04:889][460]LogFileHelpers: Saving map 'DebugMap' took 0.040
+[2025.10.05-03.32.04:897][460]LogFileHelpers: InternalPromptForCheckoutAndSave took 99 ms (total: 18.0 sec)
+[2025.10.05-03.32.04:899][460]AssetCheck: New page: Asset Save: DebugMap
+[2025.10.05-03.32.04:899][460]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level/DebugMap.DebugMap
+[2025.10.05-03.32.08:595][900]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.05-03.32.08:674][900]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.10.05-03.32.08:684][900]LogSavePackage: Moving output files for package: /Game/Level/DebugMap
+[2025.10.05-03.32.08:684][900]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/DebugMap0CEFEECE4CE070D85F9DF9B93F5CC917.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/Level/DebugMap.umap'
+[2025.10.05-03.32.08:691][900]LogFileHelpers: Saving map 'DebugMap' took 0.041
+[2025.10.05-03.32.08:700][900]LogFileHelpers: InternalPromptForCheckoutAndSave took 103 ms (total: 18.2 sec)
+[2025.10.05-03.32.08:701][900]AssetCheck: New page: Asset Save: DebugMap
+[2025.10.05-03.32.08:701][900]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level/DebugMap.DebugMap
+[2025.10.05-03.32.11:348][212]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.05-03.32.11:412][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.10.05-03.32.11:422][212]LogSavePackage: Moving output files for package: /Game/Level/DebugMap
+[2025.10.05-03.32.11:423][212]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/DebugMapBC02F7F542E0E8FA21EDEDB172211619.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/Level/DebugMap.umap'
+[2025.10.05-03.32.11:429][212]LogFileHelpers: Saving map 'DebugMap' took 0.039
+[2025.10.05-03.32.11:436][212]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 18.2 sec)
+[2025.10.05-03.32.11:439][212]AssetCheck: New page: Asset Save: DebugMap
+[2025.10.05-03.32.11:439][212]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level/DebugMap.DebugMap
+[2025.10.05-03.32.13:169][413]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.05-03.32.13:246][413]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.10.05-03.32.13:256][413]LogSavePackage: Moving output files for package: /Game/Level/DebugMap
+[2025.10.05-03.32.13:256][413]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/DebugMap711687E2473772FF5FD78F8467997D4E.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/Level/DebugMap.umap'
+[2025.10.05-03.32.13:264][413]LogFileHelpers: Saving map 'DebugMap' took 0.041
+[2025.10.05-03.32.13:272][413]LogFileHelpers: InternalPromptForCheckoutAndSave took 101 ms (total: 18.3 sec)
+[2025.10.05-03.32.13:274][413]AssetCheck: New page: Asset Save: DebugMap
+[2025.10.05-03.32.13:274][413]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level/DebugMap.DebugMap
+[2025.10.05-03.32.15:771][684]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.05-03.32.15:844][684]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.10.05-03.32.15:854][684]LogSavePackage: Moving output files for package: /Game/Level/DebugMap
+[2025.10.05-03.32.15:855][684]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/DebugMap9861CF2E472E85AF9CBFEDA305184969.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/Level/DebugMap.umap'
+[2025.10.05-03.32.15:861][684]LogFileHelpers: Saving map 'DebugMap' took 0.041
+[2025.10.05-03.32.15:869][684]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 18.4 sec)
+[2025.10.05-03.32.15:871][684]AssetCheck: New page: Asset Save: DebugMap
+[2025.10.05-03.32.15:871][684]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level/DebugMap.DebugMap
+[2025.10.05-03.32.35:695][551]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2025.10.05-03.32.35:695][551]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.05-03.32.36:432][612]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.10.05-03.32.36:432][612]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2025.10.05-03.32.36:432][612]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.05-03.32.37:439][716]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.10.05-03.32.37:439][716]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.05-03.32.39:092][910]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.05-03.32.39:180][910]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.10.05-03.32.39:199][910]LogSavePackage: Moving output files for package: /Game/Level/DebugMap
+[2025.10.05-03.32.39:199][910]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/DebugMapD130AFAC45F4074C0FE997B8887606DA.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/Level/DebugMap.umap'
+[2025.10.05-03.32.39:206][910]LogFileHelpers: Saving map 'DebugMap' took 0.054
+[2025.10.05-03.32.39:219][910]LogFileHelpers: InternalPromptForCheckoutAndSave took 126 ms (total: 18.6 sec)
+[2025.10.05-03.32.39:224][910]AssetCheck: New page: Asset Save: DebugMap
+[2025.10.05-03.32.39:224][910]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level/DebugMap.DebugMap
+[2025.10.05-03.36.13:396][910]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 38301.269531
+[2025.10.05-03.36.14:392][913]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.05-03.36.14:392][913]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 38301.937500, Update Interval: 338.171326
+[2025.10.05-03.42.29:118][ 37]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 38676.929688
+[2025.10.05-03.42.30:117][ 40]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.05-03.42.30:117][ 40]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 38677.597656, Update Interval: 312.114624
+[2025.10.05-03.48.27:517][112]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 39035.285156
+[2025.10.05-03.48.28:514][115]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.05-03.48.28:514][115]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 39035.949219, Update Interval: 354.036072
+[2025.10.05-03.55.11:595][324]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 39439.296875
+[2025.10.05-03.55.12:600][327]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.05-03.55.12:600][327]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 39439.964844, Update Interval: 337.449890
+[2025.10.05-03.56.19:513][527]LogDerivedDataCache: C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.052 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1831 files in 2876 folders with total size 100 MiB.
+[2025.10.05-04.01.32:006][465]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 39819.671875
+[2025.10.05-04.01.33:001][468]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.05-04.01.33:001][468]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 39820.339844, Update Interval: 348.605011
+[2025.10.05-04.08.17:070][680]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 40224.710938
+[2025.10.05-04.08.18:073][683]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.05-04.08.18:073][683]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 40225.375000, Update Interval: 320.023193
+[2025.10.05-04.14.17:129][760]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 40584.640625
+[2025.10.05-04.14.18:125][763]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.05-04.14.18:125][763]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 40585.308594, Update Interval: 345.995667
+[2025.10.05-04.20.39:865][908]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 40967.285156
+[2025.10.05-04.20.40:863][911]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.05-04.20.40:863][911]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 40967.953125, Update Interval: 344.314697
+[2025.10.05-04.27.24:937][123]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 41372.328125
+[2025.10.05-04.27.26:265][127]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.05-04.27.26:266][127]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 41373.324219, Update Interval: 333.093658
+[2025.10.05-04.33.32:366][220]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 41737.953125
+[2025.10.05-04.33.33:366][223]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.05-04.33.33:366][223]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 41738.617188, Update Interval: 351.860718
+[2025.10.05-04.40.01:435][387]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 42126.980469
+[2025.10.05-04.40.02:430][390]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.05-04.40.02:430][390]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 42127.640625, Update Interval: 320.050659
+[2025.10.05-04.44.38:135][217]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: c04...320
+[2025.10.05-04.44.38:135][217]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.93 RefreshExpires: 1.551e+07
+[2025.10.05-04.44.39:468][221]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: c04...320 Access[Expires: 2025.10.05-06.44.38 Remaining: 7200.69] Refresh[Expires: 2026-04-02T16:54:30.319Z Remaining: 15509392.32] State: Valid
+[2025.10.05-04.45.54:472][446]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 42479.585938
+[2025.10.05-04.45.55:472][449]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.05-04.45.55:473][449]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 42480.250000, Update Interval: 340.809967
+[2025.10.05-04.52.14:507][586]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 42858.730469
+[2025.10.05-04.52.15:507][589]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.05-04.52.15:507][589]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 42859.394531, Update Interval: 351.225311
+[2025.10.05-04.56.21:224][326]LogDerivedDataCache: C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.070 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1831 files in 2876 folders with total size 100 MiB.
+[2025.10.05-04.59.04:543][816]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 43267.835938
+[2025.10.05-04.59.05:544][819]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.05-04.59.05:544][819]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 43268.500000, Update Interval: 359.344452
+[2025.10.05-05.05.40:254][  3]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 43662.566406
+[2025.10.05-05.05.41:586][  7]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.05-05.05.41:586][  7]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 43663.562500, Update Interval: 340.914337
+[2025.10.05-05.12.00:294][143]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 44041.929688
+[2025.10.05-05.12.01:294][146]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.05-05.12.01:294][146]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 44042.597656, Update Interval: 302.329163
+[2025.10.05-05.17.48:003][186]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 44388.957031
+[2025.10.05-05.17.49:001][189]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.05-05.17.49:001][189]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 44389.621094, Update Interval: 358.289734
+[2025.10.05-05.24.29:384][390]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 44789.617188
+[2025.10.05-05.24.30:384][393]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.05-05.24.30:384][393]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 44790.285156, Update Interval: 330.592377
+[2025.10.05-05.30.48:093][526]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 45167.734375
+[2025.10.05-05.30.49:093][529]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.05-05.30.49:093][529]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 45168.402344, Update Interval: 335.847656
+[2025.10.05-05.36.58:305][711]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 45537.347656
+[2025.10.05-05.36.59:304][714]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.05-05.36.59:304][714]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 45538.011719, Update Interval: 302.188171
+[2025.10.05-05.37.43:309][985]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.10.05-05.37.44:728][135]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Template/VRTemplate/Blueprints/VRPawn.VRPawn
+[2025.10.05-05.37.44:729][135]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.10.05-05.37.44:729][135]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.10.05-05.37.44:889][135]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.10.05-05.38.05:426][378]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.05-05.38.05:608][378]LogSavePackage: Moving output files for package: /Game/Player/BP_PlayerCharacter
+[2025.10.05-05.38.05:608][378]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/BP_PlayerCharacter9DFDFAE045058A3AA3F41995F60E283A.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/Player/BP_PlayerCharacter.uasset'
+[2025.10.05-05.38.05:620][378]LogFileHelpers: InternalPromptForCheckoutAndSave took 194 ms (total: 18.8 sec)
+[2025.10.05-05.38.05:625][378]AssetCheck: New page: Asset Save: BP_PlayerCharacter
+[2025.10.05-05.38.05:625][378]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/BP_PlayerCharacter.BP_PlayerCharacter
+[2025.10.05-05.38.06:821][520]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.05-05.38.06:959][520]LogSavePackage: Moving output files for package: /Game/Player/BP_PlayerCharacter
+[2025.10.05-05.38.06:960][520]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/BP_PlayerCharacter6C1A9D414C89E42E1961EC87A6127855.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/Player/BP_PlayerCharacter.uasset'
+[2025.10.05-05.38.06:967][520]LogFileHelpers: InternalPromptForCheckoutAndSave took 145 ms (total: 18.9 sec)
+[2025.10.05-05.38.06:969][520]AssetCheck: New page: Asset Save: BP_PlayerCharacter
+[2025.10.05-05.38.06:970][520]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/BP_PlayerCharacter.BP_PlayerCharacter
+[2025.10.05-05.38.18:792][912]LogEditorClassViewer: Warning: Class /Game/Template/VRTemplate/Blueprints/VRPawn.PLACEHOLDER-CLASS__B_MannequinsXR_C_0 has parent , but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.10.05-05.38.18:792][912]LogEditorClassViewer: Warning: Class /Game/Template/VRTemplate/Blueprints/VRPawn.PLACEHOLDER-CLASS__VRTeleportVisualizer_C_1 has parent , but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.10.05-05.38.18:792][912]LogEditorClassViewer: Warning: Class /Game/Template/VRTemplate/Blueprints/VRPawn.PLACEHOLDER-CLASS__GrabComponent_C_2 has parent , but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.10.05-05.38.18:792][912]LogEditorClassViewer: Warning: Class /Game/Template/VRTemplate/Blueprints/VRPawn.PLACEHOLDER-CLASS__Menu_C_3 has parent , but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.10.05-05.38.18:792][912]LogEditorClassViewer: Warning: Class /Game/Template/VRTemplate/Blueprints/VRPawn.PLACEHOLDER-CLASS__ABP_MannequinsXR_C_4 has parent , but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.10.05-05.39.02:304][335]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2025.10.05-05.39.02:309][335]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level/DebugMap' took 0.034
+[2025.10.05-05.39.02:309][335]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Player/BP_PlayerCharacter] ([2] browsable assets)...
+[2025.10.05-05.39.02:309][335]OBJ SavePackage: Finished generating thumbnails for package [/Game/Player/BP_PlayerCharacter]
+[2025.10.05-05.39.02:368][335]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Player/BP_PlayerCharacter_Auto3
+[2025.10.05-05.39.02:369][335]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/BP_PlayerCharacter_Auto3B11D6EFB4A53D7CABD5792BF1FA77A36.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/Autosaves/Game/Player/BP_PlayerCharacter_Auto3.uasset'
+[2025.10.05-05.39.02:370][335]LogFileHelpers: Auto-saving content packages took 0.062
+[2025.10.05-05.42.59:580][ 48]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 45895.277344
+[2025.10.05-05.43.00:581][ 51]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.05-05.43.00:581][ 51]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 45895.945312, Update Interval: 310.292664
+[2025.10.05-05.49.00:986][132]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 46256.613281
+[2025.10.05-05.49.02:316][136]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.05-05.49.02:316][136]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 46257.609375, Update Interval: 309.730530
+[2025.10.05-05.55.11:371][243]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 46626.996094
+[2025.10.05-05.55.12:706][247]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.05-05.55.12:706][247]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 46628.000000, Update Interval: 335.847656
+[2025.10.05-05.56.20:226][449]LogDerivedDataCache: C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.072 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1831 files in 2876 folders with total size 100 MiB.
+[2025.10.05-06.01.47:104][430]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 47022.730469
+[2025.10.05-06.01.48:107][433]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.05-06.01.48:107][433]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 47023.394531, Update Interval: 322.980438
+[2025.10.05-06.08.06:172][567]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 47401.707031
+[2025.10.05-06.08.07:171][570]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.05-06.08.07:171][570]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 47402.367188, Update Interval: 359.307831
+[2025.10.05-06.15.05:575][825]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 47821.128906
+[2025.10.05-06.15.06:571][828]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.05-06.15.06:571][828]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 47821.796875, Update Interval: 345.671570
+[2025.10.05-06.21.49:303][ 36]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 48224.777344
+[2025.10.05-06.21.50:306][ 39]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.05-06.21.50:306][ 39]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 48225.445312, Update Interval: 309.851379
+[2025.10.05-06.27.35:031][ 73]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 48570.500000
+[2025.10.05-06.27.36:031][ 76]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.05-06.27.36:032][ 76]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 48571.164062, Update Interval: 338.603485
+[2025.10.05-06.34.08:756][254]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 48964.195312
+[2025.10.05-06.34.10:086][258]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.05-06.34.10:086][258]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 48965.191406, Update Interval: 358.330017
+[2025.10.05-06.40.47:152][449]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 49362.511719
+[2025.10.05-06.40.48:145][452]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.05-06.40.48:145][452]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 49363.175781, Update Interval: 312.262939
+[2025.10.05-06.42.59:169][845]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: c04...320
+[2025.10.05-06.42.59:169][845]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.69 RefreshExpires: 1.55e+07
+[2025.10.05-06.43.00:502][849]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: c04...320 Access[Expires: 2025.10.05-08.42.59 Remaining: 7200.79] Refresh[Expires: 2026-04-02T16:54:30.319Z Remaining: 15502291.32] State: Valid
+[2025.10.05-06.46.34:867][492]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 49710.148438
+[2025.10.05-06.46.35:872][495]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.05-06.46.35:872][495]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 49710.812500, Update Interval: 354.962616
+[2025.10.05-06.51.10:846][887]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2025.10.05-06.51.10:911][887]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2025.10.05-06.51.42:113][516]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.05-06.51.42:203][516]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.10.05-06.51.42:219][516]LogSavePackage: Moving output files for package: /Game/Level/DebugMap
+[2025.10.05-06.51.42:220][516]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/DebugMap738E5F724ADAD7BC32941E86C98314A5.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/Level/DebugMap.umap'
+[2025.10.05-06.51.42:227][516]LogFileHelpers: Saving map 'DebugMap' took 0.050
+[2025.10.05-06.51.42:235][516]LogFileHelpers: InternalPromptForCheckoutAndSave took 121 ms (total: 19.0 sec)
+[2025.10.05-06.51.42:236][516]AssetCheck: New page: Asset Save: DebugMap
+[2025.10.05-06.51.42:236][516]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level/DebugMap.DebugMap
+[2025.10.05-06.51.47:742][161]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.05-06.51.47:820][161]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.10.05-06.51.47:830][161]LogSavePackage: Moving output files for package: /Game/Level/DebugMap
+[2025.10.05-06.51.47:831][161]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/DebugMap1A34698148E8CF7392E9DF92DFD55301.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/Level/DebugMap.umap'
+[2025.10.05-06.51.47:837][161]LogFileHelpers: Saving map 'DebugMap' took 0.043
+[2025.10.05-06.51.47:846][161]LogFileHelpers: InternalPromptForCheckoutAndSave took 103 ms (total: 19.1 sec)
+[2025.10.05-06.51.47:848][161]AssetCheck: New page: Asset Save: DebugMap
+[2025.10.05-06.51.47:848][161]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level/DebugMap.DebugMap
+[2025.10.05-06.51.52:396][689]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.05-06.51.52:468][689]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.10.05-06.51.52:478][689]LogSavePackage: Moving output files for package: /Game/Level/DebugMap
+[2025.10.05-06.51.52:479][689]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/DebugMap6A3896594626879C6BC8EDA0013FDEEA.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/Level/DebugMap.umap'
+[2025.10.05-06.51.52:485][689]LogFileHelpers: Saving map 'DebugMap' took 0.042
+[2025.10.05-06.51.52:494][689]LogFileHelpers: InternalPromptForCheckoutAndSave took 97 ms (total: 19.2 sec)
+[2025.10.05-06.51.52:497][689]AssetCheck: New page: Asset Save: DebugMap
+[2025.10.05-06.51.52:497][689]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level/DebugMap.DebugMap
+[2025.10.05-06.52.03:830][950]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.05-06.52.03:910][950]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.10.05-06.52.03:920][950]LogSavePackage: Moving output files for package: /Game/Level/DebugMap
+[2025.10.05-06.52.03:921][950]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/DebugMapD0B69CD74C963F5073116B8D9EF51270.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/Level/DebugMap.umap'
+[2025.10.05-06.52.03:928][950]LogFileHelpers: Saving map 'DebugMap' took 0.046
+[2025.10.05-06.52.03:936][950]LogFileHelpers: InternalPromptForCheckoutAndSave took 106 ms (total: 19.3 sec)
+[2025.10.05-06.52.03:938][950]AssetCheck: New page: Asset Save: DebugMap
+[2025.10.05-06.52.03:938][950]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level/DebugMap.DebugMap
+[2025.10.05-06.52.05:276][102]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.05-06.52.05:357][102]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.10.05-06.52.05:367][102]LogSavePackage: Moving output files for package: /Game/Level/DebugMap
+[2025.10.05-06.52.05:368][102]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/DebugMapCB5DED18435C2FDA430D9FAF1AE424F0.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/Level/DebugMap.umap'
+[2025.10.05-06.52.05:376][102]LogFileHelpers: Saving map 'DebugMap' took 0.045
+[2025.10.05-06.52.05:384][102]LogFileHelpers: InternalPromptForCheckoutAndSave took 108 ms (total: 19.4 sec)
+[2025.10.05-06.52.05:387][102]AssetCheck: New page: Asset Save: DebugMap
+[2025.10.05-06.52.05:387][102]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level/DebugMap.DebugMap
+[2025.10.05-06.52.09:165][544]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.05-06.52.09:235][544]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.10.05-06.52.09:245][544]LogSavePackage: Moving output files for package: /Game/Level/DebugMap
+[2025.10.05-06.52.09:246][544]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/DebugMapC2FABD0548636A63E6FB09BC02939A65.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/Level/DebugMap.umap'
+[2025.10.05-06.52.09:252][544]LogFileHelpers: Saving map 'DebugMap' took 0.040
+[2025.10.05-06.52.09:260][544]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 19.5 sec)
+[2025.10.05-06.52.09:261][544]AssetCheck: New page: Asset Save: DebugMap
+[2025.10.05-06.52.09:261][544]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level/DebugMap.DebugMap
+[2025.10.05-06.52.10:373][670]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.05-06.52.10:448][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.10.05-06.52.10:457][670]LogSavePackage: Moving output files for package: /Game/Level/DebugMap
+[2025.10.05-06.52.10:458][670]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/DebugMap070B781C466F7A5FBC25A3B8B7B7F247.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/Level/DebugMap.umap'
+[2025.10.05-06.52.10:466][670]LogFileHelpers: Saving map 'DebugMap' took 0.042
+[2025.10.05-06.52.10:475][670]LogFileHelpers: InternalPromptForCheckoutAndSave took 102 ms (total: 19.6 sec)
+[2025.10.05-06.52.10:478][670]AssetCheck: New page: Asset Save: DebugMap
+[2025.10.05-06.52.10:478][670]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level/DebugMap.DebugMap
+[2025.10.05-06.52.13:020][967]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.05-06.52.13:096][967]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.10.05-06.52.13:106][967]LogSavePackage: Moving output files for package: /Game/Level/DebugMap
+[2025.10.05-06.52.13:107][967]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/DebugMap7177C3D343425DD252EE258FAB04BF09.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/Level/DebugMap.umap'
+[2025.10.05-06.52.13:114][967]LogFileHelpers: Saving map 'DebugMap' took 0.041
+[2025.10.05-06.52.13:124][967]LogFileHelpers: InternalPromptForCheckoutAndSave took 103 ms (total: 19.7 sec)
+[2025.10.05-06.52.13:126][967]AssetCheck: New page: Asset Save: DebugMap
+[2025.10.05-06.52.13:126][967]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level/DebugMap.DebugMap
+[2025.10.05-06.53.08:854][928]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 50099.964844
+[2025.10.05-06.53.09:854][931]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.05-06.53.09:854][931]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 50100.640625, Update Interval: 338.114563
+[2025.10.05-06.56.21:232][505]LogDerivedDataCache: C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.078 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1831 files in 2876 folders with total size 100 MiB.
+[2025.10.05-06.59.31:254][ 75]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 50482.328125
+[2025.10.05-06.59.32:247][ 78]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.05-06.59.32:247][ 78]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 50483.000000, Update Interval: 349.125031
+[2025.10.05-07.02.13:349][560]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.10.05-07.02.13:350][560]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level/DebugMap' took 0.013
+[2025.10.05-07.02.13:351][560]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Player/BP_PlayerCharacter] ([2] browsable assets)...
+[2025.10.05-07.02.13:528][560]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Player/BP_PlayerCharacter.BP_PlayerCharacter]
+[2025.10.05-07.02.13:528][560]OBJ SavePackage: Finished generating thumbnails for package [/Game/Player/BP_PlayerCharacter]
+[2025.10.05-07.02.13:589][560]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Player/BP_PlayerCharacter_Auto4
+[2025.10.05-07.02.13:590][560]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/BP_PlayerCharacter_Auto40AB1730946F80945193EC199A72CCB51.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/Autosaves/Game/Player/BP_PlayerCharacter_Auto4.uasset'
+[2025.10.05-07.02.13:591][560]LogFileHelpers: Auto-saving content packages took 0.241
+[2025.10.05-07.06.17:651][294]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 50888.636719
+[2025.10.05-07.06.18:654][297]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.05-07.06.18:654][297]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 50889.300781, Update Interval: 347.248138
+[2025.10.05-07.12.40:044][441]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 51270.906250
+[2025.10.05-07.12.41:041][444]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.05-07.12.41:041][444]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 51271.574219, Update Interval: 359.311493
+[2025.10.05-07.19.19:454][639]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 51670.250000
+[2025.10.05-07.19.20:451][642]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.05-07.19.20:451][642]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 51670.921875, Update Interval: 348.149048
+[2025.10.05-07.26.05:509][857]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 52075.656250
+[2025.10.05-07.26.06:509][860]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.05-07.26.06:509][860]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 52076.324219, Update Interval: 306.533417
+[2025.10.05-07.31.49:220][888]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 52418.769531
+[2025.10.05-07.31.50:218][891]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.05-07.31.50:218][891]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 52419.433594, Update Interval: 309.974060
+[2025.10.05-07.37.33:947][922]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 52762.949219
+[2025.10.05-07.37.34:944][925]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.05-07.37.34:944][925]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 52763.613281, Update Interval: 337.947937
+[2025.10.05-07.43.53:524][113]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 53141.980469
+[2025.10.05-07.43.54:525][116]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.05-07.43.54:525][116]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 53142.644531, Update Interval: 339.832153
+[2025.10.05-07.50.22:726][323]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 53530.554688
+[2025.10.05-07.50.23:725][326]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.05-07.50.23:725][326]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 53531.222656, Update Interval: 301.929993
+[2025.10.05-07.56.12:772][373]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 53880.074219
+[2025.10.05-07.56.13:772][376]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.05-07.56.13:772][376]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 53880.738281, Update Interval: 313.021027
+[2025.10.05-07.56.21:207][398]LogDerivedDataCache: C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.053 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1831 files in 2876 folders with total size 100 MiB.
+[2025.10.05-08.02.14:151][457]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 54240.996094
+[2025.10.05-08.02.17:152][466]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.05-08.02.17:152][466]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 54243.656250, Update Interval: 335.347748
+[2025.10.05-08.08.48:210][639]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 54634.414062
+[2025.10.05-08.08.49:209][642]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.05-08.08.49:209][642]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 54635.078125, Update Interval: 313.420197
+[2025.10.05-08.15.00:927][757]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 55006.437500
+[2025.10.05-08.15.02:261][761]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.05-08.15.02:261][761]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 55007.437500, Update Interval: 341.868347
+[2025.10.05-08.21.42:975][963]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 55407.804688
+[2025.10.05-08.21.44:645][968]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.05-08.21.44:645][968]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 55409.140625, Update Interval: 333.329865
+[2025.10.05-08.27.49:364][ 62]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 55773.660156
+[2025.10.05-08.27.50:361][ 65]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.05-08.27.50:361][ 65]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 55774.324219, Update Interval: 305.711243
+[2025.10.05-08.33.27:075][ 75]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 56110.777344
+[2025.10.05-08.33.28:075][ 78]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.05-08.33.28:075][ 78]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 56111.441406, Update Interval: 352.212280
+[2025.10.05-08.40.08:809][280]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 56511.941406
+[2025.10.05-08.40.10:141][284]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.05-08.40.10:141][284]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 56512.937500, Update Interval: 355.209808
+[2025.10.05-08.41.20:595][532]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: c04...320
+[2025.10.05-08.41.20:595][532]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.68 RefreshExpires: 1.55e+07
+[2025.10.05-08.41.21:929][536]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: c04...320 Access[Expires: 2025.10.05-10.41.21 Remaining: 7200.30] Refresh[Expires: 2026-04-02T16:54:30.319Z Remaining: 15495189.32] State: Valid
+[2025.10.05-08.46.44:632][504]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 56907.070312
+[2025.10.05-08.46.45:632][507]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.05-08.46.45:632][507]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 56907.734375, Update Interval: 323.650635
+[2025.10.05-08.52.43:014][579]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 57264.964844
+[2025.10.05-08.52.44:348][583]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.05-08.52.44:348][583]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 57265.960938, Update Interval: 300.518219
+[2025.10.05-08.56.20:235][230]LogDerivedDataCache: C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.079 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1831 files in 2876 folders with total size 100 MiB.
+[2025.10.05-08.58.27:064][611]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 57608.476562
+[2025.10.05-08.58.28:063][614]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.05-08.58.28:063][614]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 57609.140625, Update Interval: 349.952698
+[2025.10.05-09.05.07:118][811]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 58007.925781
+[2025.10.05-09.05.08:119][814]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.05-09.05.08:119][814]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 58008.589844, Update Interval: 319.927979
+[2025.10.05-09.11.03:172][879]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 58363.359375
+[2025.10.05-09.11.04:171][882]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.05-09.11.04:171][882]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 58364.023438, Update Interval: 333.714417
+[2025.10.05-09.17.09:558][978]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 58729.316406
+[2025.10.05-09.17.10:889][982]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.05-09.17.10:889][982]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 58730.316406, Update Interval: 359.062469
+[2025.10.05-09.24.03:944][221]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 59143.160156
+[2025.10.05-09.24.04:944][224]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.05-09.24.04:944][224]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 59143.824219, Update Interval: 345.775940
+[2025.10.05-09.30.43:997][421]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 59542.679688
+[2025.10.05-09.30.45:000][424]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.05-09.30.45:000][424]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 59543.347656, Update Interval: 337.405914
+[2025.10.05-09.37.21:393][613]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 59939.222656
+[2025.10.05-09.37.22:393][616]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.05-09.37.22:393][616]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 59939.894531, Update Interval: 338.903778
+[2025.10.05-09.43.32:113][725]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 60309.410156
+[2025.10.05-09.43.33:113][728]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.05-09.43.33:113][728]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 60310.074219, Update Interval: 346.504700
+[2025.10.05-09.50.15:505][935]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 60712.101562
+[2025.10.05-09.50.16:505][938]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.05-09.50.16:505][938]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 60712.765625, Update Interval: 326.606049
+[2025.10.05-09.56.21:248][ 32]LogDerivedDataCache: C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.091 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1831 files in 2876 folders with total size 100 MiB.
+[2025.10.05-09.56.30:228][ 59]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 61086.035156
+[2025.10.05-09.56.31:227][ 62]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.05-09.56.31:227][ 62]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 61086.699219, Update Interval: 354.222839
+[2025.10.05-10.03.19:948][288]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 61495.324219
+[2025.10.05-10.03.20:949][291]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.05-10.03.20:949][291]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 61495.988281, Update Interval: 316.423218
+[2025.10.05-10.09.10:991][341]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 61845.859375
+[2025.10.05-10.09.11:991][344]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.05-10.09.11:991][344]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 61846.523438, Update Interval: 339.421967
+[2025.10.05-10.15.30:385][479]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 62224.789062
+[2025.10.05-10.15.31:722][483]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.05-10.15.31:722][483]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 62225.789062, Update Interval: 337.100128
+[2025.10.05-10.21.44:441][601]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 62598.492188
+[2025.10.05-10.21.45:441][604]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.05-10.21.45:441][604]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 62599.160156, Update Interval: 311.459076
+[2025.10.05-10.25.46:701][ 45]Cmd: EDIT COPY
+[2025.10.05-10.25.46:890][ 64]Cmd: EDIT PASTE
+[2025.10.05-10.25.51:387][519]Cmd: DELETE
+[2025.10.05-10.25.51:387][519]Cmd: ACTOR DELETE
+[2025.10.05-10.25.51:405][519]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.05-10.25.51:449][519]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2025.10.05-10.25.51:454][519]LogEditorActor: Deleted 1 Actors (0.067 secs)
+[2025.10.05-10.25.52:070][579]Cmd: DELETE
+[2025.10.05-10.25.52:070][579]Cmd: ACTOR DELETE
+[2025.10.05-10.25.52:072][579]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.05-10.25.52:085][579]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2025.10.05-10.25.52:089][579]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2025.10.05-10.25.52:866][660]Cmd: DELETE
+[2025.10.05-10.25.52:866][660]Cmd: ACTOR DELETE
+[2025.10.05-10.25.52:868][660]LogEditorActor: Deleted Actor: BP_Door_Right_C
+[2025.10.05-10.25.52:881][660]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2025.10.05-10.25.52:884][660]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2025.10.05-10.25.53:675][743]Cmd: DELETE
+[2025.10.05-10.25.53:675][743]Cmd: ACTOR DELETE
+[2025.10.05-10.25.53:676][743]LogEditorActor: Deleted Actor: BP_Door_Front_C
+[2025.10.05-10.25.53:689][743]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.10.05-10.25.53:692][743]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2025.10.05-10.25.54:439][823]Cmd: DELETE
+[2025.10.05-10.25.54:439][823]Cmd: ACTOR DELETE
+[2025.10.05-10.25.54:441][823]LogEditorActor: Deleted Actor: BP_Door_Left_C
+[2025.10.05-10.25.54:453][823]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.10.05-10.25.54:456][823]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2025.10.05-10.25.56:941][103]Cmd: MODE GRID=1
+[2025.10.05-10.25.57:908][205]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.05-10.25.58:014][205]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.10.05-10.25.58:026][205]LogSavePackage: Moving output files for package: /Game/Level/DebugMap
+[2025.10.05-10.25.58:027][205]LogSavePackage: Moving '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Saved/DebugMapC0A72135428B833282EAF99AE4F9EF9C.tmp' to '../../../../../../Users/User/Desktop/Projekr/VersionControl/OneNightAtCoonhatton-s/OneNightAtCoonhatton/Content/Level/DebugMap.umap'
+[2025.10.05-10.25.58:036][205]LogFileHelpers: Saving map 'DebugMap' took 0.051
+[2025.10.05-10.25.58:047][205]LogFileHelpers: InternalPromptForCheckoutAndSave took 139 ms (total: 19.9 sec)
+[2025.10.05-10.25.58:050][205]AssetCheck: New page: Asset Save: DebugMap
+[2025.10.05-10.25.58:050][205]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level/DebugMap.DebugMap
